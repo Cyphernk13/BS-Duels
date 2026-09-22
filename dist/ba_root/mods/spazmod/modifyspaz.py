@@ -37,6 +37,8 @@ def main(spaz, node, player):
         tag.addtag(node, player)
     if _setting['enablerank']:
         tag.addrank(node, player)
+    if _setting['enableping']:
+        tag.addping(node, spaz)
     if _setting['enableeffects']:
 		    effects.Effect(spaz, player)
     if _setting["playermod"]['default_boxing_gloves']:

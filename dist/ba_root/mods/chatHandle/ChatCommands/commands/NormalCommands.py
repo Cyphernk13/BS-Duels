@@ -290,6 +290,6 @@ def get_complaint(arguments, clientid, acid, ARGUMENTS):
                     asyncio.ensure_future(dc.send_complaint_to_channel(server_name=server, time=now, myself=myself, ign=name, useracid=acid, fign=fname, acid=pbid, linkedaccount=otheraccounts, offender=offendr, complaint=complaint))
                     
                     send("A complaint has been sent on the Discord server. Please wait for Staff to take action...!!", clientid)
-                else:
-                    till = customers[acid]['expiry']
-                    send(f"You can use the complaint command again at {till}", clientid)
+                # else:
+                #     till = customers[acid]['expiry']
+                #     send(f"You can use the complaint command again at {till}", clientid)

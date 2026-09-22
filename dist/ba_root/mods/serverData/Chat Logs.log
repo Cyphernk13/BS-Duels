@@ -368,3 +368,25 @@
 2026-09-21 21:03:55 + : Host msg: | Success! That cost you 750 
 2026-09-21 21:05:10 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | ping 
 2026-09-21 21:05:13 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /ping 
+2026-09-22 14:13:59 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | hi 
+2026-09-22 14:14:13 + : Host msg: | hi bro 
+2026-09-22 14:14:51 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /comp  
+2026-09-22 14:14:51 + : Host msg: | Using: /comp [Clientid of offender] [complaint reason] 
+2026-09-22 14:15:11 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /comp -1 ukv 
+2026-09-22 14:15:39 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /comp 113 ukv 
+2026-09-22 14:15:39 + : Host msg: | You can't file a complaint against yourself. 
+2026-09-22 14:16:37 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /comp 114 ukv 
+2026-09-22 14:16:37 + : Host msg: | You can't file a complaint against yourself. 
+2026-09-22 14:17:46 + : pb-IF4MVFI6Bw==  |  impu| impu | /comp 113 ukv 
+2026-09-22 14:17:46 + : Host msg: | A complaint has been sent on the Discord server. Please wait for Staff to take action...!! 
+2026-09-22 14:25:10 + : pb-IF4MVFI6Bw==  |  impu| impu | heloooo 
+2026-09-22 14:25:49 + : Host msg: | sup 
+2026-09-22 14:26:14 + : pb-IF4MVFI6Bw==  |  impu| impu | /me 
+2026-09-22 14:26:14 + : Host msg: | | Name: impu 
+2026-09-22 14:26:14 + : Host msg: | | PB-ID: pb-IF4MVFI6Bw== 
+2026-09-22 14:26:14 + : Host msg: | | Tickets: 999999999 
+2026-09-22 14:26:14 + : Host msg: | | Rank: 1 
+2026-09-22 14:26:14 + : Host msg: | | Score: 588 
+2026-09-22 14:26:14 + : Host msg: | | Games: 21 
+2026-09-22 14:26:14 + : Host msg: | | Kills: 22 
+2026-09-22 14:26:14 + : Host msg: | | Deaths: 8 

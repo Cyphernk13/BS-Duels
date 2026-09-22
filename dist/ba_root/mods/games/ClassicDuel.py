@@ -14,8 +14,7 @@ from bastd.actor.scoreboard import Scoreboard
 from bastd.game.elimination import Icon
 
 if TYPE_CHECKING:
-    from typing import Any, Sequence
-
+    from typing import Any, Sequence, List
 
 lang = ba.app.lang.language
 if lang == 'Spanish':
@@ -109,6 +108,7 @@ class DuelClassicGame(ba.TeamGameActivity[Player, Team]):
         self._kills_to_win_per_player = int(
             settings['Kills to Win Per Player'])
         self._enable_powerups = bool(settings[enable_powerups])
+        self._last_spawn_pos: ba.Vec3 | None = None
 
         # Base class overrides.
         self.slow_motion = self._epic_mode
@@ -149,27 +149,29 @@ class DuelClassicGame(ba.TeamGameActivity[Player, Team]):
         self.setup_standard_time_limit(self._time_limit)
         if self._enable_powerups:
             self.setup_standard_powerup_drops()
+        
+        # VS Text
         self._vs_text = ba.NodeActor(
-        ba.newnode('text',
-                   attrs={
-                       'position': (0, 105),
-                       'h_attach': 'center',
-                       'h_align': 'center',
-                       'maxwidth': 200,
-                       'shadow': 0.5,
-                       'vr_depth': 390,
-                       'scale': 0.6,
-                       'v_attach': 'bottom',
-                       'color': (0.8, 0.8, 0.3, 1.0),
-                       'text': ba.Lstr(resource='vsText')
-                   }))
+            ba.newnode('text',
+                       attrs={
+                           'position': (0, 105),
+                           'h_attach': 'center',
+                           'h_align': 'center',
+                           'maxwidth': 200,
+                           'shadow': 0.5,
+                           'vr_depth': 390,
+                           'scale': 0.6,
+                           'v_attach': 'bottom',
+                           'color': (0.8, 0.8, 0.3, 1.0),
+                           'text': ba.Lstr(resource='vsText')
+                       }))
 
         # Base kills needed to win on the size of the largest team.
         self._score_to_win = (self._kills_to_win_per_player *
                               max(1, max(len(t.players) for t in self.teams)))
         self._update_scoreboard()
 
-    def spawn_player(self, player: PlayerType) -> ba.Actor:
+    def spawn_player(self, player: Player) -> ba.Actor:
         spaz = self.spawn_player_spaz(player, self._get_spawn_point(player))
         spaz.equip_boxing_gloves()
         return spaz
@@ -183,32 +185,30 @@ class DuelClassicGame(ba.TeamGameActivity[Player, Team]):
                 self.spawn_player(player)
 
     def _get_spawn_point(self, player: Player) -> ba.Vec3 | None:
-        del player  # Unused.
+        points: list[ba.Vec3] = []
+        for team in self.teams:
+            points.append(ba.Vec3(self.map.get_start_position(team.id)))
 
-        # In solo-mode, if there's an existing live player on the map, spawn at
-        # whichever spot is farthest from them (keeps the action spread out).
-        living_player = None
-        living_player_pos = None
+        reference_pos = None
         for team in self.teams:
             for tplayer in team.players:
-                if tplayer.is_alive():
-                    assert tplayer.node
-                    ppos = tplayer.node.position
-                    living_player = tplayer
-                    living_player_pos = ppos
+                if tplayer.is_alive() and tplayer.node:
+                    reference_pos = ba.Vec3(tplayer.node.position)
                     break
-        if living_player:
-            assert living_player_pos is not None
-            player_pos = ba.Vec3(living_player_pos)
-            points: list[tuple[float, ba.Vec3]] = []
-            for team in self.teams:
-                start_pos = ba.Vec3(self.map.get_start_position(team.id))
-                points.append(
-                    ((start_pos - player_pos).length(), start_pos))
-            # Hmm.. we need to sorting vectors too?
-            points.sort(key=lambda x: x[0])
-            return points[-1][1]
-        return None
+        
+        if not reference_pos and self._last_spawn_pos:
+            reference_pos = self._last_spawn_pos
+
+        if reference_pos and points:
+            points.sort(key=lambda x: (x - reference_pos).length())
+            chosen = points[-1]
+        elif points:
+            chosen = points[0]
+        else:
+            return None
+            
+        self._last_spawn_pos = chosen
+        return chosen
 
     def _update_order(self) -> None:
         for player in self.spawn_order:
@@ -229,18 +229,14 @@ class DuelClassicGame(ba.TeamGameActivity[Player, Team]):
                 self._update_icons()
 
     def _update_icons(self) -> None:
-        # pylint: disable=too-many-branches
-
         for player in self.players:
             player.icons = []
 
             if player.in_game:
                 if player.playervs1:
                     xval = -60
-                    x_offs = -78
                 elif player.playervs2:
                     xval = 60
-                    x_offs = 78
                 player.icons.append(
                     Icon(player,
                          position=(xval, 40),
@@ -280,10 +276,7 @@ class DuelClassicGame(ba.TeamGameActivity[Player, Team]):
                     xval2 -= x_offs * 0.56
 
     def handlemessage(self, msg: Any) -> Any:
-
         if isinstance(msg, ba.PlayerDiedMessage):
-
-            # Augment standard behavior.
             super().handlemessage(msg)
 
             player = msg.getplayer(Player)
@@ -304,29 +297,21 @@ class DuelClassicGame(ba.TeamGameActivity[Player, Team]):
             if killer is None:
                 return None
 
-            # Handle team-kills.
             if killer.team is player.team:
-
-                # In free-for-all, killing yourself loses you a point.
                 if isinstance(self.session, ba.FreeForAllSession):
                     new_score = player.team.score - 1
                     if not self._allow_negative_scores:
                         new_score = max(0, new_score)
                     player.team.score = new_score
-
-                # In teams-mode it gives a point to the other team.
                 else:
                     ba.playsound(self._dingsound)
                     for team in self.teams:
                         if team is not killer.team:
                             team.score += 1
-
-            # Killing someone on another team nets a kill.
             else:
                 killer.team.score += 1
                 ba.playsound(self._dingsound)
 
-                # In FFA show scores since its hard to find on the scoreboard.
                 if isinstance(killer.actor, PlayerSpaz) and killer.actor:
                     killer.actor.set_score_text(str(killer.team.score) + '/' +
                                                 str(self._score_to_win),
@@ -335,9 +320,6 @@ class DuelClassicGame(ba.TeamGameActivity[Player, Team]):
 
             self._update_scoreboard()
 
-            # If someone has won, set a timer to end shortly.
-            # (allows the dust to clear and draws to occur if deaths are
-            # close enough)
             assert self._score_to_win is not None
             if any(team.score >= self._score_to_win for team in self.teams):
                 ba.timer(0.5, self.end_game)

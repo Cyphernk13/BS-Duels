@@ -192,7 +192,7 @@
   "Auxil"
  ],
  "Default Player Profiles": {
-  "Client Input Device #1": "\ud835\udc6a\ufe0e\ud835\udc9a\ud835\udc91\ufe0e\ud835\udc89\ud835\udc86\ufe0e\ud835\udc93",
+  "Client Input Device #1": "__account__",
   "Client Input Device #10": "\ua9c1\ud83d\udcab\u2022NFR\u2022\ud83d\udcab\ua9c2",
   "Client Input Device #2": "__account__",
   "Client Input Device #3": "__account__",
@@ -205,22 +205,91 @@
  },
  "Fleet Zone Pings": {
   "prod": {
-   "bangkok": 117.48470600014116,
-   "delhi": 6.1631226919867,
-   "hong_kong": 115.05355200006306,
-   "hyderabad": 52.56607496999777,
-   "kolkata": 31.171385262117838,
-   "kuala_lampur": 88.931479467999,
-   "mumbai": 29.578605253995647,
-   "singapore": 80.34152711992283,
-   "taipei": 142.69753799999307,
-   "tel_aviv": 224.0403769999375
+   "bangkok": 104.29205300005151,
+   "delhi": 17.283894909983474,
+   "hong_kong": 123.93130999998903,
+   "hyderabad": 51.92486034602507,
+   "kolkata": 46.12038217196766,
+   "kuala_lampur": 103.02080299999261,
+   "mumbai": 37.50402497997618,
+   "singapore": 76.43627300001299,
+   "taipei": 124.9606480000125,
+   "tel_aviv": 229.9113729999931
   }
  },
  "Free-for-All Max Players": 25,
- "Free-for-All Playlist Randomize": false,
+ "Free-for-All Playlist Randomize": true,
  "Free-for-All Playlist Selection": "ServerModePlaylist",
- "Free-for-All Playlists": {},
+ "Free-for-All Playlists": {
+  "ServerModePlaylist": [
+   {
+    "settings": {
+     "Allow Negative Scores": false,
+     "Enable Powerups": true,
+     "Epic Mode": true,
+     "Kills to Win Per Player": 10,
+     "Time Limit": 0,
+     "map": "Monkey Face"
+    },
+    "type": "ClassicDuel.DuelClassicGame"
+   },
+   {
+    "settings": {
+     "Allow Negative Scores": false,
+     "Enable Powerups": true,
+     "Epic Mode": true,
+     "Kills to Win Per Player": 10,
+     "Time Limit": 0,
+     "map": "Rampage"
+    },
+    "type": "ClassicDuel.DuelClassicGame"
+   },
+   {
+    "settings": {
+     "Allow Negative Scores": false,
+     "Enable Powerups": true,
+     "Epic Mode": true,
+     "Kills to Win Per Player": 10,
+     "Time Limit": 0,
+     "map": "The Pad"
+    },
+    "type": "ClassicDuel.DuelClassicGame"
+   },
+   {
+    "settings": {
+     "Allow Negative Scores": false,
+     "Enable Powerups": true,
+     "Epic Mode": true,
+     "Kills to Win Per Player": 10,
+     "Time Limit": 0,
+     "map": "Courtyard"
+    },
+    "type": "ClassicDuel.DuelClassicGame"
+   },
+   {
+    "settings": {
+     "Allow Negative Scores": false,
+     "Enable Powerups": true,
+     "Epic Mode": true,
+     "Kills to Win Per Player": 10,
+     "Time Limit": 0,
+     "map": "Bridgit"
+    },
+    "type": "ClassicDuel.DuelClassicGame"
+   },
+   {
+    "settings": {
+     "Allow Negative Scores": false,
+     "Enable Powerups": false,
+     "Epic Mode": true,
+     "Kills to Win Per Player": 10,
+     "Time Limit": 0,
+     "map": "Rampage"
+    },
+    "type": "ClassicDuel.DuelClassicGame"
+   }
+  ]
+ },
  "Idle Exit Minutes": null,
  "Local Account Name": "Server7611774",
  "PPM Settings": {
@@ -313,7 +382,7 @@
  "Team Tournament Playlist Randomize": false,
  "Team Tournament Playlist Selection": "ServerModePlaylist",
  "Team Tournament Playlists": {},
- "launchCount": 469,
+ "launchCount": 479,
  "lc14173": 1,
  "lc14292": 1
 }

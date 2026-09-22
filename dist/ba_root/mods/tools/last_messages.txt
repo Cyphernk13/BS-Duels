@@ -229,3 +229,40 @@ Host msg: | Success! That cost you 750
 pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | ping
 pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /ping
 Host msg: | Your ping 9ms 
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | hi
+Host msg: | hi bro
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /comp 
+Host msg: | Using: /comp [Clientid of offender] [complaint reason]
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /comp -1 ukv
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /comp 113 ukv
+Host msg: | You can't file a complaint against yourself.
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /comp 114 ukv
+Host msg: | You can't file a complaint against yourself.
+pb-IF4MVFI6Bw==  |  impu| impu | /comp 113 ukv
+Host msg: | A complaint has been sent on the Discord server. Please wait for Staff to take action...!!
+pb-IF4MVFI6Bw==  |  impu| impu | /acl
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /kill all
+pb-IF4MVFI6Bw==  |  impu| impu | heloooo
+Host msg: | sup
+pb-IF4MVFI6Bw==  |  impu| impu | /me
+Host msg: | | Name: impu
+Host msg: | | PB-ID: pb-IF4MVFI6Bw==
+Host msg: | | Tickets: 999999999
+Host msg: | | Rank: 1
+Host msg: | | Score: 588
+Host msg: | | Games: 21
+Host msg: | | Kills: 22
+Host msg: | | Deaths: 8
+Host msg: | | Avg.: 28.0
+pb-IF4MVFI6Bw==  |  impu| impu | /tex
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | hi everyone
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | Hloo Cypher13 ✧⁠◝⁠(⁠⁰⁠▿⁠⁰⁠)⁠◜⁠✧
+pb-IF4MVFI6Bw==  |  impu| impu | /comp 113 ukv
+Host msg: | You can use the complaint command again at 22-09-2026 05:17:46 PM
+pb-IF4MVFI6Bw==  |  impu| impu | d
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | hm
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /comp 114 UKV
+Host msg: | You can use the complaint command again at 22-09-2026 05:15:11 PM
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /kill all
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /kill me
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /kill

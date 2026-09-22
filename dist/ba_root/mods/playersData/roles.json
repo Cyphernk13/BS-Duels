@@ -10,7 +10,6 @@
             "ALL"
         ],
         "ids": [
-            "pb-IF4BUlQBJw==",
             "pb-IF4JXmhZPA=="
         ]
     },
@@ -144,7 +143,7 @@
             "ALL"
         ],
         "ids": [
-            "pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH"
+            "pb-IF4BUBEGIQ=="
         ]
     },
     "cs": {
@@ -335,7 +334,10 @@
             "playsound",
             "zm"
         ],
-        "ids": []
+        "ids": [
+            "pb-IF49XmgaBg==",
+            "pb-IF4MVFI6Bw=="
+        ]
     },
     "vip": {
         "tag": "\\d\u1d20\u026a\u1d18\\d",
@@ -428,7 +430,7 @@
         ],
         "commands": [],
         "ids": [
-            "pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH"
+            "pb-IF4JXmhZPA=="
         ]
     },
     "tourney": {

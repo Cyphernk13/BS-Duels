@@ -133,6 +133,7 @@
     "enabletags": true,
     "enablehptag": true,
     "enablerank": true,
+    "enableping": true,
     "enablestats": true,
     "enableHitTexts": true,
     "enableeffects": true,

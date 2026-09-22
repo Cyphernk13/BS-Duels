@@ -140,7 +140,7 @@ async def send_complaint_to_channel(server_name, time, myself, ign, useracid, fi
     
     complaint_message = (
         f":reminder_ribbon:**__{server_name}__\n=========================================**\n> |:arrow_right:`COMPLAINT TIME:` {time}\n> \n> |:arrow_right:`USERNAME(IGN)/ACCOUNT-ID:` {myself} ({ign})/{useracid}\n> \n"
-        f"> |:arrow_right:`OFFENDER(IGN)/ACCOUNT-ID:` {offender} ({fign})/{acid}\n> \n> |:arrow_right:`LINKED-ACCOUNTS OF OFFENDER:` {linkedaccount}\n> \n> |:arrow_right:`TYPE OF COMPLAINT:` **{complaint}**\n> __ {complaint_role} __\n**=========================================**"
+        f"> |:arrow_right:`OFFENDER(IGN)/ACCOUNT-ID:` {offender} ({fign})/{acid}\n> \n> |:arrow_right:`LINKED-ACCOUNTS OF OFFENDER:` {linkedaccount}\n> \n> |:arrow_right:`TYPE OF COMPLAINT:` **{complaint}**\n> __ <@&{complaint_role}> __\n**=========================================**"
     )
     c.update_complaint_count(useracid, myself, mongo)
     c.update_complaints_count(acid, offender, mongo)
@@ -2398,7 +2398,7 @@ async def refresh_stats():
         embed.set_footer(text="Auto updates every 10 seconds!", icon_url='https://cdn.discordapp.com/emojis/842886491533213717.gif?size=96&quality=lossless')
         await livestatsmsgs[0].edit(embed=embed)
         chat_embed = await get_chats()
-        if chat_embed.description != 'disabled':  # Only update the live chat if it's not disabled
+        if chat_embed.description != 'enabled':  # Only update the live chat if it's not disabled
             await livestatsmsgs[1].edit(embed=chat_embed)        
         await asyncio.sleep(10)
 

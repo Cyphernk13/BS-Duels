@@ -183,7 +183,7 @@
                 "Mine Bombs": 1,
                 "Impact Bombs": 3,
                 "Ice Bombs": 0,
-                "Triple": 0,
+                "Triple": 1,
                 "Sticky Bombs": 3,
                 "Curse": 1,
                 "Health": 1,
@@ -210,7 +210,7 @@
             "Mine Bombs": 1,
             "Impact Bombs": 3,
             "Ice Bombs": 0,
-            "Triple": 0,
+            "Triple": 1,
             "Sticky Bombs": 3,
             "Curse": 1,
             "Health": 1,
@@ -232,25 +232,24 @@
         }
     },
     "discordbot": {
-        "enable": false,
-        "database_name": "default",
+        "enable": true,
+        "database_name": "duelsdb",
         "token": "",
         "liveChat": true,
-        "liveStatsChannelID": 1237851459899625512,
-        "logsChannelID": 1177676398803034153,
-        "complaintChannelID": "<complaint_channel_id>",
-        "notifyChannelID": "<notify_channel_id>",
+        "liveStatsChannelID": 1551948996212301954,
+        "logsChannelID": 1551949244938854532,
+        "complaintChannelID": 1551949051967316079,
+        "notifyChannelID": 1551949171064311888,
         "whitelisted_servers": [
-            803681951109873724
+            1551945510741475408
         ],
         "allowed_user_ids": [
-            803681951109873724,
-            856735876423483454
+            603003195911831573
         ],
-        "bot_prefix": "<bot-prefix-here>",
-        "commands_prefix": "<command-prefix-here>",
-        "complaint_role": "<complaint_role_id_here>",
-        "notify_role": "<notify_role_id_here>"
+        "bot_prefix": "c!",
+        "commands_prefix": "cd",
+        "complaint_role": 1551950814774566912,
+        "notify_role": 1551951228400046170
     },
     "autoadmin": {
         "enable": false,
@@ -258,12 +257,12 @@
         "admin_rank": [
             1
         ],
-        "score_for_admin": 40000,
+        "score_for_admin": 15000,
         "vip_rank": [
             2,
             3
         ],
-        "score_for_vip": 30000
+        "score_for_vip": 10000
     },
     "CurrencyType": {
         "CurrencyName": "tickets",
@@ -325,6 +324,7 @@
     "enabletags": true,
     "enablehptag": true,
     "enablerank": true,
+    "enableping": true,
     "enablestats": true,
     "enableOldHitTexts": false,
     "enableNewHitTexts": false,

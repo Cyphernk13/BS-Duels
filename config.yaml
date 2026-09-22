@@ -5,7 +5,7 @@
 # Uncomment any of these values to override defaults.
 
 # Name of our server in the public parties list.
-party_name: "Cypher Test Server" 
+party_name: "Cypher Duels Test" 
 
 # If true, your party will show up in the global public party list
 # Otherwise it will still be joinable via LAN or connecting by IP address.
@@ -21,6 +21,7 @@ authenticate_clients: true
 # your account id, enter 'getaccountid' in settings->advanced->enter-code.
 admins:
 - pb-IF4JXmhZPA==
+- pb-IF49XmgaBg==
 
 # Whether the default kick-voting system is enabled.
 enable_default_kick_voting: true
@@ -36,7 +37,7 @@ port: 43210
 # multiple controllers. Also, this number currently includes the server so
 # generally make it 1 bigger than you need. Max-players is not currently
 # exposed but I'll try to add that soon.
-max_party_size: 6
+max_party_size: 7
 
 # Options here are 'ffa' (free-for-all), 'teams' and 'coop' (cooperative)
 # This value is ignored if you supply a playlist_code (see below).
@@ -121,7 +122,7 @@ stats_url: https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_
 # default) will then spin up a fresh subprocess. This mechanism can be
 # useful to clear out any memory leaks or other accumulated bad state
 # in the server subprocess.
-#clean_exit_minutes: 60
+clean_exit_minutes: 60
 
 # If present, the server subprocess will shut down immediately after this
 # amount of time. This can be useful as a fallback for clean_exit_time.
