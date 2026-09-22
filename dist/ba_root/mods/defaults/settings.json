@@ -67,7 +67,7 @@
     "custom_characters": {
         "enable":true
     },
-    "StumbledScoreScreen":true,
+    "StumbledScoreScreen":false,
     "elPatronPowerups":{
         "enable":true,
         "settings":{"Powers Gravity": true,

@@ -152,7 +152,7 @@ class textonmap:
        )   
         node = _ba.newnode('text',
                             attrs={
-                                'text':u'\ue043[\U0001F451] OWNER : VORTEX & HONOR\n\ue048[\U0001F6E0] MANAGED BY : TEAM VORTEX',
+                                # 'text':u'\ue043[\U0001F451] OWNER : Cypher & Auxil\n\ue048[\U0001F6E0] MANAGED BY : TEAM Cypher',
                                 'flatness': 1.0,
                                 'h_align': 'left',
                                 'v_attach':'bottom',
@@ -165,7 +165,7 @@ class textonmap:
     def nextGame(self,text):
         node = _ba.newnode('text',
                             attrs={
-                                'text':"Next : "+text               ,
+                                # 'text':"Next : "+text               ,
                                 'flatness':0.4,
                                 'h_align':'right',
                                 'v_attach':'bottom',
@@ -185,7 +185,7 @@ class textonmap:
                                 'v_attach':'bottom',
                                 'h_attach':'right',
                                 'scale':0.7,
-                                'position':(-25, 25),
+                                'position':(-25, 5),
                                 'color':(1,1,1)
                             })
         self.delt = ba.timer(0.1, node.delete)   
@@ -242,7 +242,7 @@ class textonmap:
 
         node = _ba.newnode('text',
                             attrs={
-                                'text':u'\ue048CONTACT OWNER FOR DETAILS & SUGGESTION\ue048\n\ue00cHAPPY BOMBSQUADING\ue00c',
+                                # 'text':u'\ue048CONTACT OWNER FOR DETAILS & SUGGESTION\ue048\n\ue00cHAPPY BOMBSQUADING\ue00c',
                                 'flatness': 3.0,
                                 'h_align': 'center',
                                 'v_attach':'top',
@@ -253,7 +253,7 @@ class textonmap:
 
         node = _ba.newnode('text',
                             attrs={
-                                'text':u'\ue043Join Discord Server From Stats Button\ue043',
+                                # 'text':u'\ue043Join Discord Server From Stats Button\ue043',
                                 'flatness': 0.4,
                                 'h_align': 'center',
                                 'v_attach':'bottom',
@@ -273,7 +273,8 @@ class textonmap:
              loop=True,
         )
            
-        count = ("\n\n\ue043| MEMBERS COUNT: "+str(size)+" |\ue043")
+        count = ("")
+        # count = ("\n\n\ue043| MEMBERS COUNT: "+str(size)+" |\ue043")
         node = _ba.newnode('text',
                     attrs={
                         'text': count,
@@ -302,7 +303,7 @@ class textonmap:
         )            
         node = _ba.newnode('text',
                             attrs={
-                                'text':u'\ue048| VH PARADISE |\ue048',
+                                # 'text':u'\ue048 | VH PARADISE | \ue048',
                                 'flatness':1.0,
                                 'h_align':'center',
                                 'v_attach':'top',
@@ -329,12 +330,13 @@ class textonmap:
     def leaderBoard(self):
         if len(mystats.top5Name) >2:
             if setti["leaderboard"]["barsBehindName"]:
-                self.ss1=ba.newnode('image',attrs={'scale':(300,30),'texture':ba.gettexture('bar'),'position':(0,-80),'attach':'topRight','opacity':0.5,'color':(0.7,0.1,0)})
-                self.ss1=ba.newnode('image',attrs={'scale':(300,30),'texture':ba.gettexture('bar'),'position':(0,-115),'attach':'topRight','opacity':0.5,'color':(0.6,0.6,0.6)})
-                self.ss1=ba.newnode('image',attrs={'scale':(300,30),'texture':ba.gettexture('bar'),'position':(0,-150),'attach':'topRight','opacity':0.5,'color':(0.1,0.3,0.1)})
+                # self.ss1=ba.newnode('image',attrs={'scale':(300,30),'texture':ba.gettexture('bar'),'position':(0,-80),'attach':'topRight','opacity':0.5,'color':(0.7,0.1,0)})
+                self.ss1=ba.newnode('image',attrs={'scale':(300,33),'texture':ba.gettexture('bar'),'position':(-10,-205),'attach':'topRight','opacity':0.5,'color':(0.9,0.9,0.9)})
+                self.ss1=ba.newnode('image',attrs={'scale':(300,33),'texture':ba.gettexture('bar'),'position':(-10,-135),'attach':'topRight','opacity':0.5,'color':(0.9,0.9,0.9)})
+                self.ss1=ba.newnode('image',attrs={'scale':(300,33),'texture':ba.gettexture('bar'),'position':(-10,-170),'attach':'topRight','opacity':0.5,'color':(0.9,0.9,0.9)})
 
-            self.ss1a=ba.newnode('text',attrs={'text':"#\U0001F947 "+mystats.top5Name[0][:10]+"...",'flatness':1.0,'h_align':'left','h_attach':'right','v_attach':'top','v_align':'center','position':(-140,-80),'scale':0.7,'color':(0.7,0.4,0.3)})
+            self.ss1a=ba.newnode('text',attrs={'text':"🏆LEADERBOARD🏆",'flatness':1.0,'h_align':'left','h_attach':'right','v_attach':'top','v_align':'center','position':(-170,-100),'scale':0.7,'color':(1.0,0.8,0.0)})
 
-            self.ss1a=ba.newnode('text',attrs={'text':"#\U0001F948 "+mystats.top5Name[1][:10]+"...",'flatness':1.0,'h_align':'left','h_attach':'right','v_attach':'top','v_align':'center','position':(-140,-115),'scale':0.7,'color':(0.8,0.8,0.8)})
-
-            self.ss1a=ba.newnode('text',attrs={'text':"#\U0001F949 "+mystats.top5Name[2][:10]+"...",'flatness':1.0,'h_align':'left','h_attach':'right','v_attach':'top','v_align':'center','position':(-140,-150),'scale':0.7,'color':(0.2,0.6,0.2)})
+            self.ss1a=ba.newnode('text',attrs={'text':"\U0001F947 "+mystats.top5Name[0][:10],'flatness':1.0,'h_align':'left','h_attach':'right','v_attach':'top','v_align':'center','position':(-150,-135),'scale':0.7,'color':(1.0,1.0,1.0)})
+            self.ss1a=ba.newnode('text',attrs={'text':"\U0001F948 "+mystats.top5Name[1][:10],'flatness':1.0,'h_align':'left','h_attach':'right','v_attach':'top','v_align':'center','position':(-150,-170),'scale':0.7,'color':(1.0,1.0,1.0)})
+            self.ss1a=ba.newnode('text',attrs={'text':"\U0001F949 "+mystats.top5Name[2][:10],'flatness':1.0,'h_align':'left','h_attach':'right','v_attach':'top','v_align':'center','position':(-150,-205),'scale':0.7,'color':(1.0,1.0,1.0)})

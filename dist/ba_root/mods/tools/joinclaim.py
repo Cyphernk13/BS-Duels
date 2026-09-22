@@ -11,18 +11,23 @@ settings = setting.get_settings_data()
 tic = settings["CurrencyType"]["Currency"]
 
 def join_claim(name, clid, accountid):
-    set_time_hours = 24  # 24 hours
+    set_time_hours = 24
     set_time_seconds = set_time_hours * 3600  # Convert hours to seconds
     customers = pdata.get_custom()['coin_claim']
 
-    if accountid not in customers:
-        if set_time_seconds < 40:
-            coin_claim = random.choice([50, 70, 80])  # Higher value for shorter claim times
-        else:
-            coin_claim = random.choice([50, 60, 70, 60, 50, 70, 60, 80])  # Standard values for 24 hours
+    previous = customers.get(accountid)
+    now = datetime.now()
+    if previous is None or now >= datetime.strptime(
+            previous['expiry'], '%d-%m-%Y %H:%M:%S'):
+        streak = int(previous.get('streak', 0)) + 1 if previous else 1
+        coin_claim = min(200, 50 + (streak - 1) * 10)
 
-        expiry = datetime.now() + timedelta(seconds=set_time_seconds)
-        customers[accountid] = {'name': name, 'expiry': expiry.strftime('%d-%m-%Y %H:%M:%S')}
+        expiry = now + timedelta(seconds=set_time_seconds)
+        customers[accountid] = {
+            'name': name,
+            'expiry': expiry.strftime('%d-%m-%Y %H:%M:%S'),
+            'streak': streak,
+        }
 
         if coin_claim == 50:
             message = f"Congratulations,{name} You've claimed..! {coin_claim}{tic}.\n"
@@ -34,6 +39,7 @@ def join_claim(name, clid, accountid):
             message = f"{name}, you're on fire..! You've claimed {coin_claim}{tic}.\n"
 
         cc.addcoins(accountid, coin_claim)
+        pdata.CacheData.custom = pdata.get_custom()
         sendchatclid(message, clid)
 
         # Add countdown message only once

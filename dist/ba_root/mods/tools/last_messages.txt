@@ -35,3 +35,197 @@ pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | /quit
 Host msg: | Server Restarting, Please Join in a moment !
 Host msg: | Server Restarting, Please Join in a moment !
 Host msg: | Server will restart on next opportunity. (series end)
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /pb
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | pb
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /pb
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /sm
+pb-IF4MVFI6Bw==  |  impu| 👾impu👾 | /me
+Host msg: | | Name: impu
+Host msg: | | PB-ID: pb-IF4MVFI6Bw==
+Host msg: | | Tickets: None
+Host msg: | | Rank: 2
+Host msg: | | Score: 118
+Host msg: | | Games: 2
+Host msg: | | Kills: 0
+Host msg: | | Deaths: 0
+Host msg: | | Avg.: 59.0
+pb-IF4MVFI6Bw==  |  impu| 👾impu👾 | .haha
+pb-IF4MVFI6Bw==  |  impu| 👾impu👾 | !hi
+pb-IF4MVFI6Bw==  |  impu| 👾impu👾 | /shop
+Host msg: | Usage: /shop commands, /shop effects
+pb-IF4MVFI6Bw==  |  impu| 👾impu👾 | /shop commands
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /acl
+Host msg: | ______________|ADMIN-CMDS-LISTS|________________
+Host msg: |  || kick, kill, heal, curse, sleep, superpunch, gloves, shield, freeze
+Host msg: |  || unfreeze, godmode, die, heath, cur, sp, punch, protect, ice, thaw
+Host msg: |  || gm, fly, invisible, headless, creepy, celebrate, spaz, speed, floater, inv
+Host msg: |  || hl, creep, celeb, flo, sm, slow, night, day, dv, nv
+Host msg: |  || lm, end, remove, gp, quit, acl, ac, tint, hug, icy
+Host msg: |  || box, boxall, exchange, texall, hugall, zombie, zombieall, reflections, ooh, playsound
+Host msg: |  || zm
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | ocl
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /ocl
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /vcl
+Host msg: | ______________|VIP-CMDS-LISTS|________________
+Host msg: |  || kill, heal, curse, sleep, gloves, shield, freeze, unfreeze, die
+Host msg: |  || heath, cur, punch, protect, ice, thaw, fly, invisible, headless, creepy
+Host msg: |  || celebrate, inv, hl, creep, celeb, sm, slow, night, day, dv
+Host msg: |  || nv, lm, end, remove, vcl, hug, playsound, ooh
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /sm
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /sm
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |      👾impu👾           113          0     
+Host msg: |     Cypher13          114          1     
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /addrole
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /addrole 113 admin
+pb-IF4MVFI6Bw==  |  impu| 👾impu👾 | /acl
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /help
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /roleadd
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /addrole 113 admin p
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /sm
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /end
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /end
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /end
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /end
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /end
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /end
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /end
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /end
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /end
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /top
+pb-IF4MVFI6Bw==  |  impu| 👾impu👾 | /top
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /end
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /sm
+Host msg: | Congratulations,Cypher13 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,impu You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF4MVFI6Bw==  |  impu| impu | /me
+Host msg: | | Name: impu
+Host msg: | | PB-ID: pb-IF4MVFI6Bw==
+Host msg: | | Tickets: 50
+Host msg: | | Rank: 1
+Host msg: | | Score: 588
+Host msg: | | Games: 21
+Host msg: | | Kills: 22
+Host msg: | | Deaths: 8
+Host msg: | | Avg.: 28.0
+pb-IF4MVFI6Bw==  |  impu| impu | /cjt
+Host msg: | Time remaining until your next join coin claim: 23:58:3
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /ps pixieFall
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /ps achievement
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /me
+Host msg: | | Name: Cypher13
+Host msg: | | PB-ID: pb-IF4JXmhZPA==
+Host msg: | | Tickets: 999999999
+Host msg: | | Rank: 2
+Host msg: | | Score: 30
+Host msg: | | Games: 20
+Host msg: | | Kills: 3
+Host msg: | | Deaths: 22
+Host msg: | | Avg.: 1.5
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /lm
+Host msg: | Cypher13: /ps pixieFall
+Host msg: | Cypher13: /ps achievement
+Host msg: | Cypher13: /me
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /sm
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /sm
+pb-IF4JXmhZPA==  |  Cypher13| Donny | /me
+Host msg: | | Name: Cypher13
+Host msg: | | PB-ID: pb-IF4JXmhZPA==
+Host msg: | | Tickets: 999999999
+Host msg: | | Rank: 2
+Host msg: | | Score: 30
+Host msg: | | Games: 20
+Host msg: | | Kills: 3
+Host msg: | | Deaths: 22
+Host msg: | | Avg.: 1.5
+pb-IF4JXmhZPA==  |  Cypher13| Donny | /end
+pb-IF4JXmhZPA==  |  Cypher13| Donny | /end
+pb-IF4JXmhZPA==  |  Cypher13| Donny | /stats
+Host msg: | | Name: Cypher13
+Host msg: | | PB-ID: pb-IF4JXmhZPA==
+Host msg: | | Tickets: 999999999
+Host msg: | | Rank: 2
+Host msg: | | Score: 30
+Host msg: | | Games: 22
+Host msg: | | Kills: 3
+Host msg: | | Deaths: 23
+Host msg: | | Avg.: 1.363
+pb-IF4JXmhZPA==  |  Cypher13| Donny | /leaderboard 
+pb-IF4JXmhZPA==  |  Cypher13| Donny | /top
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /end
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /end 
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /end
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /end 
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /heal all
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /end 
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /end
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /tag add
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /addtag
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /shop commands
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /shop tag
+Host msg: | Usage: /shop commands or /shop effects
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /shop effectz
+Host msg: | Usage: /shop commands or /shop effects
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /shop effects 
+Host msg: | ==You can buy following items==
+Host msg: | ice ---- 300 ---- for 1 day
+Host msg: | sweat ---- 200 ---- for 1 day
+Host msg: | sparkground ---- 150 ---- for 1 day
+Host msg: | sweatground ---- 340 ---- for 1 day
+Host msg: | scorch ---- 350 ---- for 1 day
+Host msg: | rainbow ---- 400 ---- for 1 day
+Host msg: | splinter ---- 100 ---- for 1 day
+Host msg: | highlightshine ---- 150 ---- for 1 day
+Host msg: | iceground ---- 250 ---- for 1 day
+Host msg: | glow ---- 400 ---- for 1 day
+Host msg: | distortion ---- 750 ---- for 1 day
+Host msg: | fairydust ---- 1000 ---- for 1 day
+Host msg: | slime ---- 500 ---- for 1 day
+Host msg: | metal ---- 500 ---- for 1 day
+Host msg: | surrounder ---- 1000 ---- for 1 day
+Host msg: | chispitas ---- 2000 ---- for 1 day
+Host msg: | colorfullspark ---- 240 ---- for 1 day
+Host msg: | stars ---- 750 ---- for 1 day
+Host msg: | footprint ---- 300 ---- for 1 day
+Host msg: | ring ---- 5000 ---- for 1 day
+Host msg: | darkmagic ---- 1300 ---- for 1 day
+Host msg: | fire ---- 200 ---- for 1 day
+Host msg: | new_rainbow ---- 250 ---- for 1 day
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /buy effect
+Host msg: | invalid item, try using '/shop effects
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /shop effects star
+Host msg: | ==You can buy following items==
+Host msg: | ice ---- 300 ---- for 1 day
+Host msg: | sweat ---- 200 ---- for 1 day
+Host msg: | sparkground ---- 150 ---- for 1 day
+Host msg: | sweatground ---- 340 ---- for 1 day
+Host msg: | scorch ---- 350 ---- for 1 day
+Host msg: | rainbow ---- 400 ---- for 1 day
+Host msg: | splinter ---- 100 ---- for 1 day
+Host msg: | highlightshine ---- 150 ---- for 1 day
+Host msg: | iceground ---- 250 ---- for 1 day
+Host msg: | glow ---- 400 ---- for 1 day
+Host msg: | distortion ---- 750 ---- for 1 day
+Host msg: | fairydust ---- 1000 ---- for 1 day
+Host msg: | slime ---- 500 ---- for 1 day
+Host msg: | metal ---- 500 ---- for 1 day
+Host msg: | surrounder ---- 1000 ---- for 1 day
+Host msg: | chispitas ---- 2000 ---- for 1 day
+Host msg: | colorfullspark ---- 240 ---- for 1 day
+Host msg: | stars ---- 750 ---- for 1 day
+Host msg: | footprint ---- 300 ---- for 1 day
+Host msg: | ring ---- 5000 ---- for 1 day
+Host msg: | darkmagic ---- 1300 ---- for 1 day
+Host msg: | fire ---- 200 ---- for 1 day
+Host msg: | new_rainbow ---- 250 ---- for 1 day
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /buy effect stars
+Host msg: | invalid item, try using '/shop effects
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /buy stars
+Host msg: | Success! That cost you 750
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | ping
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /ping
+Host msg: | Your ping 9ms 

@@ -212,6 +212,8 @@ def import_games():
     for game in games:
         if game.endswith(".so"):
             importlib.import_module("games." + game.replace(".so", ""))
+        elif game == "ClassicDuel.py":
+            importlib.import_module("games.ClassicDuel")
 
     maps = os.listdir("ba_root/mods/maps")
     for _map in maps:
@@ -341,7 +343,8 @@ def on_join_request(ip):
 
 
 def on_map_init():
-    text_on_map.textonmap()    
+    if settings.get('textonmap', {}).get('enable', False):
+        text_on_map.textonmap()
     modifyspaz.setTeamCharacter()
 
 

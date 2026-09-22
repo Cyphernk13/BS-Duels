@@ -5,22 +5,22 @@
 # Uncomment any of these values to override defaults.
 
 # Name of our server in the public parties list.
-party_name: "|-VORTEX BANG-|" 
+party_name: "Cypher Test Server" 
 
 # If true, your party will show up in the global public party list
 # Otherwise it will still be joinable via LAN or connecting by IP address.
-party_is_public: true
+party_is_public: false
 
 # If true, all connecting clients will be authenticated through the master
 # server to screen for fake account info. Generally this should always
 # be enabled unless you are hosting on a LAN with no internet connection.
-authenticate_clients: true
+authenticate_clients: false
 
 # IDs of server admins. Server admins are not kickable through the default
 # kick vote system and they are able to kick players without a vote. To get
 # your account id, enter 'getaccountid' in settings->advanced->enter-code.
 admins:
-- pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH
+- pb-IF4JXmhZPA==
 
 # Whether the default kick-voting system is enabled.
 enable_default_kick_voting: true
@@ -29,32 +29,53 @@ enable_default_kick_voting: true
 # servers on one machine.
 # 43210 is the default and the only port that will show up in the LAN
 # browser tab.
-port: 43210
+port: 43211
 
 # Max devices in the party. Note that this does *NOT* mean max players.
 # Any device in the party can have more than one player on it if they have
 # multiple controllers. Also, this number currently includes the server so
 # generally make it 1 bigger than you need. Max-players is not currently
 # exposed but I'll try to add that soon.
-max_party_size: 12
+max_party_size: 6
 
 # Options here are 'ffa' (free-for-all), 'teams' and 'coop' (cooperative)
 # This value is ignored if you supply a playlist_code (see below).
-#session_type: ffa
+session_type: ffa
 
-# Playlist-code for teams or free-for-all mode sessions.
-# To host your own custom playlists, use the 'share' functionality in the
-# playlist editor in the regular version of the game.
-# This will give you a numeric code you can enter here to host that
-# playlist.
-playlist_code: 445446
+# session_type: teams
 
-# Alternately, you can embed playlist data here instead of using codes.
-# Make sure to set session_type to the correct type for the data here.
-#playlist_inline: []
-
-# Whether to shuffle the playlist or play its games in designated order.
-#playlist_shuffle: true
+# Pure local duel rotation: five players plus the server device.
+playlist_inline:
+- type: ClassicDuel.DuelClassicGame
+  settings: &duel_settings
+    map: Monkey Face
+    Kills to Win Per Player: 10
+    Time Limit: 0
+    Enable Powerups: true
+    Epic Mode: true
+    Allow Negative Scores: false
+- type: ClassicDuel.DuelClassicGame
+  settings:
+    <<: *duel_settings
+    map: Rampage
+- type: ClassicDuel.DuelClassicGame
+  settings:
+    <<: *duel_settings
+    map: The Pad
+- type: ClassicDuel.DuelClassicGame
+  settings:
+    <<: *duel_settings
+    map: Courtyard
+- type: ClassicDuel.DuelClassicGame
+  settings:
+    <<: *duel_settings
+    map: Bridgit
+- type: ClassicDuel.DuelClassicGame
+  settings:
+    <<: *duel_settings
+    map: Rampage
+    Enable Powerups: false
+playlist_shuffle: false
 
 # If true, keeps team sizes equal by disallowing joining the largest team
 # (teams mode only).
@@ -83,7 +104,7 @@ teams_series_length: 7
 
 # Points to win in free-for-all mode (Points are awarded per game based on
 # performance)
-ffa_series_length: 24
+ffa_series_length: 40
 
 # If you have a custom stats webpage for your server, you can use this
 # to provide a convenient in-game link to it in the server-browser
@@ -119,8 +140,8 @@ stats_url: https://discord.com/invite/4BZvMrA3Sj
 
 # Team names (teams mode only).
 team_names:
-- vortex
-- Honor
+- Cypher
+- Auxil
 
 # Team colors (teams mode only).
 team_colors:

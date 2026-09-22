@@ -1,7 +1,23 @@
 {
     "customtag": {},
     "customeffects": {},
-    "paideffects": {},
-    "coin_claim": {},
+    "paideffects": {
+        "pb-IF4JXmhZPA==": {
+            "effect": "stars",
+            "expiry": "22-09-2026 21:03:55"
+        }
+    },
+    "coin_claim": {
+        "pb-IF4JXmhZPA==": {
+            "name": "\ue063Cypher13",
+            "expiry": "22-09-2026 18:10:26",
+            "streak": 1
+        },
+        "pb-IF4MVFI6Bw==": {
+            "name": "\ue063impu",
+            "expiry": "22-09-2026 18:30:57",
+            "streak": 1
+        }
+    },
     "complainter": {}
 }

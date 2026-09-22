@@ -129,7 +129,7 @@ class ServerManagerApp:
         self._running = True
 
         dbgstr = 'debug' if __debug__ else 'opt'
-        logging.info(f'{Clr.CYN}{Clr.BLD}ROCKY AND VORTEX OFFICIAL is {VERSION_STR}'
+        logging.info(f'{Clr.CYN}{Clr.BLD}ROCKY AND Cypher OFFICIAL is {VERSION_STR}'
             f' starting up in ({dbgstr} mode).{Clr.RST}')
 
         # Python will handle SIGINT for us (as KeyboardInterrupt) but we

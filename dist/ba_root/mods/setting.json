@@ -1,8 +1,8 @@
 {
     "paidCommands": false,
-    "JoinClaim": false,
-    "NotifyPlayer": false,
-    "compChatText": false,
+    "JoinClaim": true,
+    "NotifyPlayer": true,
+    "compChatText": true,
     "NightMode": false,
     "whitelist": false,
     "useV2Account": false,
@@ -13,7 +13,6 @@
             "owner",
             "staff",
             "tcs",
-            "moderator",
             "whitelist",
             "tourney"
         ]
@@ -48,7 +47,8 @@
     },
     "textonmap": {
         "top watermark": "",
-        "bottom left watermark": "\n____________________________________\n\n\n____________________________________\n",
+        "bottom left watermark": "",
+        "enable": true,
         "center highlights": {
             "enable": false,
             "color": [
@@ -58,8 +58,8 @@
             ],
             "randomColor": true,
             "msg": [
-                "\ue048WELCOME TO VORTEX VS HONOR OFFICIAL\ue048",
-                "\ue043JOIN OUR DISCORD : VH PARADISE :)\ue043",
+                "\ue048WELCOME TO CYPHER EPIC DUELS\ue048",
+                "\ue043JOIN OUR DISCORD : Cypher Official :)\ue043",
                 "\ue048TYPE (/vp) TO KNOW VOTING PLAYLIST\ue048",
                 "\ue048TYPE (/acl) TO KNOW ADMIN COMMANDS\ue048",
                 "\ue048TYPE (/coinhelp) TO KNOW HOW TO BUY EFFECTS AND MANY MORE..\ue048",
@@ -79,7 +79,7 @@
         }
     },
     "ScoreScreenAnnouncement": {
-        "enable": true,
+        "enable": false,
         "msg": [
             "enjoy here :)",
             "click stats button to join discord",
@@ -90,7 +90,7 @@
             "type (/cs) to find out how to complaint in discord server from game",
             "type (/coinhelp) to know how to buy effects and many more..",
             "type (/dclink) to know how to link pbid to discord-id & get rewards",
-            "join our discord : vh paradise :)",
+            "join our discord : Cypher Official :)",
             "type vp to know voting playlist",
             "please respect other players :)",
             "start msg with prefix .(dot) to send in game popup msg",
@@ -104,12 +104,12 @@
     "TopMapText": {
         "enable": true,
         "msg": [
-            "\ue062VORTEX\ue062",
-            "\ue04bVORTEX x HONOR\ue04b",
-            "\ue048HONOR\ue048",
-            "\ue04bVORTEX x HONOR\ue04b",
-            "\ue062VORTEX\ue062",
-            "\ue048HONOR\ue048"
+            "\ue062Cypher\ue062",
+            "\ue04bCypher\ue04b",
+            "\ue048Cypher\ue048",
+            "\ue04bCypher\ue04b",
+            "\ue062Cypher\ue062",
+            "\ue048Cypher\ue048"
         ]
     },
     "statsResetAfterDays": 45,
@@ -118,12 +118,12 @@
         "barsBehindName": true
     },
     "autoNightMode": {
-        "enable": true,
+        "enable": false,
         "startTime": "18:30",
         "endTime": "06:30",
         "Snowfall": true,
-        "colorfullMap": true,
-        "colorful_explosions": true,
+            "colorfullMap": false,
+            "colorful_explosions": true,
         "fireflies": false,
         "fireflies_random_color": false
     },
@@ -146,7 +146,7 @@
         "enable": false
     },
     "timetext": {
-        "enable": true,
+        "enable": false,
         "timezone": "Asia/Kolkata"
     },
     "colorful_explosions": {
@@ -163,9 +163,9 @@
         "enable": true
     },
     "custom_characters": {
-        "enable": true
+        "enable": false
     },
-    "StumbledScoreScreen": true,
+    "StumbledScoreScreen": false,
     "elPatronPowerups": {
         "enable": true,
         "settings": {
@@ -180,55 +180,55 @@
             "Powerups": {
                 "Shield": 0,
                 "Punch": 0,
-                "Mine Bombs": 2,
+                "Mine Bombs": 1,
                 "Impact Bombs": 3,
-                "Ice Bombs": 3,
-                "Triple": 3,
+                "Ice Bombs": 0,
+                "Triple": 0,
                 "Sticky Bombs": 3,
                 "Curse": 1,
                 "Health": 1,
-                "Speed": 2,
+                "Speed": 0,
                 "Healing Damage": 0,
-                "Goodbye": 2,
-                "Ice Man": 1,
+                "Goodbye": 0,
+                "Ice Man": 0,
                 "Tank Shield": 0,
-                "Impairment Bombs": 2,
-                "Fire Bombs": 3,
+                "Impairment Bombs": 1,
+                "Fire Bombs": 1,
                 "Champion": 0,
                 "Spunch": 0,
                 "Radius": 0,
                 "Multi Bomb": 0,
                 "PWP": 0,
-                "ExtraLyfe": 2,
+                "ExtraLyfe": 0,
                 "False Bombs": 0,
-                "Fly Bombs": 2
+                "Fly Bombs": 0
             }
         },
         "Quantity": {
             "Shield": 0,
             "Punch": 0,
-            "Mine Bombs": 2,
+            "Mine Bombs": 1,
             "Impact Bombs": 3,
-            "Ice Bombs": 3,
-            "Triple": 3,
+            "Ice Bombs": 0,
+            "Triple": 0,
             "Sticky Bombs": 3,
             "Curse": 1,
             "Health": 1,
-            "Speed": 2,
+            "Speed": 0,
             "Healing Damage": 0,
-            "Goodbye": 2,
-            "Ice Man": 1,
+            "Goodbye": 0,
+            "Ice Man": 0,
             "Tank Shield": 0,
-            "Impairment Bombs": 2,
-            "Fire Bombs": 3,
+            "Impairment Bombs": 1,
+            "Fire Bombs": 1,
             "Champion": 0,
             "Spunch": 0,
             "Radius": 0,
             "Multi Bomb": 0,
             "PWP": 0,
-            "ExtraLyfe": 2,
+            "ExtraLyfe": 0,
             "False Bombs": 0,
-            "Fly Bombs": 2
+            "Fly Bombs": 0
         }
     },
     "discordbot": {
@@ -282,7 +282,7 @@
     "afk_remover": {
         "enable": true,
         "ingame_idle_time_in_secs": 250,
-        "kick_idle_from_lobby": true,
+        "kick_idle_from_lobby": false,
         "lobby_idle_time_in_secs": 150
     },
     "playermod": {
@@ -304,8 +304,8 @@
     "sameCharacterForTeam": false,
     "allowInGameDm": true,
     "newResultBoard": true,
-    "HostDeviceName": "v1.4",
-    "HostName": "VH-v2.0",
+    "HostDeviceName": "CYPHER",
+    "HostName": "CYPHER",
     "ShowKickVoteStarterName": true,
     "autoTeamBalance": true,
     "KickVoteMsgType": "chat",
@@ -319,17 +319,17 @@
     "maxPlayersPerDevice": 2,
     "warnMsg": "WARNING !!! DONT DO AGAIN! :)",
     "afterWarnKickMsg": "Enough warnings, Goodbye have a nice day :)",
-    "firstTimeJoinMsg": "\ud83c\udf1fWelcome to the vh paradise bang\ud83c\udf1f",
-    "regularWelcomeMsg": "\ud83d\udc4bWelcome back to vh paradise bang\ud83d\udc4b",
+    "firstTimeJoinMsg": "\ud83c\udf1fWelcome to the Cypher's Duels\ud83c\udf1f",
+    "regularWelcomeMsg": "\ud83d\udc4bWelcome back to Cypher's Duels\ud83d\udc4b",
     "contributeData": true,
     "enabletags": true,
     "enablehptag": true,
     "enablerank": true,
     "enablestats": true,
-    "enableOldHitTexts": true,
-    "enableNewHitTexts": true,
+    "enableOldHitTexts": false,
+    "enableNewHitTexts": false,
     "enableeffects": true,
-    "ShiningPlayers": true,
+    "ShiningPlayers": false,
     "enableTop5effects": true,
     "EnablePlayerProfilesTag": true,
     "enableTagAnimation": true

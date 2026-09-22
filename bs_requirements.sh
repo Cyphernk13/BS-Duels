@@ -1,6 +1,6 @@
 #!/bin/bash
 #package installation file, now dont need to use all cmds seperately just run this file and it will do its work xD
-#VORTEX
+#Cypher
 # Check if the script is being run as root (required for package installation)
 if [ "$EUID" -ne 0 ]; then
     echo "Please run this script as root or using sudo."

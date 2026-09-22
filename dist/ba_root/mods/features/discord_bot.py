@@ -1,4 +1,4 @@
-# ADVANCED LOGGING BOT SYSTEM BY ROCKY AND VORTEXXXXXX
+# ADVANCED LOGGING BOT SYSTEM BY ROCKY AND CypherXXXXX
 from re import A
 import discord, requests, asyncio ,ba, _ba, ba.internal, json, psutil, _thread
 from threading import Thread

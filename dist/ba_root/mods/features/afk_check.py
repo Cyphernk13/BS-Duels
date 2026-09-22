@@ -4,11 +4,13 @@ from ba._general import Call
 import _ba
 import ba.internal
 import setting
+from playersData import pdata
 
 settings = setting.get_settings_data()
 INGAME_TIME = settings["afk_remover"]["ingame_idle_time_in_secs"]
 LOBBY_KICK = settings['afk_remover']["kick_idle_from_lobby"]
 INLOBBY_TIME = settings['afk_remover']["lobby_idle_time_in_secs"]
+IMMUNE_ROLES = {'owner', 'co-owner', 'leadstaff', 'moderator', 'staff', 'admin'}
 
 class CheckIdle:
     def __init__(self):
@@ -28,6 +30,10 @@ class CheckIdle:
 
     def check_ingame_idle(self, current, session):
         for player in session.sessionplayers:
+            account_id = player.get_v1_account_id()
+            roles = pdata.get_player_roles(account_id)
+            if IMMUNE_ROLES.intersection(roles):
+                continue
             last_input = int(player.inputdevice.get_last_input_time())
             afk_time = int((current - last_input) / 1000)
 

@@ -51,7 +51,7 @@ class CoopSession(Session):
         _ba.increment_analytics_count('Co-op session start')
         app = _ba.app
 
-        # If they passed in explicit min/max, honor that.
+        # If they passed in explicit min/max, Alex that.
         # Otherwise defer to user overrides or defaults.
         if 'min_players' in app.coop_session_args:
             min_players = app.coop_session_args['min_players']

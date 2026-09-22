@@ -1,5 +1,5 @@
 # Released under the MIT License. See LICENSE for details.
-#created by vortex
+#created by Cypher
 #edited by sara
 from playersData import pdata
 from stats import mystats
