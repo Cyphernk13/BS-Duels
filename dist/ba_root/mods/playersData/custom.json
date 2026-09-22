@@ -1,5 +1,7 @@
 {
-    "customtag": {},
+    "customtag": {
+        "pb-IF4MVFI6Bw==": "\u0f3a\u04a1\u01df\u028d\u0268\u0f3b"
+    },
     "customeffects": {},
     "paideffects": {
         "pb-IF4JXmhZPA==": {
@@ -8,23 +10,36 @@
         }
     },
     "coin_claim": {
-        "pb-IF4JXmhZPA==": {
-            "name": "\ue063Cypher13",
-            "expiry": "22-09-2026 18:10:26",
+        "pb-IF4JUVVbFA==": {
+            "name": "\ue063ATD",
+            "expiry": "23-09-2026 17:06:29",
             "streak": 1
         },
-        "pb-IF4MVFI6Bw==": {
-            "name": "\ue063impu",
-            "expiry": "22-09-2026 18:30:57",
+        "pb-IF42Xm0SKg==": {
+            "name": "\ue063EasierCo27",
+            "expiry": "23-09-2026 17:14:11",
+            "streak": 1
+        },
+        "pb-IF5SXnQPCg==": {
+            "name": "\ue063OpticalNot",
+            "expiry": "23-09-2026 17:18:01",
+            "streak": 1
+        },
+        "pb-IF5RXkQDKg==": {
+            "name": "\ue063Catast1232",
+            "expiry": "23-09-2026 18:46:20",
+            "streak": 1
+        },
+        "pb-IF5SXhJdFw==": {
+            "name": "\ue063Differ1408",
+            "expiry": "23-09-2026 19:25:07",
+            "streak": 1
+        },
+        "pb-IF4JXmhZPA==": {
+            "name": "\ue063Cypher13",
+            "expiry": "23-09-2026 19:26:17",
             "streak": 1
         }
     },
-    "complainter": {
-        "pb-IF4JXmhZPA==": {
-            "expiry": "22-09-2026 05:15:11 PM"
-        },
-        "pb-IF4MVFI6Bw==": {
-            "expiry": "22-09-2026 05:17:46 PM"
-        }
-    }
+    "complainter": {}
 }

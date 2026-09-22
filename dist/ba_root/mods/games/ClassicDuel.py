@@ -108,7 +108,6 @@ class DuelClassicGame(ba.TeamGameActivity[Player, Team]):
         self._kills_to_win_per_player = int(
             settings['Kills to Win Per Player'])
         self._enable_powerups = bool(settings[enable_powerups])
-        self._last_spawn_pos: ba.Vec3 | None = None
 
         # Base class overrides.
         self.slow_motion = self._epic_mode
@@ -185,30 +184,17 @@ class DuelClassicGame(ba.TeamGameActivity[Player, Team]):
                 self.spawn_player(player)
 
     def _get_spawn_point(self, player: Player) -> ba.Vec3 | None:
-        points: list[ba.Vec3] = []
-        for team in self.teams:
-            points.append(ba.Vec3(self.map.get_start_position(team.id)))
+        # Guarantee deterministic opposing side spawns
+        if player.playervs1:
+            return ba.Vec3(self.map.get_start_position(0))
+        if player.playervs2:
+            return ba.Vec3(self.map.get_start_position(1))
 
-        reference_pos = None
-        for team in self.teams:
-            for tplayer in team.players:
-                if tplayer.is_alive() and tplayer.node:
-                    reference_pos = ba.Vec3(tplayer.node.position)
-                    break
-        
-        if not reference_pos and self._last_spawn_pos:
-            reference_pos = self._last_spawn_pos
-
-        if reference_pos and points:
-            points.sort(key=lambda x: (x - reference_pos).length())
-            chosen = points[-1]
-        elif points:
-            chosen = points[0]
-        else:
-            return None
-            
-        self._last_spawn_pos = chosen
-        return chosen
+        # Fallback to team position if slot flags are unset
+        try:
+            return ba.Vec3(self.map.get_start_position(player.team.id))
+        except Exception:
+            return ba.Vec3(self.map.get_start_position(0))
 
     def _update_order(self) -> None:
         for player in self.spawn_order:

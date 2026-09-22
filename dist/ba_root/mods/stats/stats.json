@@ -2,7 +2,7 @@
     "startDate": "21-09-2026 16:25:17",
     "stats": {
         "pb-IF4VAk4a": {
-            "rank": 3,
+            "rank": 4,
             "name": "pb-IF4VAk4a",
             "scores": 0,
             "total_damage": 0.0,
@@ -15,7 +15,7 @@
             "last_seen": "2022-04-26 17:01:13.715014"
         },
         "pb-IF4MVFI6Bw==": {
-            "rank": 1,
+            "rank": 2,
             "name": "impu",
             "scores": 588,
             "total_damage": 0.0,
@@ -28,17 +28,30 @@
             "aid": "pb-IF4MVFI6Bw=="
         },
         "pb-IF4JXmhZPA==": {
-            "rank": 2,
+            "rank": 1,
             "name": "Cypher13",
-            "scores": 30,
+            "scores": 195,
             "total_damage": 0.0,
-            "kills": 3,
-            "deaths": 24,
-            "games": 28,
-            "kd": 0.125,
-            "avg_score": 1.071,
-            "last_seen": "2026-09-21 21:01:39.653501",
+            "kills": 24,
+            "deaths": 32,
+            "games": 30,
+            "kd": 0.75,
+            "avg_score": 6.5,
+            "last_seen": "2026-09-22 19:37:43.779729",
             "aid": "pb-IF4JXmhZPA=="
+        },
+        "pb-IF5SXhJdFw==": {
+            "rank": 3,
+            "name": "Differ1408",
+            "scores": 70,
+            "total_damage": 0.0,
+            "kills": 8,
+            "deaths": 23,
+            "games": 2,
+            "kd": 0.347,
+            "avg_score": 35.0,
+            "last_seen": "2026-09-22 19:37:42.942347",
+            "aid": "pb-IF5SXhJdFw=="
         }
     }
 }

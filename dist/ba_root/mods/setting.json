@@ -234,7 +234,7 @@
     "discordbot": {
         "enable": true,
         "database_name": "duelsdb",
-        "token": "",
+        "token": "MTU1MTk0NDU2OTE3ODk1NTg2Ng.G-BU2s.8jDgVIjzu24OKLrpUiTBAw95wr0W0d26L0IrZM",
         "liveChat": true,
         "liveStatsChannelID": 1551948996212301954,
         "logsChannelID": 1551949244938854532,

@@ -266,3 +266,28 @@ Host msg: | You can use the complaint command again at 22-09-2026 05:15:11 PM
 pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /kill all
 pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /kill me
 pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /kill
+Host msg: | Congratulations,ATD You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF4MVFI6Bw==  |  impu| impu | /zm hi
+Host msg: | Congratulations,EasierCo27 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,OpticalNot You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Server will restart on next opportunity. (series end)
+Host msg: | Congratulations,Catast1232 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,Differ1408 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,Cypher13 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /setspeed 0.35
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /me
+Host msg: | | Name: Cypher13
+Host msg: | | PB-ID: pb-IF4JXmhZPA==
+Host msg: | | Tickets: 999999299
+Host msg: | | Rank: 2
+Host msg: | | Score: 110
+Host msg: | | Games: 29
+Host msg: | | Kills: 14
+Host msg: | | Deaths: 28
+Host msg: | | Avg.: 3.793
