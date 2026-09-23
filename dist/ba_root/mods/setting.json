@@ -238,19 +238,20 @@
         "database_name": "duelsdb",
         "token": "",
         "liveChat": true,
-        "liveStatsChannelID": 1551948996212301954,
-        "logsChannelID": 1551949244938854532,
-        "complaintChannelID": 1551949051967316079,
-        "notifyChannelID": 1551949171064311888,
+        "liveStatsChannelID": 1552398821605122108,
+        "logsChannelID": 1552399056595320943,
+        "complaintChannelID": 1552406852199907408,
+        "notifyChannelID": 1552406982936231976,
         "whitelisted_servers": [
             1551945510741475408
         ],
         "allowed_user_ids": [
-            603003195911831573
+            603003195911831573,
+            1506292559008370800
         ],
         "bot_prefix": "c!",
         "commands_prefix": "cd",
-        "complaint_role": 1551950814774566912,
+        "complaint_role": 1552416798635200542,
         "notify_role": 1551951228400046170
     },
     "autoadmin": {
