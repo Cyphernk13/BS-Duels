@@ -291,3 +291,886 @@ Host msg: | | Games: 29
 Host msg: | | Kills: 14
 Host msg: | | Deaths: 28
 Host msg: | | Avg.: 3.793
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | Domain Expansion: 41.28ms 🤞
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | Potato server: 38.28ms 🥔
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /ping
+Host msg: | Your ping 48ms 
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | Lux
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /recents 
+Host msg: | 114 Cypher13 pb-IF4JXmhZPA==
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /ban
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /kick 117
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /comp
+Host msg: | Using: /comp [Clientid of offender] [complaint reason]
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | hi
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /lm
+Host msg: | ...: /comp
+Host msg: | ...: hi
+Host msg: | Congratulations,DRKSOUL99 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,Some1Ulove You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,BIGBOSS77S You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Server will restart on next opportunity. (series end)
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /kick 166
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /kick 167
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /kick 168
+Host msg: | Congratulations,CrunchyHu3 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,MAFIA0 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,Arman2109 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,RebelGuaca You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,TopDogCart You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,Repeti3356 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,GeneticCli You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,Toxic55 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Server will restart on next opportunity. (series end)
+Host msg: | Congratulations,Mogembo You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,FL7N You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Server will restart on next opportunity. (series end)
+Host msg: | Congratulations,JBoyXLuffy You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /lm
+Host msg: | Server7611774: Server will restart on next opportunity. (series end)
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /acl
+Host msg: | ______________|ADMIN-CMDS-LISTS|________________
+Host msg: |  || kick, kill, heal, curse, sleep, superpunch, gloves, shield, freeze
+Host msg: |  || unfreeze, godmode, die, heath, cur, sp, punch, protect, ice, thaw
+Host msg: |  || gm, fly, invisible, headless, creepy, celebrate, spaz, speed, floater, inv
+Host msg: |  || hl, creep, celeb, flo, sm, slow, night, day, dv, nv
+Host msg: |  || lm, end, remove, gp, quit, acl, ac, tint, hug, icy
+Host msg: |  || box, boxall, exchange, texall, hugall, zombie, zombieall, reflections, ooh, playsound
+Host msg: |  || zm
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /top
+Host msg: | Congratulations,ApexArsena You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /sm
+pb-JiNJARFTVkFDVFxIFkdWV1VEEUReQldD  |  ApexArsena| 🇵🇹CRonaldo | /sm
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | My mistake!
+pb-JiNJARFTVkFDVFxIFkdWV1VEEUReQldD  |  ApexArsena| 🇵🇹CRonaldo | please sm
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | it's already sm buddy
+pb-JiNJARFTVkFDVFxIFkdWV1VEEUReQldD  |  ApexArsena| 🇵🇹CRonaldo | joyboyxluffy you I'm tribal
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | tribal chief?
+pb-JiNJARFTVkFDVFxIFkdWV1VEEUReQldD  |  ApexArsena| 🇵🇹CRonaldo | wt
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | I seen you somewhere 🤔
+pb-JiNJARFTVkFDVFxIFkdWV1VEEUReQldD  |  ApexArsena| 🇵🇹CRonaldo | you saw me think
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | 🤔🤔
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | still yooo
+pb-JiNJARFTVkFDVFxIFkdWV1VEEUReQldD  |  ApexArsena| 🇵🇹CRonaldo | wt
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /sm
+pb-JiNJARFTVkFDVFxIFkdWV1VEEUReQldD  |  ApexArsena| 🇵🇹CRonaldo | wt noo sm
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | why buddy 
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | it's good with sm
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | okk?
+pb-JiNJARFTVkFDVFxIFkdWV1VEEUReQldD  |  ApexArsena| 🇵🇹CRonaldo | what
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | XD 
+pb-JiNJARFTVkFDVFxIFkdWV1VEEUReQldD  |  ApexArsena| 🇵🇹CRonaldo | ik
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /acl
+Host msg: | ______________|ADMIN-CMDS-LISTS|________________
+Host msg: |  || kick, kill, heal, curse, sleep, superpunch, gloves, shield, freeze
+Host msg: |  || unfreeze, godmode, die, heath, cur, sp, punch, protect, ice, thaw
+Host msg: |  || gm, fly, invisible, headless, creepy, celebrate, spaz, speed, floater, inv
+Host msg: |  || hl, creep, celeb, flo, sm, slow, night, day, dv, nv
+Host msg: |  || lm, end, remove, gp, quit, acl, ac, tint, hug, icy
+Host msg: |  || box, boxall, exchange, texall, hugall, zombie, zombieall, reflections, ooh, playsound
+Host msg: |  || zm
+Host msg: | Congratulations,virajpati5 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,ItzMeGiza You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF4dUGFYAg==  |  ItzMeGiza| ItzMeGiza | /lm
+Host msg: | Congratulations,Sukg1 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,BrieferPai You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,Devastat40 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,AilingBan9 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,Cutiebomb You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,GastricC60 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,DJHPNG You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF5QUHYmJg==  |  DJHPNG| DJHPNG | /qt e 1day
+pb-IF5QUHYmJg==  |  DJHPNG| DJHPNG | sm
+Host msg: | sm vote started
+Host msg: | sm vote succeed
+Host msg: | Congratulations,NativeCri2 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,impu You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF4MVFI6Bw==  |  impu| <in-lobby> | /me
+Host msg: | | Name: impu
+Host msg: | | PB-ID: pb-IF4MVFI6Bw==
+Host msg: | | Tickets: 1000000049
+Host msg: | | Rank: 2
+Host msg: | | Score: 588
+Host msg: | | Games: 21
+Host msg: | | Kills: 22
+Host msg: | | Deaths: 8
+Host msg: | | Avg.: 28.0
+pb-IF4MVFI6Bw==  |  impu| impu | /end
+Host msg: | Server will restart on next opportunity. (series end)
+pb-IF4MVFI6Bw==  |  impu| impu | /shop tag
+Host msg: | Usage: /shop commands or /shop effects
+Host msg: | Congratulations,joevigamer You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,Heartfe365 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,Seditio891 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,LegalOnset You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | come to divine smash
+pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | hey after this match come to divine smash ok
+pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | high ping
+Host msg: | Congratulations,NoName21095224 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | come there
+pb-IF43UksBIg==  |  joevigamer| Tachnobalde | .
+Host msg: | Heartfe365 started a kick vote for LegalOnset
+pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | kikc him noob
+pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | just late ping high
+pb-IF4MVFI6Bw==  |  impu| impu | Good Game! q(≧▽≦q)
+pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | yeah
+Host msg: | Congratulations,Sideways44 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,swaritproo You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,Desolat554 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | how many years
+pb-IF4MVFI6Bw==  |  impu| impu | umm me started in feb
+Host msg: | Congratulations,Gratif1954 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | how
+Host msg: | Congratulations,FocalTail2 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Heartfe365 started a kick vote for Chunk
+Host msg: | Congratulations,Amanu You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF4MVFI6Bw==  |  impu| impu | omg 😭
+pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | 😢😢😢
+pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | impu
+pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | gg
+pb-IF4MVFI6Bw==  |  impu| impu | gg :D
+pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | where from u learned this bomb punch trick
+pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | pls tell
+pb-IF4dXncZUA==  |  Gratif1954| Chunk | fight
+pb-IF4MVFI6Bw==  |  impu| impu | ummm alpha duels someone teach me,.me forgot who
+pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | what to search in yt
+pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | to learn this
+pb-IF4MVFI6Bw==  |  impu| impu | how to throw bomb like a bullet 
+pb-IF4MVFI6Bw==  |  impu| impu | in bombsquad 
+pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | ok thx bye
+pb-IF4MVFI6Bw==  |  impu| impu | baii baiii
+Host msg: | Congratulations,Credul1147 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,MRHUNTERzo You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,Peak4412 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,zkhob46 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,HETGandhi You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF4lUHVcUA==  |  MRHUNTERzo| mr_hunter_11z | gg olayer
+pb-IF4mUkpeHw==  |  HETGandhi| bot_op_1 | bhai muje to chode do me noob hu
+pb-IF4MVFI6Bw==  |  impu| impu | LOL
+pb-IF4lUHVcUA==  |  MRHUNTERzo| mr_hunter_11z | ok
+pb-IF4lUHVcUA==  |  MRHUNTERzo| mr_hunter_11z | how
+pb-IF4lUHVcUA==  |  MRHUNTERzo| mr_hunter_11z | aim
+Host msg: | mr_hunter_... started a kick vote for bot_op_1
+Host msg: | Congratulations,steeve1244 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF4MVFI6Bw==  |  impu| impu | HETGandhi playyy
+Host msg: | Congratulations,prakhar301 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF4lUHVcUA==  |  MRHUNTERzo| mr_hunter_11z | kick
+pb-IF4MVFI6Bw==  |  impu| impu | /remove 165
+pb-IF4mUkpeHw==  |  HETGandhi| bot_op_1 | wait yaar pani pine gaya tha
+pb-IF4mUkpeHw==  |  HETGandhi| bot_op_1 | usme remove kiya
+pb-IF4lUHVcUA==  |  MRHUNTERzo| mr_hunter_11z | bro
+pb-IF4lUHVcUA==  |  MRHUNTERzo| mr_hunter_11z | maro
+pb-IF4lUHVcUA==  |  MRHUNTERzo| mr_hunter_11z | win
+pb-IF4mUkpeHw==  |  HETGandhi| bot_op_1 | yar op bhai me noob ho
+pb-IF4MVFI6Bw==  |  impu| impu | 😭😭
+pb-IF4mUkpeHw==  |  HETGandhi| bot_op_1 | 🫷🫷🫷🫷
+Host msg: | Server will restart on next opportunity. (series end)
+pb-IF4MVFI6Bw==  |  impu| impu | /hug all
+Host msg: | Congratulations,PoliticCri You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | MR_HUNTER started a kick vote for bot_op_1
+pb-IF4lUHVcUA==  |  MRHUNTERzo| MR_HUNTER | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |     bot_op_1          165          0     
+Host msg: |    MR_HUNTER          158          1     
+Host msg: |    PoliticCri         178          2     
+pb-IF4lUHVcUA==  |  MRHUNTERzo| MR_HUNTER | kick /165
+Host msg: | Congratulations,LovableD11 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,Awesomegme You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,OnlineThi2 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,CorrodedCo You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,Reluct1380 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,Android67939922 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,shivanshG4 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | nice ping is working 
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | wo spawn 
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | left mein jana ek dam
+Host msg: | Congratulations,SleekBrick You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | dopeher me wo flag wala laga tha and me enemy ke flag ke pass spawn-
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | hua tha
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | nice opposite spawn ho rha ab
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | right mein jana 
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | marna mereko idhar aake
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | cool
+Host msg: | Congratulations,MarIon You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | brb
+Host msg: | Congratulations,cipher1160 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | karra acche se work sabkuch
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /acl
+Host msg: | ______________|ADMIN-CMDS-LISTS|________________
+Host msg: |  || kick, kill, heal, curse, sleep, superpunch, gloves, shield, freeze
+Host msg: |  || unfreeze, godmode, die, heath, cur, sp, punch, protect, ice, thaw
+Host msg: |  || gm, fly, invisible, headless, creepy, celebrate, spaz, speed, floater, inv
+Host msg: |  || hl, creep, celeb, flo, sm, slow, night, day, dv, nv
+Host msg: |  || lm, end, remove, gp, quit, acl, ac, tint, hug, icy
+Host msg: |  || box, boxall, exchange, texall, hugall, zombie, zombieall, reflections, ooh, playsound
+Host msg: |  || zm
+pb-IF4WXmM_MA==  |  cipher1160| ꇙꉔꄲᖇᑭ꒐ꄲꋊ | hola
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | hola
+pb-IF4WXmM_MA==  |  cipher1160| ꇙꉔꄲᖇᑭ꒐ꄲꋊ | tengo un moton de lag
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | JoyBoyXLuffy: hua tha, flag hmm
+Host msg: | Congratulations,Maligna967 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | abhi oracle pr h, aws pr move karunga toh lag bhi thik ho jayega
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | but uspr 3 mahine hi free h
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | accha 
+Host msg: | Congratulations,Unconv2182 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | 🤍❤‍🔥🤡𝕭𝖗𝖚𝖍🤡❤‍🔥🤍
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |    𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓          130          0     
+Host msg: |      Boomer           133          1     
+Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           135          2     
+Host msg: |  JoyBoyXLuf...        138          3     
+Host msg: |      Magua            133          4     
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | testing wait
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /headless 130
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /headless 0
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | owh
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | lol ye kya tha
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | XD 
+Host msg: | Congratulations,Arya21 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | lol
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | ꇙꉔꄲᖇᑭ꒐ꄲꋊ: tengo un moton de lag, yeah it's indian server 
+pb-IF42XhcMHA==  |  Arya21| ♡~ 𝑹𝒐𝒃𝒊𝒏~♡ | yoo puffy im robin
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | Luffy* yoo
+pb-IF42XhcMHA==  |  Arya21| ♡~ 𝑹𝒐𝒃𝒊𝒏~♡ | mene new server bnaya hai
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | you're the owner?Cypher13
+Host msg: | Congratulations,OctaRoyal6 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF42XhcMHA==  |  Arya21| ♡~ 𝑹𝒐𝒃𝒊𝒏~♡ | ROBIN OFFICIAL teams
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | 𝙈𝘼𝙍𝙇𝙊𝙉: you're the owner?Cypher13, yeah
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | this server is still in testing phase, not official right now
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | can i get any role if you wished to?Cypher13
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | yeah but they will reset when I do some changes lol
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | max player ?
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | 🤍❤‍🔥🤡𝕭𝖗𝖚𝖍🤡❤‍🔥🤍
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | 5 karunga 7 pr lag ho rha fr
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | ohwh
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | can I get tag
+pb-IF42XhcMHA==  |  Arya21| ♡~ 𝑹𝒐𝒃𝒊𝒏~♡ | can u all visit.my server pls
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | tell me the tag I will add
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | ye stats pe click Kiya gana khul gaya 😂😂
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | 😂😂
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | MOGGER
+pb-IF42XhcMHA==  |  Arya21| ♡~ 𝑹𝒐𝒃𝒊𝒏~♡ | can I get also pls
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | ok wait adding
+pb-IF42XhcMHA==  |  Arya21| ♡~ 𝑹𝒐𝒃𝒊𝒏~♡ | ˚₊‧꒰ა𝐀𝐫𝐲𝐚𝐧໒꒱‧₊˚
+Host msg: | Congratulations,MRoutriger You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | 𝙈𝘼𝙍𝙇𝙊𝙉: MOGGER, bro these emojis won't work, any normal emojis?
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | ♡~ 𝑹𝒐𝒃𝒊𝒏~♡: ˚₊‧꒰ა𝐀𝐫𝐲𝐚𝐧໒꒱‧₊˚, same here
+pb-IF42XhcMHA==  |  Arya21| ♡~ 𝑹𝒐𝒃𝒊𝒏~♡ | 🌿˚₊‧꒰ა𝐀𝐫𝐲𝐚𝐧໒꒱‧₊˚🌿
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | ♠MOGGER♦ In bold font 
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | ‎
+Host msg: | Congratulations,Cheerles65 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /ping all 
+Host msg: |       Name                  Ping (ms)             ms
+Host msg: | ______________________________
+Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉                     33                ms
+Host msg: |  JoyBoyXLuf...                  57                ms
+Host msg: |     untitled                    38                ms
+Host msg: |    𝐏𝐚𝐫𝐢 🧚‍♀️                    15                ms
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | JumPing 40.35ms 🐇
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | robin kidhar gyi lol
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | Ping-pong🏓 46.0ms
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | bina bataye gaya 🥀
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | tag add karwake bhag gya lel
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | tag?
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           135          0     
+Host msg: |  JoyBoyXLuf...        138          1     
+Host msg: |    𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓          130          2     
+Host msg: |    𝐏𝐚𝐫𝐢 🧚‍♀️          151          3     
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | lol
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /tagadd 138 🏴‍☠️NIKA🏴‍☠️
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | hm 
+Host msg: | Congratulations,RulingMana You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           135          0     
+Host msg: |  JoyBoyXLuf...        138          1     
+Host msg: | Congratulations,HumaneList You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /tagadd 1 🏴‍☠️NIKA🏴‍☠️
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /addtag 1 🏴‍☠️NIKA🏴‍☠️
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | idhar se nhi kar rha kaam
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | to? kaha se
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | discord se kar rha
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | woah
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | do you guys know who am I 
+Host msg: | Congratulations,kyarehaule You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | human 
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | hehe
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | brb pc se aata, need to test some commands
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | yeye 
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | a Sweden streamer 
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | streamer?
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | yep know for lookmaxxing
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | nice ,keep growing on
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | and a signed model 
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /shop effects
+Host msg: | ==You can buy following items==
+Host msg: | ice ---- 300 ---- for 1 day
+Host msg: | sweat ---- 200 ---- for 1 day
+Host msg: | sparkground ---- 150 ---- for 1 day
+Host msg: | sweatground ---- 340 ---- for 1 day
+Host msg: | scorch ---- 350 ---- for 1 day
+Host msg: | rainbow ---- 400 ---- for 1 day
+Host msg: | splinter ---- 100 ---- for 1 day
+Host msg: | highlightshine ---- 150 ---- for 1 day
+Host msg: | iceground ---- 250 ---- for 1 day
+Host msg: | glow ---- 400 ---- for 1 day
+Host msg: | distortion ---- 750 ---- for 1 day
+Host msg: | fairydust ---- 1000 ---- for 1 day
+Host msg: | slime ---- 500 ---- for 1 day
+Host msg: | metal ---- 500 ---- for 1 day
+Host msg: | surrounder ---- 1000 ---- for 1 day
+Host msg: | chispitas ---- 2000 ---- for 1 day
+Host msg: | colorfullspark ---- 240 ---- for 1 day
+Host msg: | stars ---- 750 ---- for 1 day
+Host msg: | footprint ---- 300 ---- for 1 day
+Host msg: | ring ---- 5000 ---- for 1 day
+Host msg: | darkmagic ---- 1300 ---- for 1 day
+Host msg: | fire ---- 200 ---- for 1 day
+Host msg: | new_rainbow ---- 250 ---- for 1 day
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /tagadd pb-IF49XmgaBg== NIKA
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /tag
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /tag add
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /help
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | hmm
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /help
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /roleadd
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /addrole
+Host msg: | Congratulations,Taksheel69 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           135          0     
+Host msg: |  JoyBoyXLuf...        138          1     
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /removerole 138
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /lm
+Host msg: | JoyBoyXLuf...: ‎
+Host msg: | JoyBoyXLuf...: /ping all 
+Host msg: | JoyBoyXLuf...: JumPing 40.35ms 🐇
+Host msg: | ...: robin kidhar gyi lol
+Host msg: | JoyBoyXLuf...: Ping-pong🏓 46.0ms
+Host msg: | JoyBoyXLuf...: bina bataye gaya 🥀
+Host msg: | ...: tag add karwake bhag gya lel
+Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: tag?
+Host msg: | ...: /l
+Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: lol
+Host msg: | Cypher13: /tagadd 138 🏴‍☠️NIKA🏴‍☠️
+Host msg: | Cypher13: hm 
+Host msg: | Cypher13: /l
+Host msg: | Cypher13: /tagadd 1 🏴‍☠️NIKA🏴‍☠️
+Host msg: | Cypher13: /addtag 1 🏴‍☠️NIKA🏴‍☠️
+Host msg: | Cypher13: idhar se nhi kar rha kaam
+Host msg: | JoyBoyXLuf...: to? kaha se
+Host msg: | Cypher13: discord se kar rha
+Host msg: | JoyBoyXLuf...: woah
+Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: do you guys know who am I 
+Host msg: | JoyBoyXLuf...: human 
+Host msg: | JoyBoyXLuf...: hehe
+Host msg: | Cypher13: brb pc se aata, need to test some commands
+Host msg: | JoyBoyXLuf...: yeye 
+Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: a Sweden streamer 
+Host msg: | JoyBoyXLuf...: streamer?
+Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: yep know for lookmaxxing
+Host msg: | JoyBoyXLuf...: nice ,keep growing on
+Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: and a signed model 
+Host msg: | Cypher13: /shop effects
+Host msg: | Cypher13: /tagadd pb-IF49XmgaBg== NIKA
+Host msg: | Cypher13: /tag
+Host msg: | Cypher13: /tag add
+Host msg: | Cypher13: /help
+Host msg: | Cypher13: hmm
+Host msg: | JoyBoyXLuf...: /help
+Host msg: | Cypher13: /roleadd
+Host msg: | Cypher13: /addrole
+Host msg: | Cypher13: /l
+Host msg: | Cypher13: /removerole 138
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | JumPing 47.67ms 🐇
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /removerole 1
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           135          0     
+Host msg: |  JoyBoyXLuf...        138          1     
+Host msg: |     taksheel          166          2     
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /lm
+Host msg: | JoyBoyXLuf...: Ping-pong🏓 46.0ms
+Host msg: | JoyBoyXLuf...: bina bataye gaya 🥀
+Host msg: | ...: tag add karwake bhag gya lel
+Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: tag?
+Host msg: | ...: /l
+Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: lol
+Host msg: | Cypher13: /tagadd 138 🏴‍☠️NIKA🏴‍☠️
+Host msg: | Cypher13: hm 
+Host msg: | Cypher13: /l
+Host msg: | Cypher13: /tagadd 1 🏴‍☠️NIKA🏴‍☠️
+Host msg: | Cypher13: /addtag 1 🏴‍☠️NIKA🏴‍☠️
+Host msg: | Cypher13: idhar se nhi kar rha kaam
+Host msg: | JoyBoyXLuf...: to? kaha se
+Host msg: | Cypher13: discord se kar rha
+Host msg: | JoyBoyXLuf...: woah
+Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: do you guys know who am I 
+Host msg: | JoyBoyXLuf...: human 
+Host msg: | JoyBoyXLuf...: hehe
+Host msg: | Cypher13: brb pc se aata, need to test some commands
+Host msg: | JoyBoyXLuf...: yeye 
+Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: a Sweden streamer 
+Host msg: | JoyBoyXLuf...: streamer?
+Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: yep know for lookmaxxing
+Host msg: | JoyBoyXLuf...: nice ,keep growing on
+Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: and a signed model 
+Host msg: | Cypher13: /shop effects
+Host msg: | Cypher13: /tagadd pb-IF49XmgaBg== NIKA
+Host msg: | Cypher13: /tag
+Host msg: | Cypher13: /tag add
+Host msg: | Cypher13: /help
+Host msg: | Cypher13: hmm
+Host msg: | JoyBoyXLuf...: /help
+Host msg: | Cypher13: /roleadd
+Host msg: | Cypher13: /addrole
+Host msg: | Cypher13: /l
+Host msg: | Cypher13: /removerole 138
+Host msg: | JoyBoyXLuf...: /lm
+Host msg: | JoyBoyXLuf...: JumPing 47.67ms 🐇
+Host msg: | Cypher13: /removerole 1
+Host msg: | JoyBoyXLuf...: /l
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | Ping-pong🏓 57.75ms
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | not working right
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | haa
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | kk dekhta baad mein
+Host msg: | Congratulations,Gravitat58 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | hey yo gravity 
+pb-IF4dUGFYAg==  |  ItzMeGiza| ItzMeGiza | yo cyper
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | My bad!
+pb-IF42XhcePw==  |  Taksheel69| taksheel | hey giza
+pb-IF4dUGFYAg==  |  ItzMeGiza| ItzMeGiza | can I have mod?
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | hi
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | bro it's test server lol
+pb-IF42XhcePw==  |  Taksheel69| taksheel | im banned from ur server
+Host msg: | Congratulations,ExpandedKe You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF4dUGFYAg==  |  ItzMeGiza| ItzMeGiza | taksheel your id?
+pb-IF42XhcePw==  |  Taksheel69| taksheel | Taksheel69
+pb-IF42XhcePw==  |  Taksheel69| taksheel | V2
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | Taksheel69
+pb-IF4dUGFYAg==  |  ItzMeGiza| ItzMeGiza | join server
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | luffy spawn point sahi kaam kar rha right
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | yea yeah acche se karra
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | good, baaki cheeze dheere dheere add karta rahunga
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | umm wait
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | 𝙈𝘼𝙍𝙇𝙊𝙉
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           135          0     
+Host msg: |  JoyBoyXLuf...        138          1     
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | kk
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | type /pme 135
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | me?
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | sorry 138
+Host msg: | Congratulations,PuKaRLaMa7 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | who?
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /pme 138
+Host msg: | | Name: JoyBoyXLuffy
+Host msg: | | PB-ID: pb-IF49XmgaBg==
+Host msg: | | Tickets: 50
+Host msg: | | Rank: 5
+Host msg: | | Score: 325
+Host msg: | | Games: 8
+Host msg: | | Kills: 26
+Host msg: | | Deaths: 39
+Host msg: | | Avg.: 40.625
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | you 
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | working for me
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | /pme 138
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | ha kal normal players ke liye kaam nai karra tha
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | not working 
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | I see
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | you want this to be enabled for everyone?
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | haa
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | ok
+Host msg: | Congratulations,Brathaaooh You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | holy..
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | hehe
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | Big thanks!
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | cooked
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | GG!
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | gtg sorry byee see yaa soon
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | ok byeee 
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /customtag
+Host msg: | Congratulations,clownpeace You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /shop commands
+Host msg: | Congratulations,PlumpCouns You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF4JXmhZPA==  |  Cypher13| Boomer | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |     untitled          190          0     
+Host msg: |      Boomer           191          1     
+pb-IF4JXmhZPA==  |  Cypher13| Boomer | /customtag 191 Yo
+pb-IF4JXmhZPA==  |  Cypher13| Boomer | /kill all
+pb-IF4JXmhZPA==  |  Cypher13| Boomer | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |      Boomer           191          0     
+Host msg: |    clownpeace         195          1     
+pb-IF49XnogIw==  |  clownpeace| clownpeace | wow
+Host msg: | Server will restart on next opportunity. (series end)
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | Cypher13Cypher13
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | top 2 admin
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | top 2 admin?
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /pme 199
+Host msg: | | Name: 𝙈𝘼𝙍𝙇𝙊𝙉
+Host msg: | | PB-ID: pb-IF5dUUs5Dg==
+Host msg: | | Tickets: 50
+Host msg: | | Rank: 2
+Host msg: | | Score: 355
+Host msg: | | Games: 5
+Host msg: | | Kills: 45
+Host msg: | | Deaths: 39
+Host msg: | | Avg.: 71.0
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | Server7611774: | Score: 355
+pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | need 15k score and top 1, it will automatically make u admin
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | kk
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /customtag
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /buy customtag
+Host msg: | invalid item, try using '/shop effects
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /shop commands
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           199          0     
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           199          0     
+Host msg: |     untitled          179          1     
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /customtag 179 ZEN
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /kill
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           199          0     
+Host msg: |     untitled          179          1     
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /customtag 1 ZEN
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /kill
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | type zen first 
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           199          0     
+Host msg: |     Cypher13          179          1     
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /customtag ZEN 179
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | wow nice
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | see
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | can you give your tag with those emojis
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | let's test
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | i was owner and moderator I'm many servers
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | recently i quitted BS for 6 months 
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | 
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | 
+Host msg: | Congratulations,TopJungle7 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /customtag  179
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | 
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /kill
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | cool
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | yep
+Host msg: | Congratulations,Loiter1891 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | i even have playlist for api9
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | with mods
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | pc is hard lol
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | I'm on tv ----____----
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | crazy XD
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | using controller
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | do you need playlist 
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | nah bro
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | I have everything, am staff in vortex servers
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | owww 
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           199          0     
+Host msg: |     Cypher13          179          1     
+Host msg: |     Bhandari          216          2     
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | lagg
+Host msg: | Congratulations,Southw1984 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |     Cypher13          179          0     
+Host msg: |  sóc lọ đới...        220          1     
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | hmm lets test if roles are working
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |     Cypher13          179          0     
+Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           221          1     
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | kk
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /roleadd vip 221
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /addrole vip 221
+Host msg: | vip role Added
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | addrole 
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /kill all
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | check
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | /ooh
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | nice
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /removerole vip 221
+Host msg: | vip role Removed
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /kill all
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | check
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | /ooh 
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | yupp
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | kya hua
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |     Cypher13          231          0     
+Host msg: |  JoyBoyXLuf...        232          1     
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /addtag NIKA 232
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /tagadd NIKA 232
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | ohh
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | my bad
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /customtag NIKA 232
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | now try
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | yeyeye
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |     Cypher13          231          0     
+Host msg: |  JoyBoyXLuf...        232          1     
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /comp 232 Betray
+Host msg: | A complaint has been sent on the Discord server. Please wait for Staff to take action...!!
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | aaya to h msg
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | yes sir working
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /removerole admin 232
+Host msg: | admin role Removed
+Host msg: | Congratulations,Inconte607 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | lol me staff bhi ban gaya 😂
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | dekh tera admin hat gya hoga ab
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /lm
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | yeah hat gaya
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | pc pr khel rha
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | xd
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | owhh
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | all is working good than i expected 
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | Tqq, you're the best!
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /addrole admin 232
+Host msg: | admin role Added
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /lm
+Host msg: | Cypher13: /roleadd vip 221
+Host msg: | Server7611774: vip role Added
+Host msg: | Cypher13: /addrole vip 221
+Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: addrole 
+Host msg: | Cypher13: /kill all
+Host msg: | Cypher13: check
+Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: /ooh
+Host msg: | Cypher13: nice
+Host msg: | Server7611774: vip role Removed
+Host msg: | Cypher13: /removerole vip 221
+Host msg: | Cypher13: /kill all
+Host msg: | Cypher13: check
+Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: /ooh 
+Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: yupp
+Host msg: | Cypher13: kya hua
+Host msg: | Cypher13: /l
+Host msg: | Cypher13: /addtag NIKA 232
+Host msg: | Cypher13: /tagadd NIKA 232
+Host msg: | Cypher13: ohh
+Host msg: | Cypher13: my bad
+Host msg: | Cypher13: /customtag NIKA 232
+Host msg: | Cypher13: now try
+Host msg: | JoyBoyXLuf...: yeyeye
+Host msg: | Cypher13: /l
+Host msg: | Cypher13: /comp 232 Betray
+Host msg: | JoyBoyXLuf...: aaya to h msg
+Host msg: | Cypher13: yes sir working
+Host msg: | Server7611774: admin role Removed
+Host msg: | Cypher13: /removerole admin 232
+Host msg: | JoyBoyXLuf...: lol me staff bhi ban gaya 😂
+Host msg: | Cypher13: dekh tera admin hat gya hoga ab
+Host msg: | JoyBoyXLuf...: /lm
+Host msg: | JoyBoyXLuf...: yeah hat gaya
+Host msg: | Cypher13: pc pr khel rha
+Host msg: | Cypher13: xd
+Host msg: | JoyBoyXLuf...: owhh
+Host msg: | JoyBoyXLuf...: all is working good than i expected 
+Host msg: | JoyBoyXLuf...: Tqq, you're the best!
+Host msg: | Server7611774: admin role Added
+Host msg: | Cypher13: /addrole admin 232
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | pc mein khelna nhi ata abhi XD
+Host msg: | Congratulations,Thallious7 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | haha 
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | mere upar complain karo
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |     Cypher13          231          0     
+Host msg: |  JoyBoyXLuf...        232          1     
+Host msg: |    Inconte607         235          2     
+Host msg: |  Ell x stec...        238          3     
+Host msg: | Congratulations,KRATOS17OP You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /comp 231 betraying 
+Host msg: | A complaint has been sent on the Discord server. Please wait for Staff to take action...!!
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /comp 232 UKV
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /comp 232 betray
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | ek aur karna, sayad kaam nhi karega
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /comp 231 ukvs
+Host msg: | Congratulations,MIGHTYthe2 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | hmm cooldown h kuch, remove karta hu later
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | orr ha ek orr , niche likha hua aata h na ki "use /comp to more-
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | details"
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | ye comp fix kardunga, baaki I think sab sahi chal rha
+Host msg: | Congratulations,SeriousZeb You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF49XmgaBg==  |  JBoyXLuffy| <in-lobby> | brb
+pb-IF49XmgaBg==  |  JBoyXLuffy| <in-lobby> | yesss sab thik he baaki
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | movement sahi h na character ki
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | yeahh
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | nice
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | Didn't mean to trouble, Sryyy
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | should I add colorful explosions?
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | nah fir wo smash jaisa lagega
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | colorful maps?
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | ya ye hi thik h
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | haa ye karo
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | colourful maps , ya naye Wale custom maps
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | ‎
+Host msg: | Congratulations,Associ1530 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | haa 
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | Jo naye naye hote he 
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |     Cypher13          231          0     
+Host msg: |    MIGHTYthe2         242          1     
+Host msg: |    SeriousZeb         243          2     
+Host msg: |  JoyBoyXLuf...        232          3     
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /removetag 231
+Host msg: | Congratulations,Curativ648 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,SupremeSw2 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /shop commands
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | xd 
+Host msg: | Congratulations,ACBala2520 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | 100% sure ho gaya 5 se jyada hone par ho ra ping high
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | yeah
+pb-IF4TU0IgUg==  |  MIGHTYthe2| MIGHTYthe2 | wtf
+Host msg: | MIGHTYthe2 started a kick vote for Puli pandi
+pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | brb
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | kk
+pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | mein chalta khana khane
+pb-IF49XmgaBg==  |  JBoyXLuffy| <in-lobby> | okkie 
+Host msg: | Congratulations,Glorio1144 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,santhosh38 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+Host msg: | Congratulations,NoNameB5626252 You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | ☬ᗰᗩᖴIᗩ☬
+pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | yes
+pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | 𝙈𝘼𝙍𝙇𝙊𝙉
+pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | say
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | r u mayank?
+pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | yes
+pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | how
+pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | Cypher13
+pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | I'm ur neighbor auntie 
+pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | will u give me admin
+pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | Cypher13
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | It's test server bro, it will be reset if I make some changes lol
+pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | ohh when ur going to make realone
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | after I fix all bugs and add some features
+pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | then will u give admin to me
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | will see
+pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | ok
+pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | come play
+pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | BCS-1.7.19 
+Host msg: | Congratulations,HarshGamme You've claimed..! 50.
+Host msg: | To check next join claim time: type /cjt or /checkjointime

@@ -401,3 +401,861 @@
 2026-09-22 19:26:17 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
 2026-09-22 19:27:01 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /setspeed 0.35 
 2026-09-22 19:34:57 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /me 
+2026-09-22 21:54:19 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /comp 
+2026-09-22 21:54:19 + : Host msg: | Using: /comp [Clientid of offender] [complaint reason] 
+2026-09-22 21:55:35 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | hi 
+2026-09-22 21:55:40 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /lm 
+2026-09-22 21:55:40 + : Host msg: | ...: /comp 
+2026-09-22 21:55:40 + : Host msg: | ...: hi 
+2026-09-22 21:59:10 + : Host msg: | Congratulations,DRKSOUL99 You've claimed..! 50. 
+2026-09-22 21:59:10 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-22 22:12:36 + : Host msg: | Congratulations,Some1Ulove You've claimed..! 50. 
+2026-09-22 22:12:36 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-22 22:39:04 + : Host msg: | Congratulations,BIGBOSS77S You've claimed..! 50. 
+2026-09-22 22:39:04 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-22 22:52:24 + : Host msg: | Server will restart on next opportunity. (series end) 
+2026-09-22 23:44:39 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /kick 166 
+2026-09-22 23:47:06 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /kick 167 
+2026-09-22 23:49:36 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /kick 168 
+2026-09-23 00:14:49 + : Host msg: | Congratulations,CrunchyHu3 You've claimed..! 50. 
+2026-09-23 00:14:49 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 02:28:38 + : Host msg: | Congratulations,MAFIA0 You've claimed..! 50. 
+2026-09-23 02:28:38 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 02:29:48 + : Host msg: | Congratulations,Arman2109 You've claimed..! 50. 
+2026-09-23 02:29:48 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 02:36:34 + : Host msg: | Congratulations,RebelGuaca You've claimed..! 50. 
+2026-09-23 02:36:34 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 03:03:31 + : Host msg: | Congratulations,TopDogCart You've claimed..! 50. 
+2026-09-23 03:03:31 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 03:13:22 + : Host msg: | Congratulations,Repeti3356 You've claimed..! 50. 
+2026-09-23 03:13:22 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 03:44:53 + : Host msg: | Congratulations,GeneticCli You've claimed..! 50. 
+2026-09-23 03:44:53 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 04:37:04 + : Host msg: | Congratulations,Toxic55 You've claimed..! 50. 
+2026-09-23 04:37:04 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 04:52:24 + : Host msg: | Server will restart on next opportunity. (series end) 
+2026-09-23 05:04:55 + : Host msg: | Congratulations,Mogembo You've claimed..! 50. 
+2026-09-23 05:04:55 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 05:28:19 + : Host msg: | Congratulations,FL7N You've claimed..! 50. 
+2026-09-23 05:28:19 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 05:52:27 + : Host msg: | Server will restart on next opportunity. (series end) 
+2026-09-23 06:03:08 + : Host msg: | Congratulations,JBoyXLuffy You've claimed..! 50. 
+2026-09-23 06:03:08 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 06:03:30 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /lm 
+2026-09-23 06:03:30 + : Host msg: | Server7611774: Server will restart on next opportunity. (series end) 
+2026-09-23 06:03:58 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /acl 
+2026-09-23 06:03:58 + : Host msg: | ______________|ADMIN-CMDS-LISTS|________________ 
+2026-09-23 06:03:58 + : Host msg: |  || kick, kill, heal, curse, sleep, superpunch, gloves, shield, freeze 
+2026-09-23 06:03:58 + : Host msg: |  || unfreeze, godmode, die, heath, cur, sp, punch, protect, ice, thaw 
+2026-09-23 06:03:58 + : Host msg: |  || gm, fly, invisible, headless, creepy, celebrate, spaz, speed, floater, inv 
+2026-09-23 06:03:58 + : Host msg: |  || hl, creep, celeb, flo, sm, slow, night, day, dv, nv 
+2026-09-23 06:03:58 + : Host msg: |  || lm, end, remove, gp, quit, acl, ac, tint, hug, icy 
+2026-09-23 06:03:58 + : Host msg: |  || box, boxall, exchange, texall, hugall, zombie, zombieall, reflections, ooh, playsound 
+2026-09-23 06:03:58 + : Host msg: |  || zm 
+2026-09-23 06:04:09 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /top 
+2026-09-23 06:04:13 + : Host msg: | Congratulations,ApexArsena You've claimed..! 50. 
+2026-09-23 06:04:13 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 06:04:30 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /sm 
+2026-09-23 06:04:40 + : pb-JiNJARFTVkFDVFxIFkdWV1VEEUReQldD  |  ApexArsena| 🇵🇹CRonaldo | /sm 
+2026-09-23 06:04:41 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | My mistake! 
+2026-09-23 06:04:47 + : pb-JiNJARFTVkFDVFxIFkdWV1VEEUReQldD  |  ApexArsena| 🇵🇹CRonaldo | please sm 
+2026-09-23 06:05:00 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | it's already sm buddy 
+2026-09-23 06:05:24 + : pb-JiNJARFTVkFDVFxIFkdWV1VEEUReQldD  |  ApexArsena| 🇵🇹CRonaldo | joyboyxluffy you I'm tribal 
+2026-09-23 06:05:34 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | tribal chief? 
+2026-09-23 06:06:06 + : pb-JiNJARFTVkFDVFxIFkdWV1VEEUReQldD  |  ApexArsena| 🇵🇹CRonaldo | wt 
+2026-09-23 06:06:09 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | I seen you somewhere 🤔 
+2026-09-23 06:06:25 + : pb-JiNJARFTVkFDVFxIFkdWV1VEEUReQldD  |  ApexArsena| 🇵🇹CRonaldo | you saw me think 
+2026-09-23 06:06:45 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | 🤔🤔 
+2026-09-23 06:06:59 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | still yooo 
+2026-09-23 06:07:16 + : pb-JiNJARFTVkFDVFxIFkdWV1VEEUReQldD  |  ApexArsena| 🇵🇹CRonaldo | wt 
+2026-09-23 06:07:25 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /sm 
+2026-09-23 06:08:30 + : pb-JiNJARFTVkFDVFxIFkdWV1VEEUReQldD  |  ApexArsena| 🇵🇹CRonaldo | wt noo sm 
+2026-09-23 06:08:37 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | why buddy  
+2026-09-23 06:08:49 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | it's good with sm 
+2026-09-23 06:09:02 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | okk? 
+2026-09-23 06:09:34 + : pb-JiNJARFTVkFDVFxIFkdWV1VEEUReQldD  |  ApexArsena| 🇵🇹CRonaldo | what 
+2026-09-23 06:09:36 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | XD  
+2026-09-23 06:10:17 + : pb-JiNJARFTVkFDVFxIFkdWV1VEEUReQldD  |  ApexArsena| 🇵🇹CRonaldo | ik 
+2026-09-23 06:12:54 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /acl 
+2026-09-23 06:12:54 + : Host msg: | ______________|ADMIN-CMDS-LISTS|________________ 
+2026-09-23 06:12:54 + : Host msg: |  || kick, kill, heal, curse, sleep, superpunch, gloves, shield, freeze 
+2026-09-23 06:12:54 + : Host msg: |  || unfreeze, godmode, die, heath, cur, sp, punch, protect, ice, thaw 
+2026-09-23 06:12:54 + : Host msg: |  || gm, fly, invisible, headless, creepy, celebrate, spaz, speed, floater, inv 
+2026-09-23 06:12:54 + : Host msg: |  || hl, creep, celeb, flo, sm, slow, night, day, dv, nv 
+2026-09-23 06:12:54 + : Host msg: |  || lm, end, remove, gp, quit, acl, ac, tint, hug, icy 
+2026-09-23 06:12:54 + : Host msg: |  || box, boxall, exchange, texall, hugall, zombie, zombieall, reflections, ooh, playsound 
+2026-09-23 06:12:54 + : Host msg: |  || zm 
+2026-09-23 06:16:07 + : Host msg: | Congratulations,virajpati5 You've claimed..! 50. 
+2026-09-23 06:16:07 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 07:10:56 + : Host msg: | Congratulations,ItzMeGiza You've claimed..! 50. 
+2026-09-23 07:10:56 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 07:11:22 + : pb-IF4dUGFYAg==  |  ItzMeGiza| ItzMeGiza | /lm 
+2026-09-23 07:37:47 + : Host msg: | Congratulations,Sukg1 You've claimed..! 50. 
+2026-09-23 07:37:47 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 07:55:35 + : Host msg: | Congratulations,BrieferPai You've claimed..! 50. 
+2026-09-23 07:55:35 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 07:57:55 + : Host msg: | Congratulations,Devastat40 You've claimed..! 50. 
+2026-09-23 07:57:55 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 07:59:01 + : Host msg: | Congratulations,AilingBan9 You've claimed..! 50. 
+2026-09-23 07:59:01 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 08:39:34 + : Host msg: | Congratulations,Cutiebomb You've claimed..! 50. 
+2026-09-23 08:39:34 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 09:21:43 + : Host msg: | Congratulations,GastricC60 You've claimed..! 50. 
+2026-09-23 09:21:43 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 09:23:57 + : Host msg: | Congratulations,DJHPNG You've claimed..! 50. 
+2026-09-23 09:23:57 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 09:24:14 + : pb-IF5QUHYmJg==  |  DJHPNG| DJHPNG | /qt e 1day 
+2026-09-23 09:25:50 + : pb-IF5QUHYmJg==  |  DJHPNG| DJHPNG | sm 
+2026-09-23 09:25:50 + : Host msg: | sm vote started 
+2026-09-23 09:25:50 + : Host msg: | sm vote succeed 
+2026-09-23 10:16:21 + : Host msg: | Congratulations,NativeCri2 You've claimed..! 50. 
+2026-09-23 10:16:21 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 10:43:20 + : Host msg: | Congratulations,impu You've claimed..! 50. 
+2026-09-23 10:43:20 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 10:43:26 + : pb-IF4MVFI6Bw==  |  impu| <in-lobby> | /me 
+2026-09-23 10:43:26 + : Host msg: | | Name: impu 
+2026-09-23 10:43:26 + : Host msg: | | PB-ID: pb-IF4MVFI6Bw== 
+2026-09-23 10:43:26 + : Host msg: | | Tickets: 1000000049 
+2026-09-23 10:43:26 + : Host msg: | | Rank: 2 
+2026-09-23 10:43:26 + : Host msg: | | Score: 588 
+2026-09-23 10:43:26 + : Host msg: | | Games: 21 
+2026-09-23 10:43:26 + : Host msg: | | Kills: 22 
+2026-09-23 10:43:26 + : Host msg: | | Deaths: 8 
+2026-09-23 10:43:26 + : Host msg: | | Avg.: 28.0 
+2026-09-23 10:55:01 + : pb-IF4MVFI6Bw==  |  impu| impu | /shop tag 
+2026-09-23 10:55:01 + : Host msg: | Usage: /shop commands or /shop effects 
+2026-09-23 10:55:26 + : Host msg: | Congratulations,joevigamer You've claimed..! 50. 
+2026-09-23 10:55:26 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 10:58:04 + : Host msg: | Congratulations,Heartfe365 You've claimed..! 50. 
+2026-09-23 10:58:04 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 10:59:28 + : Host msg: | Congratulations,Seditio891 You've claimed..! 50. 
+2026-09-23 10:59:28 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 11:02:22 + : Host msg: | Congratulations,LegalOnset You've claimed..! 50. 
+2026-09-23 11:02:22 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 11:02:42 + : pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | come to divine smash 
+2026-09-23 11:03:34 + : pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | hey after this match come to divine smash ok 
+2026-09-23 11:04:21 + : pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | high ping 
+2026-09-23 11:05:06 + : Host msg: | Congratulations,NoName21095224 You've claimed..! 50. 
+2026-09-23 11:05:06 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 11:05:27 + : pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | come there 
+2026-09-23 11:05:28 + : pb-IF43UksBIg==  |  joevigamer| Tachnobalde | . 
+2026-09-23 11:09:00 + : Host msg: | Heartfe365 started a kick vote for LegalOnset 
+2026-09-23 11:09:26 + : pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | kikc him noob 
+2026-09-23 11:15:56 + : pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | just late ping high 
+2026-09-23 11:18:27 + : pb-IF4MVFI6Bw==  |  impu| impu | Good Game! q(≧▽≦q) 
+2026-09-23 11:18:32 + : pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | yeah 
+2026-09-23 11:21:39 + : Host msg: | Congratulations,Sideways44 You've claimed..! 50. 
+2026-09-23 11:21:39 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 11:22:37 + : Host msg: | Congratulations,swaritproo You've claimed..! 50. 
+2026-09-23 11:22:37 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 11:23:53 + : Host msg: | Congratulations,Desolat554 You've claimed..! 50. 
+2026-09-23 11:23:53 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 11:24:49 + : pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | how many years 
+2026-09-23 11:25:06 + : pb-IF4MVFI6Bw==  |  impu| impu | umm me started in feb 
+2026-09-23 11:26:19 + : Host msg: | Congratulations,Gratif1954 You've claimed..! 50. 
+2026-09-23 11:26:19 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 11:28:32 + : pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | how 
+2026-09-23 11:29:42 + : Host msg: | Congratulations,FocalTail2 You've claimed..! 50. 
+2026-09-23 11:29:42 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 11:30:31 + : Host msg: | Heartfe365 started a kick vote for Chunk 
+2026-09-23 11:32:24 + : Host msg: | Congratulations,Amanu You've claimed..! 50. 
+2026-09-23 11:32:24 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 11:32:48 + : pb-IF4MVFI6Bw==  |  impu| impu | omg 😭 
+2026-09-23 11:32:58 + : pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | 😢😢😢 
+2026-09-23 11:33:22 + : pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | impu 
+2026-09-23 11:33:24 + : pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | gg 
+2026-09-23 11:33:29 + : pb-IF4MVFI6Bw==  |  impu| impu | gg :D 
+2026-09-23 11:33:38 + : pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | where from u learned this bomb punch trick 
+2026-09-23 11:33:41 + : pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | pls tell 
+2026-09-23 11:33:51 + : pb-IF4dXncZUA==  |  Gratif1954| Chunk | fight 
+2026-09-23 11:33:58 + : pb-IF4MVFI6Bw==  |  impu| impu | ummm alpha duels someone teach me,.me forgot who 
+2026-09-23 11:34:09 + : pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | what to search in yt 
+2026-09-23 11:34:14 + : pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | to learn this 
+2026-09-23 11:34:23 + : pb-IF4MVFI6Bw==  |  impu| impu | how to throw bomb like a bullet  
+2026-09-23 11:34:27 + : pb-IF4MVFI6Bw==  |  impu| impu | in bombsquad  
+2026-09-23 11:34:30 + : pb-IF5RUWwKKQ==  |  Heartfe365| Heartfe365 | ok thx bye 
+2026-09-23 11:34:35 + : pb-IF4MVFI6Bw==  |  impu| impu | baii baiii 
+2026-09-23 11:37:02 + : Host msg: | Congratulations,Credul1147 You've claimed..! 50. 
+2026-09-23 11:37:02 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 11:37:27 + : Host msg: | Congratulations,MRHUNTERzo You've claimed..! 50. 
+2026-09-23 11:37:27 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 11:37:57 + : Host msg: | Congratulations,Peak4412 You've claimed..! 50. 
+2026-09-23 11:37:57 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 11:38:21 + : Host msg: | Congratulations,zkhob46 You've claimed..! 50. 
+2026-09-23 11:38:21 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 11:41:02 + : Host msg: | Congratulations,HETGandhi You've claimed..! 50. 
+2026-09-23 11:41:02 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 11:42:46 + : pb-IF4lUHVcUA==  |  MRHUNTERzo| mr_hunter_11z | gg olayer 
+2026-09-23 11:43:57 + : pb-IF4mUkpeHw==  |  HETGandhi| bot_op_1 | bhai muje to chode do me noob hu 
+2026-09-23 11:44:06 + : pb-IF4MVFI6Bw==  |  impu| impu | LOL 
+2026-09-23 11:44:11 + : pb-IF4lUHVcUA==  |  MRHUNTERzo| mr_hunter_11z | ok 
+2026-09-23 11:44:30 + : pb-IF4lUHVcUA==  |  MRHUNTERzo| mr_hunter_11z | how 
+2026-09-23 11:44:53 + : pb-IF4lUHVcUA==  |  MRHUNTERzo| mr_hunter_11z | aim 
+2026-09-23 11:45:04 + : Host msg: | mr_hunter_... started a kick vote for bot_op_1 
+2026-09-23 11:45:51 + : Host msg: | Congratulations,steeve1244 You've claimed..! 50. 
+2026-09-23 11:45:51 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 11:46:02 + : pb-IF4MVFI6Bw==  |  impu| impu | HETGandhi playyy 
+2026-09-23 11:46:03 + : Host msg: | Congratulations,prakhar301 You've claimed..! 50. 
+2026-09-23 11:46:03 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 11:46:04 + : pb-IF4lUHVcUA==  |  MRHUNTERzo| mr_hunter_11z | kick 
+2026-09-23 11:46:31 + : pb-IF4MVFI6Bw==  |  impu| impu | /remove 165 
+2026-09-23 11:46:50 + : pb-IF4mUkpeHw==  |  HETGandhi| bot_op_1 | wait yaar pani pine gaya tha 
+2026-09-23 11:47:03 + : pb-IF4mUkpeHw==  |  HETGandhi| bot_op_1 | usme remove kiya 
+2026-09-23 11:47:33 + : pb-IF4lUHVcUA==  |  MRHUNTERzo| mr_hunter_11z | bro 
+2026-09-23 11:47:51 + : pb-IF4lUHVcUA==  |  MRHUNTERzo| mr_hunter_11z | maro 
+2026-09-23 11:48:39 + : pb-IF4lUHVcUA==  |  MRHUNTERzo| mr_hunter_11z | win 
+2026-09-23 11:48:44 + : pb-IF4mUkpeHw==  |  HETGandhi| bot_op_1 | yar op bhai me noob ho 
+2026-09-23 11:50:04 + : pb-IF4MVFI6Bw==  |  impu| impu | 😭😭 
+2026-09-23 11:50:05 + : pb-IF4mUkpeHw==  |  HETGandhi| bot_op_1 | 🫷🫷🫷🫷 
+2026-09-23 11:53:35 + : Host msg: | Server will restart on next opportunity. (series end) 
+2026-09-23 11:54:19 + : pb-IF4MVFI6Bw==  |  impu| impu | /hug all 
+2026-09-23 11:54:51 + : Host msg: | Congratulations,PoliticCri You've claimed..! 50. 
+2026-09-23 11:54:51 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 11:56:07 + : Host msg: | MR_HUNTER started a kick vote for bot_op_1 
+2026-09-23 11:56:13 + : pb-IF4lUHVcUA==  |  MRHUNTERzo| MR_HUNTER | /l 
+2026-09-23 11:56:13 + : Host msg: |       Name         Client ID   Player ID  
+2026-09-23 11:56:13 + : Host msg: | ______________________________ 
+2026-09-23 11:56:13 + : Host msg: |     bot_op_1          165          0      
+2026-09-23 11:56:13 + : Host msg: |    MR_HUNTER          158          1      
+2026-09-23 11:56:13 + : Host msg: |    PoliticCri         178          2      
+2026-09-23 11:56:25 + : pb-IF4lUHVcUA==  |  MRHUNTERzo| MR_HUNTER | kick /165 
+2026-09-23 11:56:49 + : Host msg: | Congratulations,LovableD11 You've claimed..! 50. 
+2026-09-23 11:56:49 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 13:04:37 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | nice ping is working  
+2026-09-23 13:04:49 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | wo spawn  
+2026-09-23 13:05:07 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | left mein jana ek dam 
+2026-09-23 13:05:09 + : Host msg: | Congratulations,SleekBrick You've claimed..! 50. 
+2026-09-23 13:05:09 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 13:05:27 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | dopeher me wo flag wala laga tha and me enemy ke flag ke pass spawn- 
+2026-09-23 13:05:27 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | hua tha 
+2026-09-23 13:05:38 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | nice opposite spawn ho rha ab 
+2026-09-23 13:05:46 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | right mein jana  
+2026-09-23 13:06:06 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | marna mereko idhar aake 
+2026-09-23 13:06:22 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | cool 
+2026-09-23 13:06:30 + : Host msg: | Congratulations,MarIon You've claimed..! 50. 
+2026-09-23 13:06:30 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 13:06:38 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | brb 
+2026-09-23 13:07:15 + : Host msg: | Congratulations,cipher1160 You've claimed..! 50. 
+2026-09-23 13:07:15 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 13:07:27 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | karra acche se work sabkuch 
+2026-09-23 13:07:49 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /acl 
+2026-09-23 13:07:49 + : Host msg: | ______________|ADMIN-CMDS-LISTS|________________ 
+2026-09-23 13:07:49 + : Host msg: |  || kick, kill, heal, curse, sleep, superpunch, gloves, shield, freeze 
+2026-09-23 13:07:49 + : Host msg: |  || unfreeze, godmode, die, heath, cur, sp, punch, protect, ice, thaw 
+2026-09-23 13:07:49 + : Host msg: |  || gm, fly, invisible, headless, creepy, celebrate, spaz, speed, floater, inv 
+2026-09-23 13:07:49 + : Host msg: |  || hl, creep, celeb, flo, sm, slow, night, day, dv, nv 
+2026-09-23 13:07:49 + : Host msg: |  || lm, end, remove, gp, quit, acl, ac, tint, hug, icy 
+2026-09-23 13:07:49 + : Host msg: |  || box, boxall, exchange, texall, hugall, zombie, zombieall, reflections, ooh, playsound 
+2026-09-23 13:07:49 + : Host msg: |  || zm 
+2026-09-23 13:07:57 + : pb-IF4WXmM_MA==  |  cipher1160| ꇙꉔꄲᖇᑭ꒐ꄲꋊ | hola 
+2026-09-23 13:08:02 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | hola 
+2026-09-23 13:08:11 + : pb-IF4WXmM_MA==  |  cipher1160| ꇙꉔꄲᖇᑭ꒐ꄲꋊ | tengo un moton de lag 
+2026-09-23 13:08:20 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | JoyBoyXLuffy: hua tha, flag hmm 
+2026-09-23 13:08:48 + : Host msg: | Congratulations,Maligna967 You've claimed..! 50. 
+2026-09-23 13:08:48 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 13:09:12 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | abhi oracle pr h, aws pr move karunga toh lag bhi thik ho jayega 
+2026-09-23 13:09:19 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | but uspr 3 mahine hi free h 
+2026-09-23 13:09:38 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | accha  
+2026-09-23 13:10:22 + : Host msg: | Congratulations,Unconv2182 You've claimed..! 50. 
+2026-09-23 13:10:22 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 13:10:41 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | 🤍❤‍🔥🤡𝕭𝖗𝖚𝖍🤡❤‍🔥🤍 
+2026-09-23 13:12:42 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /l 
+2026-09-23 13:12:42 + : Host msg: |       Name         Client ID   Player ID  
+2026-09-23 13:12:42 + : Host msg: | ______________________________ 
+2026-09-23 13:12:42 + : Host msg: |    𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓          130          0      
+2026-09-23 13:12:42 + : Host msg: |      Boomer           133          1      
+2026-09-23 13:12:42 + : Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           135          2      
+2026-09-23 13:12:42 + : Host msg: |  JoyBoyXLuf...        138          3      
+2026-09-23 13:12:42 + : Host msg: |      Magua            133          4      
+2026-09-23 13:13:05 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | testing wait 
+2026-09-23 13:13:06 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /headless 130 
+2026-09-23 13:13:15 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /headless 0 
+2026-09-23 13:13:25 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | owh 
+2026-09-23 13:13:30 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | lol ye kya tha 
+2026-09-23 13:13:55 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | XD  
+2026-09-23 13:14:10 + : Host msg: | Congratulations,Arya21 You've claimed..! 50. 
+2026-09-23 13:14:10 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 13:14:12 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | lol 
+2026-09-23 13:14:17 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | ꇙꉔꄲᖇᑭ꒐ꄲꋊ: tengo un moton de lag, yeah it's indian server  
+2026-09-23 13:14:42 + : pb-IF42XhcMHA==  |  Arya21| ♡~ 𝑹𝒐𝒃𝒊𝒏~♡ | yoo puffy im robin 
+2026-09-23 13:14:50 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | Luffy* yoo 
+2026-09-23 13:15:28 + : pb-IF42XhcMHA==  |  Arya21| ♡~ 𝑹𝒐𝒃𝒊𝒏~♡ | mene new server bnaya hai 
+2026-09-23 13:15:34 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | you're the owner?Cypher13 
+2026-09-23 13:16:12 + : Host msg: | Congratulations,OctaRoyal6 You've claimed..! 50. 
+2026-09-23 13:16:12 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 13:16:40 + : pb-IF42XhcMHA==  |  Arya21| ♡~ 𝑹𝒐𝒃𝒊𝒏~♡ | ROBIN OFFICIAL teams 
+2026-09-23 13:16:49 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | 𝙈𝘼𝙍𝙇𝙊𝙉: you're the owner?Cypher13, yeah 
+2026-09-23 13:17:13 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | this server is still in testing phase, not official right now 
+2026-09-23 13:17:25 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | can i get any role if you wished to?Cypher13 
+2026-09-23 13:17:44 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | yeah but they will reset when I do some changes lol 
+2026-09-23 13:17:52 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | max player ? 
+2026-09-23 13:17:54 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | 🤍❤‍🔥🤡𝕭𝖗𝖚𝖍🤡❤‍🔥🤍 
+2026-09-23 13:18:14 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | 5 karunga 7 pr lag ho rha fr 
+2026-09-23 13:18:33 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | ohwh 
+2026-09-23 13:19:27 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | can I get tag 
+2026-09-23 13:19:29 + : pb-IF42XhcMHA==  |  Arya21| ♡~ 𝑹𝒐𝒃𝒊𝒏~♡ | can u all visit.my server pls 
+2026-09-23 13:19:37 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | tell me the tag I will add 
+2026-09-23 13:19:54 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | ye stats pe click Kiya gana khul gaya 😂😂 
+2026-09-23 13:19:59 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | 😂😂 
+2026-09-23 13:20:01 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | MOGGER 
+2026-09-23 13:20:13 + : pb-IF42XhcMHA==  |  Arya21| ♡~ 𝑹𝒐𝒃𝒊𝒏~♡ | can I get also pls 
+2026-09-23 13:20:16 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | ok wait adding 
+2026-09-23 13:20:25 + : pb-IF42XhcMHA==  |  Arya21| ♡~ 𝑹𝒐𝒃𝒊𝒏~♡ | ˚₊‧꒰ა𝐀𝐫𝐲𝐚𝐧໒꒱‧₊˚ 
+2026-09-23 13:21:27 + : Host msg: | Congratulations,MRoutriger You've claimed..! 50. 
+2026-09-23 13:21:27 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 13:21:36 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | 𝙈𝘼𝙍𝙇𝙊𝙉: MOGGER, bro these emojis won't work, any normal emojis? 
+2026-09-23 13:21:43 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | ♡~ 𝑹𝒐𝒃𝒊𝒏~♡: ˚₊‧꒰ა𝐀𝐫𝐲𝐚𝐧໒꒱‧₊˚, same here 
+2026-09-23 13:22:19 + : pb-IF42XhcMHA==  |  Arya21| ♡~ 𝑹𝒐𝒃𝒊𝒏~♡ | 🌿˚₊‧꒰ა𝐀𝐫𝐲𝐚𝐧໒꒱‧₊˚🌿 
+2026-09-23 13:22:35 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | ♠MOGGER♦ In bold font  
+2026-09-23 13:23:34 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | ‎ 
+2026-09-23 13:23:37 + : Host msg: | Congratulations,Cheerles65 You've claimed..! 50. 
+2026-09-23 13:23:37 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 13:24:25 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /ping all  
+2026-09-23 13:24:25 + : Host msg: |       Name                  Ping (ms)             ms 
+2026-09-23 13:24:25 + : Host msg: | ______________________________ 
+2026-09-23 13:24:25 + : Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉                     33                ms 
+2026-09-23 13:24:25 + : Host msg: |  JoyBoyXLuf...                  57                ms 
+2026-09-23 13:24:25 + : Host msg: |     untitled                    38                ms 
+2026-09-23 13:24:25 + : Host msg: |    𝐏𝐚𝐫𝐢 🧚‍♀️                    15                ms 
+2026-09-23 13:24:25 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | JumPing 40.35ms 🐇 
+2026-09-23 13:24:43 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | robin kidhar gyi lol 
+2026-09-23 13:24:43 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | Ping-pong🏓 46.0ms 
+2026-09-23 13:24:54 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | bina bataye gaya 🥀 
+2026-09-23 13:25:07 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | tag add karwake bhag gya lel 
+2026-09-23 13:26:11 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | tag? 
+2026-09-23 13:27:00 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /l 
+2026-09-23 13:27:00 + : Host msg: |       Name         Client ID   Player ID  
+2026-09-23 13:27:00 + : Host msg: | ______________________________ 
+2026-09-23 13:27:00 + : Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           135          0      
+2026-09-23 13:27:00 + : Host msg: |  JoyBoyXLuf...        138          1      
+2026-09-23 13:27:00 + : Host msg: |    𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓          130          2      
+2026-09-23 13:27:00 + : Host msg: |    𝐏𝐚𝐫𝐢 🧚‍♀️          151          3      
+2026-09-23 13:29:07 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | lol 
+2026-09-23 13:30:19 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /tagadd 138 🏴‍☠️NIKA🏴‍☠️ 
+2026-09-23 13:30:26 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | hm  
+2026-09-23 13:30:32 + : Host msg: | Congratulations,RulingMana You've claimed..! 50. 
+2026-09-23 13:30:32 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 13:30:42 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /l 
+2026-09-23 13:30:42 + : Host msg: |       Name         Client ID   Player ID  
+2026-09-23 13:30:42 + : Host msg: | ______________________________ 
+2026-09-23 13:30:42 + : Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           135          0      
+2026-09-23 13:30:42 + : Host msg: |  JoyBoyXLuf...        138          1      
+2026-09-23 13:30:48 + : Host msg: | Congratulations,HumaneList You've claimed..! 50. 
+2026-09-23 13:30:48 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 13:30:55 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /tagadd 1 🏴‍☠️NIKA🏴‍☠️ 
+2026-09-23 13:31:06 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /addtag 1 🏴‍☠️NIKA🏴‍☠️ 
+2026-09-23 13:31:14 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | idhar se nhi kar rha kaam 
+2026-09-23 13:31:29 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | to? kaha se 
+2026-09-23 13:31:38 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | discord se kar rha 
+2026-09-23 13:31:44 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | woah 
+2026-09-23 13:32:00 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | do you guys know who am I  
+2026-09-23 13:32:03 + : Host msg: | Congratulations,kyarehaule You've claimed..! 50. 
+2026-09-23 13:32:03 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 13:32:13 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | human  
+2026-09-23 13:32:15 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | hehe 
+2026-09-23 13:32:28 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | brb pc se aata, need to test some commands 
+2026-09-23 13:32:34 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | yeye  
+2026-09-23 13:32:38 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | a Sweden streamer  
+2026-09-23 13:32:54 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | streamer? 
+2026-09-23 13:33:11 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | yep know for lookmaxxing 
+2026-09-23 13:33:24 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | nice ,keep growing on 
+2026-09-23 13:33:29 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | and a signed model  
+2026-09-23 13:33:30 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /shop effects 
+2026-09-23 13:33:30 + : Host msg: | ==You can buy following items== 
+2026-09-23 13:33:30 + : Host msg: | ice ---- 300 ---- for 1 day 
+2026-09-23 13:33:30 + : Host msg: | sweat ---- 200 ---- for 1 day 
+2026-09-23 13:33:30 + : Host msg: | sparkground ---- 150 ---- for 1 day 
+2026-09-23 13:33:30 + : Host msg: | sweatground ---- 340 ---- for 1 day 
+2026-09-23 13:33:30 + : Host msg: | scorch ---- 350 ---- for 1 day 
+2026-09-23 13:33:30 + : Host msg: | rainbow ---- 400 ---- for 1 day 
+2026-09-23 13:33:30 + : Host msg: | splinter ---- 100 ---- for 1 day 
+2026-09-23 13:33:30 + : Host msg: | highlightshine ---- 150 ---- for 1 day 
+2026-09-23 13:33:30 + : Host msg: | iceground ---- 250 ---- for 1 day 
+2026-09-23 13:33:30 + : Host msg: | glow ---- 400 ---- for 1 day 
+2026-09-23 13:33:30 + : Host msg: | distortion ---- 750 ---- for 1 day 
+2026-09-23 13:33:30 + : Host msg: | fairydust ---- 1000 ---- for 1 day 
+2026-09-23 13:33:30 + : Host msg: | slime ---- 500 ---- for 1 day 
+2026-09-23 13:33:30 + : Host msg: | metal ---- 500 ---- for 1 day 
+2026-09-23 13:33:30 + : Host msg: | surrounder ---- 1000 ---- for 1 day 
+2026-09-23 13:33:30 + : Host msg: | chispitas ---- 2000 ---- for 1 day 
+2026-09-23 13:33:30 + : Host msg: | colorfullspark ---- 240 ---- for 1 day 
+2026-09-23 13:33:30 + : Host msg: | stars ---- 750 ---- for 1 day 
+2026-09-23 13:33:30 + : Host msg: | footprint ---- 300 ---- for 1 day 
+2026-09-23 13:33:30 + : Host msg: | ring ---- 5000 ---- for 1 day 
+2026-09-23 13:33:30 + : Host msg: | darkmagic ---- 1300 ---- for 1 day 
+2026-09-23 13:33:30 + : Host msg: | fire ---- 200 ---- for 1 day 
+2026-09-23 13:33:30 + : Host msg: | new_rainbow ---- 250 ---- for 1 day 
+2026-09-23 13:33:42 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /tagadd pb-IF49XmgaBg== NIKA 
+2026-09-23 13:33:57 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /tag 
+2026-09-23 13:34:01 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /tag add 
+2026-09-23 13:34:06 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /help 
+2026-09-23 13:34:10 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | hmm 
+2026-09-23 13:34:22 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /help 
+2026-09-23 13:34:22 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /roleadd 
+2026-09-23 13:34:26 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /addrole 
+2026-09-23 13:34:38 + : Host msg: | Congratulations,Taksheel69 You've claimed..! 50. 
+2026-09-23 13:34:38 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 13:34:38 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /l 
+2026-09-23 13:34:38 + : Host msg: |       Name         Client ID   Player ID  
+2026-09-23 13:34:38 + : Host msg: | ______________________________ 
+2026-09-23 13:34:38 + : Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           135          0      
+2026-09-23 13:34:38 + : Host msg: |  JoyBoyXLuf...        138          1      
+2026-09-23 13:34:47 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /removerole 138 
+2026-09-23 13:34:53 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /lm 
+2026-09-23 13:34:53 + : Host msg: | JoyBoyXLuf...: ‎ 
+2026-09-23 13:34:53 + : Host msg: | JoyBoyXLuf...: /ping all  
+2026-09-23 13:34:53 + : Host msg: | JoyBoyXLuf...: JumPing 40.35ms 🐇 
+2026-09-23 13:34:53 + : Host msg: | ...: robin kidhar gyi lol 
+2026-09-23 13:34:53 + : Host msg: | JoyBoyXLuf...: Ping-pong🏓 46.0ms 
+2026-09-23 13:34:53 + : Host msg: | JoyBoyXLuf...: bina bataye gaya 🥀 
+2026-09-23 13:34:53 + : Host msg: | ...: tag add karwake bhag gya lel 
+2026-09-23 13:34:53 + : Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: tag? 
+2026-09-23 13:34:53 + : Host msg: | ...: /l 
+2026-09-23 13:34:53 + : Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: lol 
+2026-09-23 13:34:53 + : Host msg: | Cypher13: /tagadd 138 🏴‍☠️NIKA🏴‍☠️ 
+2026-09-23 13:34:53 + : Host msg: | Cypher13: hm  
+2026-09-23 13:34:53 + : Host msg: | Cypher13: /l 
+2026-09-23 13:34:53 + : Host msg: | Cypher13: /tagadd 1 🏴‍☠️NIKA🏴‍☠️ 
+2026-09-23 13:34:53 + : Host msg: | Cypher13: /addtag 1 🏴‍☠️NIKA🏴‍☠️ 
+2026-09-23 13:34:53 + : Host msg: | Cypher13: idhar se nhi kar rha kaam 
+2026-09-23 13:34:53 + : Host msg: | JoyBoyXLuf...: to? kaha se 
+2026-09-23 13:34:53 + : Host msg: | Cypher13: discord se kar rha 
+2026-09-23 13:34:53 + : Host msg: | JoyBoyXLuf...: woah 
+2026-09-23 13:34:53 + : Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: do you guys know who am I  
+2026-09-23 13:34:53 + : Host msg: | JoyBoyXLuf...: human  
+2026-09-23 13:34:53 + : Host msg: | JoyBoyXLuf...: hehe 
+2026-09-23 13:34:53 + : Host msg: | Cypher13: brb pc se aata, need to test some commands 
+2026-09-23 13:34:53 + : Host msg: | JoyBoyXLuf...: yeye  
+2026-09-23 13:34:53 + : Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: a Sweden streamer  
+2026-09-23 13:34:53 + : Host msg: | JoyBoyXLuf...: streamer? 
+2026-09-23 13:34:53 + : Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: yep know for lookmaxxing 
+2026-09-23 13:34:53 + : Host msg: | JoyBoyXLuf...: nice ,keep growing on 
+2026-09-23 13:34:53 + : Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: and a signed model  
+2026-09-23 13:34:53 + : Host msg: | Cypher13: /shop effects 
+2026-09-23 13:34:53 + : Host msg: | Cypher13: /tagadd pb-IF49XmgaBg== NIKA 
+2026-09-23 13:34:53 + : Host msg: | Cypher13: /tag 
+2026-09-23 13:34:53 + : Host msg: | Cypher13: /tag add 
+2026-09-23 13:34:53 + : Host msg: | Cypher13: /help 
+2026-09-23 13:34:53 + : Host msg: | Cypher13: hmm 
+2026-09-23 13:34:53 + : Host msg: | JoyBoyXLuf...: /help 
+2026-09-23 13:34:53 + : Host msg: | Cypher13: /roleadd 
+2026-09-23 13:34:53 + : Host msg: | Cypher13: /addrole 
+2026-09-23 13:34:53 + : Host msg: | Cypher13: /l 
+2026-09-23 13:34:53 + : Host msg: | Cypher13: /removerole 138 
+2026-09-23 13:34:53 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | JumPing 47.67ms 🐇 
+2026-09-23 13:35:01 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /removerole 1 
+2026-09-23 13:35:05 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /l 
+2026-09-23 13:35:05 + : Host msg: |       Name         Client ID   Player ID  
+2026-09-23 13:35:05 + : Host msg: | ______________________________ 
+2026-09-23 13:35:05 + : Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           135          0      
+2026-09-23 13:35:05 + : Host msg: |  JoyBoyXLuf...        138          1      
+2026-09-23 13:35:05 + : Host msg: |     taksheel          166          2      
+2026-09-23 13:35:12 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /lm 
+2026-09-23 13:35:12 + : Host msg: | JoyBoyXLuf...: Ping-pong🏓 46.0ms 
+2026-09-23 13:35:12 + : Host msg: | JoyBoyXLuf...: bina bataye gaya 🥀 
+2026-09-23 13:35:12 + : Host msg: | ...: tag add karwake bhag gya lel 
+2026-09-23 13:35:12 + : Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: tag? 
+2026-09-23 13:35:12 + : Host msg: | ...: /l 
+2026-09-23 13:35:12 + : Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: lol 
+2026-09-23 13:35:12 + : Host msg: | Cypher13: /tagadd 138 🏴‍☠️NIKA🏴‍☠️ 
+2026-09-23 13:35:12 + : Host msg: | Cypher13: hm  
+2026-09-23 13:35:12 + : Host msg: | Cypher13: /l 
+2026-09-23 13:35:12 + : Host msg: | Cypher13: /tagadd 1 🏴‍☠️NIKA🏴‍☠️ 
+2026-09-23 13:35:12 + : Host msg: | Cypher13: /addtag 1 🏴‍☠️NIKA🏴‍☠️ 
+2026-09-23 13:35:12 + : Host msg: | Cypher13: idhar se nhi kar rha kaam 
+2026-09-23 13:35:12 + : Host msg: | JoyBoyXLuf...: to? kaha se 
+2026-09-23 13:35:12 + : Host msg: | Cypher13: discord se kar rha 
+2026-09-23 13:35:12 + : Host msg: | JoyBoyXLuf...: woah 
+2026-09-23 13:35:12 + : Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: do you guys know who am I  
+2026-09-23 13:35:12 + : Host msg: | JoyBoyXLuf...: human  
+2026-09-23 13:35:12 + : Host msg: | JoyBoyXLuf...: hehe 
+2026-09-23 13:35:12 + : Host msg: | Cypher13: brb pc se aata, need to test some commands 
+2026-09-23 13:35:12 + : Host msg: | JoyBoyXLuf...: yeye  
+2026-09-23 13:35:12 + : Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: a Sweden streamer  
+2026-09-23 13:35:12 + : Host msg: | JoyBoyXLuf...: streamer? 
+2026-09-23 13:35:12 + : Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: yep know for lookmaxxing 
+2026-09-23 13:35:12 + : Host msg: | JoyBoyXLuf...: nice ,keep growing on 
+2026-09-23 13:35:12 + : Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: and a signed model  
+2026-09-23 13:35:12 + : Host msg: | Cypher13: /shop effects 
+2026-09-23 13:35:12 + : Host msg: | Cypher13: /tagadd pb-IF49XmgaBg== NIKA 
+2026-09-23 13:35:12 + : Host msg: | Cypher13: /tag 
+2026-09-23 13:35:12 + : Host msg: | Cypher13: /tag add 
+2026-09-23 13:35:12 + : Host msg: | Cypher13: /help 
+2026-09-23 13:35:12 + : Host msg: | Cypher13: hmm 
+2026-09-23 13:35:12 + : Host msg: | JoyBoyXLuf...: /help 
+2026-09-23 13:35:12 + : Host msg: | Cypher13: /roleadd 
+2026-09-23 13:35:12 + : Host msg: | Cypher13: /addrole 
+2026-09-23 13:35:12 + : Host msg: | Cypher13: /l 
+2026-09-23 13:35:12 + : Host msg: | Cypher13: /removerole 138 
+2026-09-23 13:35:12 + : Host msg: | JoyBoyXLuf...: /lm 
+2026-09-23 13:35:12 + : Host msg: | JoyBoyXLuf...: JumPing 47.67ms 🐇 
+2026-09-23 13:35:12 + : Host msg: | Cypher13: /removerole 1 
+2026-09-23 13:35:12 + : Host msg: | JoyBoyXLuf...: /l 
+2026-09-23 13:35:12 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | Ping-pong🏓 57.75ms 
+2026-09-23 13:35:24 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | not working right 
+2026-09-23 13:35:29 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | haa 
+2026-09-23 13:35:35 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | kk dekhta baad mein 
+2026-09-23 13:35:57 + : Host msg: | Congratulations,Gravitat58 You've claimed..! 50. 
+2026-09-23 13:35:57 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 13:36:06 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | hey yo gravity  
+2026-09-23 13:36:26 + : pb-IF4dUGFYAg==  |  ItzMeGiza| ItzMeGiza | yo cyper 
+2026-09-23 13:36:29 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | My bad! 
+2026-09-23 13:36:31 + : pb-IF42XhcePw==  |  Taksheel69| taksheel | hey giza 
+2026-09-23 13:36:37 + : pb-IF4dUGFYAg==  |  ItzMeGiza| ItzMeGiza | can I have mod? 
+2026-09-23 13:36:38 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | hi 
+2026-09-23 13:36:48 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | bro it's test server lol 
+2026-09-23 13:36:57 + : pb-IF42XhcePw==  |  Taksheel69| taksheel | im banned from ur server 
+2026-09-23 13:37:05 + : Host msg: | Congratulations,ExpandedKe You've claimed..! 50. 
+2026-09-23 13:37:05 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 13:37:39 + : pb-IF4dUGFYAg==  |  ItzMeGiza| ItzMeGiza | taksheel your id? 
+2026-09-23 13:37:55 + : pb-IF42XhcePw==  |  Taksheel69| taksheel | Taksheel69 
+2026-09-23 13:38:05 + : pb-IF42XhcePw==  |  Taksheel69| taksheel | V2 
+2026-09-23 13:38:06 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | Taksheel69 
+2026-09-23 13:38:06 + : pb-IF4dUGFYAg==  |  ItzMeGiza| ItzMeGiza | join server 
+2026-09-23 13:39:07 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | luffy spawn point sahi kaam kar rha right 
+2026-09-23 13:39:16 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | yea yeah acche se karra 
+2026-09-23 13:39:30 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | good, baaki cheeze dheere dheere add karta rahunga 
+2026-09-23 13:39:45 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | umm wait 
+2026-09-23 13:39:54 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | 𝙈𝘼𝙍𝙇𝙊𝙉 
+2026-09-23 13:39:59 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /l 
+2026-09-23 13:39:59 + : Host msg: |       Name         Client ID   Player ID  
+2026-09-23 13:39:59 + : Host msg: | ______________________________ 
+2026-09-23 13:39:59 + : Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           135          0      
+2026-09-23 13:39:59 + : Host msg: |  JoyBoyXLuf...        138          1      
+2026-09-23 13:40:00 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | kk 
+2026-09-23 13:40:11 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | type /pme 135 
+2026-09-23 13:40:24 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | me? 
+2026-09-23 13:40:25 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | sorry 138 
+2026-09-23 13:40:29 + : Host msg: | Congratulations,PuKaRLaMa7 You've claimed..! 50. 
+2026-09-23 13:40:29 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 13:40:41 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | who? 
+2026-09-23 13:40:45 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /pme 138 
+2026-09-23 13:40:45 + : Host msg: | | Name: JoyBoyXLuffy 
+2026-09-23 13:40:45 + : Host msg: | | PB-ID: pb-IF49XmgaBg== 
+2026-09-23 13:40:45 + : Host msg: | | Tickets: 50 
+2026-09-23 13:40:45 + : Host msg: | | Rank: 5 
+2026-09-23 13:40:45 + : Host msg: | | Score: 325 
+2026-09-23 13:40:45 + : Host msg: | | Games: 8 
+2026-09-23 13:40:45 + : Host msg: | | Kills: 26 
+2026-09-23 13:40:45 + : Host msg: | | Deaths: 39 
+2026-09-23 13:40:45 + : Host msg: | | Avg.: 40.625 
+2026-09-23 13:40:48 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | you  
+2026-09-23 13:40:54 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | working for me 
+2026-09-23 13:41:01 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | /pme 138 
+2026-09-23 13:41:06 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | ha kal normal players ke liye kaam nai karra tha 
+2026-09-23 13:41:11 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | not working  
+2026-09-23 13:41:18 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | I see 
+2026-09-23 13:41:33 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | you want this to be enabled for everyone? 
+2026-09-23 13:41:39 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | haa 
+2026-09-23 13:41:46 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | ok 
+2026-09-23 13:41:47 + : Host msg: | Congratulations,Brathaaooh You've claimed..! 50. 
+2026-09-23 13:41:47 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 13:42:35 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | holy.. 
+2026-09-23 13:42:51 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | hehe 
+2026-09-23 13:43:35 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | Big thanks! 
+2026-09-23 13:43:57 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | cooked 
+2026-09-23 13:44:11 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | GG! 
+2026-09-23 13:44:18 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | gtg sorry byee see yaa soon 
+2026-09-23 13:44:26 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | ok byeee  
+2026-09-23 13:46:37 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /customtag 
+2026-09-23 13:46:42 + : Host msg: | Congratulations,clownpeace You've claimed..! 50. 
+2026-09-23 13:46:42 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 13:46:48 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /l 
+2026-09-23 13:46:48 + : Host msg: |       Name         Client ID   Player ID  
+2026-09-23 13:46:48 + : Host msg: | ______________________________ 
+2026-09-23 13:47:40 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /shop commands 
+2026-09-23 13:51:26 + : Host msg: | Congratulations,PlumpCouns You've claimed..! 50. 
+2026-09-23 13:51:26 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 13:52:17 + : pb-IF4JXmhZPA==  |  Cypher13| Boomer | /l 
+2026-09-23 13:52:17 + : Host msg: |       Name         Client ID   Player ID  
+2026-09-23 13:52:17 + : Host msg: | ______________________________ 
+2026-09-23 13:52:17 + : Host msg: |     untitled          190          0      
+2026-09-23 13:52:17 + : Host msg: |      Boomer           191          1      
+2026-09-23 13:52:34 + : pb-IF4JXmhZPA==  |  Cypher13| Boomer | /customtag 191 Yo 
+2026-09-23 13:52:40 + : pb-IF4JXmhZPA==  |  Cypher13| Boomer | /kill all 
+2026-09-23 13:53:47 + : pb-IF4JXmhZPA==  |  Cypher13| Boomer | /l 
+2026-09-23 13:53:47 + : Host msg: |       Name         Client ID   Player ID  
+2026-09-23 13:53:47 + : Host msg: | ______________________________ 
+2026-09-23 13:53:47 + : Host msg: |      Boomer           191          0      
+2026-09-23 13:53:47 + : Host msg: |    clownpeace         195          1      
+2026-09-23 13:55:04 + : pb-IF49XnogIw==  |  clownpeace| clownpeace | wow 
+2026-09-23 13:55:18 + : Host msg: | Server will restart on next opportunity. (series end) 
+2026-09-23 13:56:11 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | Cypher13Cypher13 
+2026-09-23 13:56:54 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | top 2 admin 
+2026-09-23 13:58:04 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | top 2 admin? 
+2026-09-23 13:58:35 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | /pme 199 
+2026-09-23 13:58:35 + : Host msg: | | Name: 𝙈𝘼𝙍𝙇𝙊𝙉 
+2026-09-23 13:58:35 + : Host msg: | | PB-ID: pb-IF5dUUs5Dg== 
+2026-09-23 13:58:35 + : Host msg: | | Tickets: 50 
+2026-09-23 13:58:35 + : Host msg: | | Rank: 2 
+2026-09-23 13:58:35 + : Host msg: | | Score: 355 
+2026-09-23 13:58:35 + : Host msg: | | Games: 5 
+2026-09-23 13:58:35 + : Host msg: | | Kills: 45 
+2026-09-23 13:58:35 + : Host msg: | | Deaths: 39 
+2026-09-23 13:58:35 + : Host msg: | | Avg.: 71.0 
+2026-09-23 13:58:39 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | Server7611774: | Score: 355 
+2026-09-23 13:58:54 + : pb-IF4JXmhZPA==  |  Cypher13| 𝑪︎𝒚𝒑︎𝒉𝒆︎𝒓 | need 15k score and top 1, it will automatically make u admin 
+2026-09-23 13:59:01 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | kk 
+2026-09-23 14:00:23 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /customtag 
+2026-09-23 14:00:32 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /buy customtag 
+2026-09-23 14:00:32 + : Host msg: | invalid item, try using '/shop effects 
+2026-09-23 14:00:49 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /shop commands 
+2026-09-23 14:00:59 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /l 
+2026-09-23 14:00:59 + : Host msg: |       Name         Client ID   Player ID  
+2026-09-23 14:00:59 + : Host msg: | ______________________________ 
+2026-09-23 14:00:59 + : Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           199          0      
+2026-09-23 14:01:05 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /l 
+2026-09-23 14:01:05 + : Host msg: |       Name         Client ID   Player ID  
+2026-09-23 14:01:05 + : Host msg: | ______________________________ 
+2026-09-23 14:01:05 + : Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           199          0      
+2026-09-23 14:01:05 + : Host msg: |     untitled          179          1      
+2026-09-23 14:01:19 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /customtag 179 ZEN 
+2026-09-23 14:01:32 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /kill 
+2026-09-23 14:01:55 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /l 
+2026-09-23 14:01:55 + : Host msg: |       Name         Client ID   Player ID  
+2026-09-23 14:01:55 + : Host msg: | ______________________________ 
+2026-09-23 14:01:55 + : Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           199          0      
+2026-09-23 14:01:55 + : Host msg: |     untitled          179          1      
+2026-09-23 14:02:06 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | /customtag 1 ZEN 
+2026-09-23 14:02:19 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /kill 
+2026-09-23 14:02:27 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | type zen first  
+2026-09-23 14:02:45 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /l 
+2026-09-23 14:02:45 + : Host msg: |       Name         Client ID   Player ID  
+2026-09-23 14:02:45 + : Host msg: | ______________________________ 
+2026-09-23 14:02:45 + : Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           199          0      
+2026-09-23 14:02:45 + : Host msg: |     Cypher13          179          1      
+2026-09-23 14:02:55 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /customtag ZEN 179 
+2026-09-23 14:03:09 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | wow nice 
+2026-09-23 14:03:09 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | see 
+2026-09-23 14:03:22 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | can you give your tag with those emojis 
+2026-09-23 14:03:24 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | let's test 
+2026-09-23 14:03:44 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | i was owner and moderator I'm many servers 
+2026-09-23 14:04:27 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | recently i quitted BS for 6 months  
+2026-09-23 14:05:23 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 |  
+2026-09-23 14:05:43 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 |  
+2026-09-23 14:05:53 + : Host msg: | Congratulations,TopJungle7 You've claimed..! 50. 
+2026-09-23 14:05:53 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 14:05:55 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /customtag  179 
+2026-09-23 14:06:00 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 |  
+2026-09-23 14:06:05 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /kill 
+2026-09-23 14:06:21 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | cool 
+2026-09-23 14:06:28 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | yep 
+2026-09-23 14:07:05 + : Host msg: | Congratulations,Loiter1891 You've claimed..! 50. 
+2026-09-23 14:07:05 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 14:07:19 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | i even have playlist for api9 
+2026-09-23 14:07:39 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | with mods 
+2026-09-23 14:08:15 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | pc is hard lol 
+2026-09-23 14:08:37 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | I'm on tv ----____---- 
+2026-09-23 14:08:43 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | crazy XD 
+2026-09-23 14:09:17 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | using controller 
+2026-09-23 14:09:49 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | do you need playlist  
+2026-09-23 14:10:02 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | nah bro 
+2026-09-23 14:10:18 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | I have everything, am staff in vortex servers 
+2026-09-23 14:10:30 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | owww  
+2026-09-23 14:11:05 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /l 
+2026-09-23 14:11:05 + : Host msg: |       Name         Client ID   Player ID  
+2026-09-23 14:11:05 + : Host msg: | ______________________________ 
+2026-09-23 14:11:05 + : Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           199          0      
+2026-09-23 14:11:05 + : Host msg: |     Cypher13          179          1      
+2026-09-23 14:11:05 + : Host msg: |     Bhandari          216          2      
+2026-09-23 14:11:31 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | lagg 
+2026-09-23 14:11:38 + : Host msg: | Congratulations,Southw1984 You've claimed..! 50. 
+2026-09-23 14:11:38 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 14:12:40 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /l 
+2026-09-23 14:12:40 + : Host msg: |       Name         Client ID   Player ID  
+2026-09-23 14:12:40 + : Host msg: | ______________________________ 
+2026-09-23 14:12:40 + : Host msg: |     Cypher13          179          0      
+2026-09-23 14:12:40 + : Host msg: |  sóc lọ đới...        220          1      
+2026-09-23 14:14:18 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | hmm lets test if roles are working 
+2026-09-23 14:14:20 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /l 
+2026-09-23 14:14:20 + : Host msg: |       Name         Client ID   Player ID  
+2026-09-23 14:14:20 + : Host msg: | ______________________________ 
+2026-09-23 14:14:20 + : Host msg: |     Cypher13          179          0      
+2026-09-23 14:14:20 + : Host msg: |      𝙈𝘼𝙍𝙇𝙊𝙉           221          1      
+2026-09-23 14:14:24 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | kk 
+2026-09-23 14:14:34 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /roleadd vip 221 
+2026-09-23 14:14:42 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /addrole vip 221 
+2026-09-23 14:14:42 + : Host msg: | vip role Added 
+2026-09-23 14:14:44 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | addrole  
+2026-09-23 14:14:51 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /kill all 
+2026-09-23 14:14:53 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | check 
+2026-09-23 14:15:02 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | /ooh 
+2026-09-23 14:15:06 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | nice 
+2026-09-23 14:15:28 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /removerole vip 221 
+2026-09-23 14:15:28 + : Host msg: | vip role Removed 
+2026-09-23 14:15:35 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /kill all 
+2026-09-23 14:15:38 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | check 
+2026-09-23 14:15:47 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | /ooh  
+2026-09-23 14:15:52 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | yupp 
+2026-09-23 14:28:41 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | kya hua 
+2026-09-23 14:28:52 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /l 
+2026-09-23 14:28:52 + : Host msg: |       Name         Client ID   Player ID  
+2026-09-23 14:28:52 + : Host msg: | ______________________________ 
+2026-09-23 14:28:52 + : Host msg: |     Cypher13          231          0      
+2026-09-23 14:28:52 + : Host msg: |  JoyBoyXLuf...        232          1      
+2026-09-23 14:29:06 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /addtag NIKA 232 
+2026-09-23 14:29:12 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /tagadd NIKA 232 
+2026-09-23 14:29:20 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | ohh 
+2026-09-23 14:29:23 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | my bad 
+2026-09-23 14:29:29 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /customtag NIKA 232 
+2026-09-23 14:29:32 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | now try 
+2026-09-23 14:29:40 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | yeyeye 
+2026-09-23 14:29:51 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /l 
+2026-09-23 14:29:51 + : Host msg: |       Name         Client ID   Player ID  
+2026-09-23 14:29:51 + : Host msg: | ______________________________ 
+2026-09-23 14:29:51 + : Host msg: |     Cypher13          231          0      
+2026-09-23 14:29:51 + : Host msg: |  JoyBoyXLuf...        232          1      
+2026-09-23 14:30:00 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /comp 232 Betray 
+2026-09-23 14:30:00 + : Host msg: | A complaint has been sent on the Discord server. Please wait for Staff to take action...!! 
+2026-09-23 14:30:14 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | aaya to h msg 
+2026-09-23 14:30:23 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | yes sir working 
+2026-09-23 14:30:43 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /removerole admin 232 
+2026-09-23 14:30:43 + : Host msg: | admin role Removed 
+2026-09-23 14:30:45 + : Host msg: | Congratulations,Inconte607 You've claimed..! 50. 
+2026-09-23 14:30:45 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 14:30:49 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | lol me staff bhi ban gaya 😂 
+2026-09-23 14:31:20 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | dekh tera admin hat gya hoga ab 
+2026-09-23 14:31:31 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /lm 
+2026-09-23 14:31:34 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | yeah hat gaya 
+2026-09-23 14:31:47 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | pc pr khel rha 
+2026-09-23 14:31:47 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | xd 
+2026-09-23 14:31:52 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | owhh 
+2026-09-23 14:31:59 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | all is working good than i expected  
+2026-09-23 14:32:02 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | Tqq, you're the best! 
+2026-09-23 14:32:38 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /addrole admin 232 
+2026-09-23 14:32:38 + : Host msg: | admin role Added 
+2026-09-23 14:32:48 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /lm 
+2026-09-23 14:32:48 + : Host msg: | Cypher13: /roleadd vip 221 
+2026-09-23 14:32:48 + : Host msg: | Server7611774: vip role Added 
+2026-09-23 14:32:48 + : Host msg: | Cypher13: /addrole vip 221 
+2026-09-23 14:32:48 + : Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: addrole  
+2026-09-23 14:32:48 + : Host msg: | Cypher13: /kill all 
+2026-09-23 14:32:48 + : Host msg: | Cypher13: check 
+2026-09-23 14:32:48 + : Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: /ooh 
+2026-09-23 14:32:48 + : Host msg: | Cypher13: nice 
+2026-09-23 14:32:48 + : Host msg: | Server7611774: vip role Removed 
+2026-09-23 14:32:48 + : Host msg: | Cypher13: /removerole vip 221 
+2026-09-23 14:32:48 + : Host msg: | Cypher13: /kill all 
+2026-09-23 14:32:48 + : Host msg: | Cypher13: check 
+2026-09-23 14:32:48 + : Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: /ooh  
+2026-09-23 14:32:48 + : Host msg: | 𝙈𝘼𝙍𝙇𝙊𝙉: yupp 
+2026-09-23 14:32:48 + : Host msg: | Cypher13: kya hua 
+2026-09-23 14:32:48 + : Host msg: | Cypher13: /l 
+2026-09-23 14:32:48 + : Host msg: | Cypher13: /addtag NIKA 232 
+2026-09-23 14:32:48 + : Host msg: | Cypher13: /tagadd NIKA 232 
+2026-09-23 14:32:48 + : Host msg: | Cypher13: ohh 
+2026-09-23 14:32:48 + : Host msg: | Cypher13: my bad 
+2026-09-23 14:32:48 + : Host msg: | Cypher13: /customtag NIKA 232 
+2026-09-23 14:32:48 + : Host msg: | Cypher13: now try 
+2026-09-23 14:32:48 + : Host msg: | JoyBoyXLuf...: yeyeye 
+2026-09-23 14:32:48 + : Host msg: | Cypher13: /l 
+2026-09-23 14:32:48 + : Host msg: | Cypher13: /comp 232 Betray 
+2026-09-23 14:32:48 + : Host msg: | JoyBoyXLuf...: aaya to h msg 
+2026-09-23 14:32:48 + : Host msg: | Cypher13: yes sir working 
+2026-09-23 14:32:48 + : Host msg: | Server7611774: admin role Removed 
+2026-09-23 14:32:48 + : Host msg: | Cypher13: /removerole admin 232 
+2026-09-23 14:32:48 + : Host msg: | JoyBoyXLuf...: lol me staff bhi ban gaya 😂 
+2026-09-23 14:32:48 + : Host msg: | Cypher13: dekh tera admin hat gya hoga ab 
+2026-09-23 14:32:48 + : Host msg: | JoyBoyXLuf...: /lm 
+2026-09-23 14:32:48 + : Host msg: | JoyBoyXLuf...: yeah hat gaya 
+2026-09-23 14:32:48 + : Host msg: | Cypher13: pc pr khel rha 
+2026-09-23 14:32:48 + : Host msg: | Cypher13: xd 
+2026-09-23 14:32:48 + : Host msg: | JoyBoyXLuf...: owhh 
+2026-09-23 14:32:48 + : Host msg: | JoyBoyXLuf...: all is working good than i expected  
+2026-09-23 14:32:48 + : Host msg: | JoyBoyXLuf...: Tqq, you're the best! 
+2026-09-23 14:32:48 + : Host msg: | Server7611774: admin role Added 
+2026-09-23 14:32:48 + : Host msg: | Cypher13: /addrole admin 232 
+2026-09-23 14:33:38 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | pc mein khelna nhi ata abhi XD 
+2026-09-23 14:33:41 + : Host msg: | Congratulations,Thallious7 You've claimed..! 50. 
+2026-09-23 14:33:41 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 14:34:40 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | haha  
+2026-09-23 14:35:02 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | mere upar complain karo 
+2026-09-23 14:35:13 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /l 
+2026-09-23 14:35:13 + : Host msg: |       Name         Client ID   Player ID  
+2026-09-23 14:35:13 + : Host msg: | ______________________________ 
+2026-09-23 14:35:13 + : Host msg: |     Cypher13          231          0      
+2026-09-23 14:35:13 + : Host msg: |  JoyBoyXLuf...        232          1      
+2026-09-23 14:35:13 + : Host msg: |    Inconte607         235          2      
+2026-09-23 14:35:13 + : Host msg: |  Ell x stec...        238          3      
+2026-09-23 14:35:14 + : Host msg: | Congratulations,KRATOS17OP You've claimed..! 50. 
+2026-09-23 14:35:14 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 14:35:27 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /comp 231 betraying  
+2026-09-23 14:35:27 + : Host msg: | A complaint has been sent on the Discord server. Please wait for Staff to take action...!! 
+2026-09-23 14:35:47 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /comp 232 UKV 
+2026-09-23 14:36:02 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /comp 232 betray 
+2026-09-23 14:36:15 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | ek aur karna, sayad kaam nhi karega 
+2026-09-23 14:36:29 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | /comp 231 ukvs 
+2026-09-23 14:36:38 + : Host msg: | Congratulations,MIGHTYthe2 You've claimed..! 50. 
+2026-09-23 14:36:38 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 14:36:47 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | hmm cooldown h kuch, remove karta hu later 
+2026-09-23 14:37:27 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | orr ha ek orr , niche likha hua aata h na ki "use /comp to more- 
+2026-09-23 14:37:27 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | details" 
+2026-09-23 14:38:20 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | ye comp fix kardunga, baaki I think sab sahi chal rha 
+2026-09-23 14:38:22 + : Host msg: | Congratulations,SeriousZeb You've claimed..! 50. 
+2026-09-23 14:38:22 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 14:38:28 + : pb-IF49XmgaBg==  |  JBoyXLuffy| <in-lobby> | brb 
+2026-09-23 14:38:57 + : pb-IF49XmgaBg==  |  JBoyXLuffy| <in-lobby> | yesss sab thik he baaki 
+2026-09-23 14:39:11 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | movement sahi h na character ki 
+2026-09-23 14:39:17 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | yeahh 
+2026-09-23 14:39:20 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | nice 
+2026-09-23 14:39:35 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | Didn't mean to trouble, Sryyy 
+2026-09-23 14:39:36 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | should I add colorful explosions? 
+2026-09-23 14:39:59 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | nah fir wo smash jaisa lagega 
+2026-09-23 14:40:12 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | colorful maps? 
+2026-09-23 14:40:17 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | ya ye hi thik h 
+2026-09-23 14:40:17 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | haa ye karo 
+2026-09-23 14:40:48 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | colourful maps , ya naye Wale custom maps 
+2026-09-23 14:40:56 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | ‎ 
+2026-09-23 14:40:58 + : Host msg: | Congratulations,Associ1530 You've claimed..! 50. 
+2026-09-23 14:40:58 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 14:41:02 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | haa  
+2026-09-23 14:41:04 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | Jo naye naye hote he  
+2026-09-23 14:41:18 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /l 
+2026-09-23 14:41:18 + : Host msg: |       Name         Client ID   Player ID  
+2026-09-23 14:41:18 + : Host msg: | ______________________________ 
+2026-09-23 14:41:18 + : Host msg: |     Cypher13          231          0      
+2026-09-23 14:41:18 + : Host msg: |    MIGHTYthe2         242          1      
+2026-09-23 14:41:18 + : Host msg: |    SeriousZeb         243          2      
+2026-09-23 14:41:18 + : Host msg: |  JoyBoyXLuf...        232          3      
+2026-09-23 14:41:29 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /removetag 231 
+2026-09-23 14:42:54 + : Host msg: | Congratulations,Curativ648 You've claimed..! 50. 
+2026-09-23 14:42:54 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 14:43:36 + : Host msg: | Congratulations,SupremeSw2 You've claimed..! 50. 
+2026-09-23 14:43:36 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 14:44:07 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | /shop commands 
+2026-09-23 14:45:00 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | xd  
+2026-09-23 14:45:06 + : Host msg: | Congratulations,ACBala2520 You've claimed..! 50. 
+2026-09-23 14:45:06 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 14:45:32 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | 100% sure ho gaya 5 se jyada hone par ho ra ping high 
+2026-09-23 14:45:37 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | yeah 
+2026-09-23 14:45:54 + : pb-IF4TU0IgUg==  |  MIGHTYthe2| MIGHTYthe2 | wtf 
+2026-09-23 14:47:00 + : Host msg: | MIGHTYthe2 started a kick vote for Puli pandi 
+2026-09-23 14:47:14 + : pb-IF49XmgaBg==  |  JBoyXLuffy| JoyBoyXLuffy | brb 
+2026-09-23 14:47:19 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | kk 
+2026-09-23 14:47:26 + : pb-IF4JXmhZPA==  |  Cypher13| Cypher13 | mein chalta khana khane 
+2026-09-23 14:50:59 + : pb-IF49XmgaBg==  |  JBoyXLuffy| <in-lobby> | okkie  
+2026-09-23 14:51:16 + : Host msg: | Congratulations,Glorio1144 You've claimed..! 50. 
+2026-09-23 14:51:16 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 14:53:57 + : Host msg: | Congratulations,santhosh38 You've claimed..! 50. 
+2026-09-23 14:53:57 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 14:54:10 + : Host msg: | Congratulations,NoNameB5626252 You've claimed..! 50. 
+2026-09-23 14:54:10 + : Host msg: | To check next join claim time: type /cjt or /checkjointime 
+2026-09-23 14:56:37 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | ☬ᗰᗩᖴIᗩ☬ 
+2026-09-23 14:56:45 + : pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | yes 
+2026-09-23 14:56:48 + : pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | 𝙈𝘼𝙍𝙇𝙊𝙉 
+2026-09-23 14:57:06 + : pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | say 
+2026-09-23 14:57:08 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | r u mayank? 
+2026-09-23 14:57:12 + : pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | yes 
+2026-09-23 14:57:16 + : pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | how 
+2026-09-23 14:57:41 + : pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | Cypher13 
+2026-09-23 14:57:44 + : pb-IF5dUUs5Dg==  |  MarIon| 𝙈𝘼𝙍𝙇𝙊𝙉 | I'm ur neighbor auntie  
+2026-09-23 14:57:48 + : pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | will u give me admin 
+2026-09-23 14:58:14 + : pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | Cypher13 
+2026-09-23 14:58:23 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | It's test server bro, it will be reset if I make some changes lol 
+2026-09-23 14:58:46 + : pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | ohh when ur going to make realone 
+2026-09-23 14:59:01 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | after I fix all bugs and add some features 
+2026-09-23 14:59:15 + : pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | then will u give admin to me 
+2026-09-23 14:59:22 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | will see 
+2026-09-23 14:59:28 + : pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | ok 
+2026-09-23 14:59:46 + : pb-IF5XUVMOHQ==  |  MAFIA0| ☬ᗰᗩᖴIᗩ☬ | come play 
+2026-09-23 14:59:53 + : pb-IF4JXmhZPA==  |  Cypher13| <in-lobby> | BCS-1.7.19  

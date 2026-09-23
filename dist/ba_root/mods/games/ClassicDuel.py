@@ -183,21 +183,53 @@ class DuelClassicGame(ba.TeamGameActivity[Player, Team]):
             if not player.is_alive():
                 self.spawn_player(player)
 
-    def _get_spawn_point(self, player: Player) -> ba.Vec3 | None:
-        # Guarantee deterministic opposing side spawns
-        if player.playervs1:
-            return ba.Vec3(self.map.get_start_position(0))
-        if player.playervs2:
-            return ba.Vec3(self.map.get_start_position(1))
+    def _get_opponent_position(self, player: Player):
+        """Return the live position of the other currently-alive duel player."""
+        for other in self.players:
+            if other is player:
+                continue
+            if not (other.playervs1 or other.playervs2):
+                continue
+            if not other.is_alive():
+                continue
+            actor = other.actor
+            node = getattr(actor, 'node', None) if actor else None
+            if node is None:
+                continue
+            try:
+                pos = node.position
+                return (pos[0], pos[1], pos[2])
+            except (AttributeError, IndexError, TypeError):
+                continue
+        return None
 
-        # Fallback to team position if slot flags are unset
-        try:
-            return ba.Vec3(self.map.get_start_position(player.team.id))
-        except Exception:
-            return ba.Vec3(self.map.get_start_position(0))
+    @staticmethod
+    def _distance_sq(a, b) -> float:
+        """Squared 3D distance between two position sequences."""
+        return ((a[0] - b[0]) ** 2 +
+                (a[1] - b[1]) ** 2 +
+                (a[2] - b[2]) ** 2)
+
+    def _get_spawn_point(self, player: Player):
+        # The first spawn of the match has no opponent to measure against,
+        # so keep the original deterministic slot assignment.
+        opponent_pos = self._get_opponent_position(player)
+        if opponent_pos is None:
+            if player.playervs2:
+                return self.map.get_start_position(1)
+            return self.map.get_start_position(0)
+
+        # For every respawn, use the opponent's current live position and
+        # choose whichever of the two duel spawn points is farther away.
+        spawn1 = self.map.get_start_position(0)
+        spawn2 = self.map.get_start_position(1)
+        return (spawn1 if self._distance_sq(spawn1, opponent_pos) >=
+                self._distance_sq(spawn2, opponent_pos) else spawn2)
 
     def _update_order(self) -> None:
-        for player in self.spawn_order:
+        # Iterate over a snapshot because this method removes players from
+        # spawn_order while assigning the two active duel slots.
+        for player in list(self.spawn_order):
             assert isinstance(player, Player)
             if not player.is_alive():
                 if not self._players_vs_1:

@@ -1,129 +1,5 @@
 {
- "Achievements": {
-  "Boom Goes the Dynamite": {
-   "Complete": true
-  },
-  "Boxer": {
-   "Complete": true
-  },
-  "Dual Wielding": {
-   "Complete": false
-  },
-  "Flawless Victory": {
-   "Complete": false
-  },
-  "Free Loader": {
-   "Complete": true
-  },
-  "Gold Miner": {
-   "Complete": true
-  },
-  "Got the Moves": {
-   "Complete": true
-  },
-  "In Control": {
-   "Complete": false
-  },
-  "Last Stand God": {
-   "Complete": true
-  },
-  "Last Stand Master": {
-   "Complete": true
-  },
-  "Last Stand Wizard": {
-   "Complete": true
-  },
-  "Mine Games": {
-   "Complete": true
-  },
-  "Off You Go Then": {
-   "Complete": true
-  },
-  "Onslaught God": {
-   "Complete": false
-  },
-  "Onslaught Master": {
-   "Complete": true
-  },
-  "Onslaught Training Victory": {
-   "Complete": true
-  },
-  "Onslaught Wizard": {
-   "Complete": true
-  },
-  "Precision Bombing": {
-   "Complete": true
-  },
-  "Pro Boxer": {
-   "Complete": true
-  },
-  "Pro Football Shutout": {
-   "Complete": true
-  },
-  "Pro Football Victory": {
-   "Complete": true
-  },
-  "Pro Onslaught Victory": {
-   "Complete": true
-  },
-  "Pro Runaround Victory": {
-   "Complete": true
-  },
-  "Rookie Football Shutout": {
-   "Complete": true
-  },
-  "Rookie Football Victory": {
-   "Complete": true
-  },
-  "Rookie Onslaught Victory": {
-   "Complete": true
-  },
-  "Runaround God": {
-   "Complete": false
-  },
-  "Runaround Master": {
-   "Complete": true
-  },
-  "Runaround Wizard": {
-   "Complete": true
-  },
-  "Sharing is Caring": {
-   "Complete": false
-  },
-  "Stayin' Alive": {
-   "Complete": true
-  },
-  "Super Mega Punch": {
-   "Complete": true
-  },
-  "Super Punch": {
-   "Complete": true
-  },
-  "TNT Terror": {
-   "Complete": true
-  },
-  "Team Player": {
-   "Complete": true
-  },
-  "The Great Wall": {
-   "Complete": true
-  },
-  "The Wall": {
-   "Complete": true
-  },
-  "Uber Football Shutout": {
-   "Complete": true
-  },
-  "Uber Football Victory": {
-   "Complete": true
-  },
-  "Uber Onslaught Victory": {
-   "Complete": true
-  },
-  "Uber Runaround Victory": {
-   "Complete": true
-  }
- },
+ "Achievements": {},
  "Auto Account State": "Server",
  "Auto Balance Teams": true,
  "Bear Coin": 1040,
@@ -194,111 +70,42 @@
  "Default Player Profiles": {
   "Client Input Device #1": "__account__",
   "Client Input Device #10": "\ua9c1\ud83d\udcab\u2022NFR\u2022\ud83d\udcab\ua9c2",
-  "Client Input Device #2": "__account__",
-  "Client Input Device #3": "__account__",
+  "Client Input Device #2": "\u262c\u15f0\u15e9\u15b4I\u15e9\u262c",
+  "Client Input Device #3": "\ud835\ude48\ud835\ude3c\ud835\ude4d\ud835\ude47\ud835\ude4a\ud835\ude49",
   "Client Input Device #4": "__account__",
-  "Client Input Device #5": "Bandar",
-  "Client Input Device #6": "all dog",
-  "Client Input Device #7": "__account__",
+  "Client Input Device #5": "__account__",
+  "Client Input Device #6": "_random",
+  "Client Input Device #7": "Ginger",
   "Client Input Device #8": "MINNAL \u1b44MURALI\u0fd0",
   "Client Input Device #9": "_random"
  },
  "Fleet Zone Pings": {
   "prod": {
-   "bangkok": 83.6358439992182,
-   "delhi": 19.229821999033447,
-   "hong_kong": 92.65690699976403,
-   "hyderabad": 15.253819001372904,
-   "jakarta": 72.89200499508297,
-   "kolkata": 32.806770999741275,
-   "kuala_lampur": 59.715200994105544,
-   "mumbai": 1.9918739999411628,
-   "singapore": 56.417510997562204,
-   "tel_aviv": 186.0410689987475
+   "bangkok": 81.5636292481795,
+   "delhi": 22.483496761415154,
+   "hong_kong": 86.60417245907593,
+   "hyderabad": 15.670804938767105,
+   "jakarta": 80.39254386466928,
+   "kolkata": 38.781242283352185,
+   "kuala_lampur": 67.9704074827896,
+   "mumbai": 1.8156099952757359,
+   "singapore": 53.21819600262097,
+   "tel_aviv": 165.93142900092062
   }
  },
  "Free-for-All Max Players": 25,
- "Free-for-All Playlist Randomize": true,
+ "Free-for-All Playlist Randomize": false,
  "Free-for-All Playlist Selection": "ServerModePlaylist",
- "Free-for-All Playlists": {
-  "ServerModePlaylist": [
-   {
-    "settings": {
-     "Allow Negative Scores": false,
-     "Enable Powerups": true,
-     "Epic Mode": true,
-     "Kills to Win Per Player": 10,
-     "Time Limit": 0,
-     "map": "Monkey Face"
-    },
-    "type": "ClassicDuel.DuelClassicGame"
-   },
-   {
-    "settings": {
-     "Allow Negative Scores": false,
-     "Enable Powerups": true,
-     "Epic Mode": true,
-     "Kills to Win Per Player": 10,
-     "Time Limit": 0,
-     "map": "Rampage"
-    },
-    "type": "ClassicDuel.DuelClassicGame"
-   },
-   {
-    "settings": {
-     "Allow Negative Scores": false,
-     "Enable Powerups": true,
-     "Epic Mode": true,
-     "Kills to Win Per Player": 10,
-     "Time Limit": 0,
-     "map": "The Pad"
-    },
-    "type": "ClassicDuel.DuelClassicGame"
-   },
-   {
-    "settings": {
-     "Allow Negative Scores": false,
-     "Enable Powerups": true,
-     "Epic Mode": true,
-     "Kills to Win Per Player": 10,
-     "Time Limit": 0,
-     "map": "Courtyard"
-    },
-    "type": "ClassicDuel.DuelClassicGame"
-   },
-   {
-    "settings": {
-     "Allow Negative Scores": false,
-     "Enable Powerups": true,
-     "Epic Mode": true,
-     "Kills to Win Per Player": 10,
-     "Time Limit": 0,
-     "map": "Bridgit"
-    },
-    "type": "ClassicDuel.DuelClassicGame"
-   },
-   {
-    "settings": {
-     "Allow Negative Scores": false,
-     "Enable Powerups": false,
-     "Epic Mode": true,
-     "Kills to Win Per Player": 10,
-     "Time Limit": 0,
-     "map": "Rampage"
-    },
-    "type": "ClassicDuel.DuelClassicGame"
-   }
-  ]
- },
+ "Free-for-All Playlists": {},
  "Idle Exit Minutes": null,
  "Local Account Name": "Server7611774",
  "PPM Settings": {
   "Healing Damage PTG": 72,
-  "Powers Gravity": true,
+  "Powers Gravity": false,
   "Powerup Name": true,
   "Powerup Scale": 1.0,
   "Powerup Style": "Auto",
-  "Powerup Time": true,
+  "Powerup Time": false,
   "Powerup With Shield": false,
   "Powerups": {
    "Champion": 0,
@@ -329,21 +136,7 @@
   "Tank Shield PTG": 96
  },
  "PSTR": 0,
- "Player Profiles": {
-  "__account__": {
-   "character": "Spaz",
-   "color": [
-    0.5,
-    0.25,
-    1.0
-   ],
-   "highlight": [
-    0.5,
-    0.25,
-    1.0
-   ]
-  }
- },
+ "Player Profiles": {},
  "Plugins": {
   "custom_hooks.modSetup": {
    "enabled": true
@@ -381,213 +174,8 @@
  "Team Game Max Players": 25,
  "Team Tournament Playlist Randomize": false,
  "Team Tournament Playlist Selection": "ServerModePlaylist",
- "Team Tournament Playlists": {
-  "Alpha 2v2": [
-   {
-    "settings": {
-     "Epic Mode": true,
-     "Respawn Times": 0.25,
-     "Score to Win": 3,
-     "Time Limit": 0,
-     "map": "Bridgit"
-    },
-    "type": "bastd.game.assault.AssaultGame"
-   },
-   {
-    "settings": {
-     "Epic Mode": true,
-     "Respawn Times": 0.25,
-     "Score to Win": 3,
-     "Time Limit": 0,
-     "map": "Crag Castle"
-    },
-    "type": "bastd.game.assault.AssaultGame"
-   },
-   {
-    "settings": {
-     "Chosen One Gets Gloves": false,
-     "Chosen One Gets Shield": false,
-     "Chosen One Time": 30,
-     "Epic Mode": true,
-     "Respawn Times": 0.25,
-     "Time Limit": 0,
-     "map": "Roundabout"
-    },
-    "type": "bastd.game.chosenone.ChosenOneGame"
-   },
-   {
-    "settings": {
-     "Chosen One Gets Gloves": true,
-     "Chosen One Gets Shield": false,
-     "Chosen One Time": 30,
-     "Epic Mode": true,
-     "Respawn Times": 0.25,
-     "Time Limit": 0,
-     "map": "Rampage"
-    },
-    "type": "bastd.game.chosenone.ChosenOneGame"
-   },
-   {
-    "settings": {
-     "Epic Mode": true,
-     "Kills to Win Per Player": 5,
-     "Respawn Times": 0.25,
-     "Time Limit": 0,
-     "map": "Monkey Face"
-    },
-    "type": "Boxing.BoxingGame"
-   },
-   {
-    "settings": {
-     "Epic Mode": true,
-     "Kills to Win Per Player": 5,
-     "Respawn Times": 0.25,
-     "Time Limit": 0,
-     "map": "Monkey Face"
-    },
-    "type": "bastd.game.deathmatch.DeathMatchGame"
-   },
-   {
-    "settings": {
-     "Epic Mode": true,
-     "Kills to Win Per Player": 5,
-     "Respawn Times": 0.25,
-     "Time Limit": 0,
-     "map": "Bridgit"
-    },
-    "type": "bastd.game.deathmatch.DeathMatchGame"
-   },
-   {
-    "settings": {
-     "Epic Mode": true,
-     "Kills to Win Per Player": 5,
-     "Respawn Times": 0.25,
-     "Time Limit": 0,
-     "map": "Rampage"
-    },
-    "type": "bastd.game.deathmatch.DeathMatchGame"
-   },
-   {
-    "settings": {
-     "Epic Mode": true,
-     "Kills to Win Per Player": 5,
-     "Respawn Times": 0.25,
-     "Time Limit": 0,
-     "map": "Courtyard"
-    },
-    "type": "bastd.game.deathmatch.DeathMatchGame"
-   },
-   {
-    "settings": {
-     "Balance Total Lives": false,
-     "Epic Mode": true,
-     "Lives Per Player": 3,
-     "Respawn Times": 0.25,
-     "Solo Mode": true,
-     "Time Limit": 0,
-     "map": "Rampage"
-    },
-    "type": "bastd.game.elimination.EliminationGame"
-   },
-   {
-    "settings": {
-     "Balance Total Lives": false,
-     "Epic Mode": true,
-     "Lives Per Player": 3,
-     "Respawn Times": 0.25,
-     "Solo Mode": true,
-     "Time Limit": 0,
-     "map": "Bridgit"
-    },
-    "type": "bastd.game.elimination.EliminationGame"
-   },
-   {
-    "settings": {
-     "Balance Total Lives": false,
-     "Epic Mode": true,
-     "Lives Per Player": 3,
-     "Respawn Times": 0.25,
-     "Solo Mode": false,
-     "Time Limit": 0,
-     "map": "Bridgit"
-    },
-    "type": "bastd.game.elimination.EliminationGame"
-   },
-   {
-    "settings": {
-     "Balance Total Lives": true,
-     "Epic Mode": true,
-     "Lives Per Player": 3,
-     "Respawn Times": 0.25,
-     "Solo Mode": false,
-     "Time Limit": 0,
-     "map": "Courtyard"
-    },
-    "type": "bastd.game.elimination.EliminationGame"
-   },
-   {
-    "settings": {
-     "Balance Total Lives": true,
-     "Epic Mode": true,
-     "Lives Per Player": 3,
-     "Respawn Times": 0.25,
-     "Solo Mode": false,
-     "Time Limit": 0,
-     "map": "Doom Shroom"
-    },
-    "type": "bastd.game.elimination.EliminationGame"
-   },
-   {
-    "settings": {
-     "Balance Total Lives": true,
-     "Epic Mode": true,
-     "Lives Per Player": 3,
-     "Respawn Times": 0.25,
-     "Solo Mode": false,
-     "Time Limit": 0,
-     "map": "Rampage"
-    },
-    "type": "bastd.game.elimination.EliminationGame"
-   },
-   {
-    "settings": {
-     "Balance Total Lives": true,
-     "Epic Mode": true,
-     "Lives Per Player": 3,
-     "Respawn Times": 0.25,
-     "Solo Mode": false,
-     "Time Limit": 0,
-     "map": "Roundabout"
-    },
-    "type": "bastd.game.elimination.EliminationGame"
-   },
-   {
-    "settings": {
-     "Balance Total Lives": true,
-     "Epic Mode": true,
-     "Lives Per Player": 1,
-     "Respawn Times": 0.25,
-     "Solo Mode": false,
-     "Time Limit": 0,
-     "map": "The Pad"
-    },
-    "type": "bastd.game.elimination.EliminationGame"
-   },
-   {
-    "settings": {
-     "Balance Total Lives": true,
-     "Epic Mode": true,
-     "Lives Per Player": 3,
-     "Respawn Times": 0.25,
-     "Solo Mode": false,
-     "Time Limit": 0,
-     "map": "Tip Top"
-    },
-    "type": "bastd.game.elimination.EliminationGame"
-   }
-  ]
- },
- "launchCount": 484,
+ "Team Tournament Playlists": {},
+ "launchCount": 494,
  "lc14173": 1,
  "lc14292": 1
 }

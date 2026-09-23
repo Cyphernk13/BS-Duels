@@ -132,6 +132,7 @@ def stats_to_clientid(arguments, clid, acid):
                          f"\ue048| PB-ID: {stats['aid']}\n"
                          f"\ue048| {ticket.capitalize()}: {tickets}{tic}\n"
                          f"\ue048| Rank: {stats['rank']}\n"
+			 f"\ue048| K/D: {stats['kd']}\n"
                          f"\ue048| Score: {stats['scores']}\n"
                          f"\ue048| Games: {stats['games']}\n"
                          f"\ue048| Kills: {stats['kills']}\n"

@@ -118,5 +118,131 @@
         "user_name": "cypher.nk",
         "command": "c!complainlist",
         "timestamp": "2026-09-22 19:29:55"
+    },
+    {
+        "user_id": 603003195911831573,
+        "user_name": "cypher.nk",
+        "command": "c!help",
+        "timestamp": "2026-09-22 23:36:57"
+    },
+    {
+        "user_id": 603003195911831573,
+        "user_name": "cypher.nk",
+        "command": "c!sc",
+        "timestamp": "2026-09-22 23:37:26"
+    },
+    {
+        "user_id": 603003195911831573,
+        "user_name": "cypher.nk",
+        "command": "c!cscsdata",
+        "timestamp": "2026-09-22 23:37:53"
+    },
+    {
+        "user_id": 603003195911831573,
+        "user_name": "cypher.nk",
+        "command": "c!csdata",
+        "timestamp": "2026-09-22 23:37:57"
+    },
+    {
+        "user_id": 603003195911831573,
+        "user_name": "cypher.nk",
+        "command": "c!nac",
+        "timestamp": "2026-09-22 23:39:27"
+    },
+    {
+        "user_id": 603003195911831573,
+        "user_name": "cypher.nk",
+        "command": "c!cdcsd pb-IF4JXmhZPA==",
+        "timestamp": "2026-09-23 00:03:48"
+    },
+    {
+        "user_id": 603003195911831573,
+        "user_name": "cypher.nk",
+        "command": "c!csd pb-IF4JXmhZPA==",
+        "timestamp": "2026-09-23 00:04:21"
+    },
+    {
+        "user_id": 603003195911831573,
+        "user_name": "cypher.nk",
+        "command": "c!tagremove pb-IF4JXmhZPA==",
+        "timestamp": "2026-09-23 12:58:29"
+    },
+    {
+        "user_id": 603003195911831573,
+        "user_name": "cypher.nk",
+        "command": "c!customtag",
+        "timestamp": "2026-09-23 12:58:51"
+    },
+    {
+        "user_id": 603003195911831573,
+        "user_name": "cypher.nk",
+        "command": "c!customs",
+        "timestamp": "2026-09-23 12:58:55"
+    },
+    {
+        "user_id": 603003195911831573,
+        "user_name": "cypher.nk",
+        "command": "c!taglist",
+        "timestamp": "2026-09-23 12:59:17"
+    },
+    {
+        "user_id": 603003195911831573,
+        "user_name": "cypher.nk",
+        "command": "c!help",
+        "timestamp": "2026-09-23 12:59:34"
+    },
+    {
+        "user_id": 603003195911831573,
+        "user_name": "cypher.nk",
+        "command": "c!cdtagadd pb-IF4JXmhZPA== \u200e",
+        "timestamp": "2026-09-23 13:01:27"
+    },
+    {
+        "user_id": 603003195911831573,
+        "user_name": "cypher.nk",
+        "command": "c!cdtagadd pb-IF42XhcMHA== \ud83c\udf3f\u02da\u208a\u2027\ua4b0\u10d0\ud835\udc00\ud835\udc2b\ud835\udc32\ud835\udc1a\ud835\udc27\u0ed2\ua4b1\u2027\u208a\u02da\ud83c\udf3f",
+        "timestamp": "2026-09-23 13:23:27"
+    },
+    {
+        "user_id": 603003195911831573,
+        "user_name": "cypher.nk",
+        "command": "c!cdtagadd pb-IF5dUUs5Dg== \u2660MOGGER\u2666",
+        "timestamp": "2026-09-23 13:24:11"
+    },
+    {
+        "user_id": 603003195911831573,
+        "user_name": "cypher.nk",
+        "command": "c!cdtagremove pb-IF4JXmhZPA==",
+        "timestamp": "2026-09-23 13:53:10"
+    },
+    {
+        "user_id": 603003195911831573,
+        "user_name": "cypher.nk",
+        "command": "c!help",
+        "timestamp": "2026-09-23 15:04:37"
+    },
+    {
+        "user_id": 603003195911831573,
+        "user_name": "cypher.nk",
+        "command": "c!checkdata",
+        "timestamp": "2026-09-23 15:04:47"
+    },
+    {
+        "user_id": 603003195911831573,
+        "user_name": "cypher.nk",
+        "command": "c!cdpdata pb-IF4JXmhZPA==",
+        "timestamp": "2026-09-23 15:05:17"
+    },
+    {
+        "user_id": 603003195911831573,
+        "user_name": "cypher.nk",
+        "command": "c!pdata pb-IF4JXmhZPA==",
+        "timestamp": "2026-09-23 15:05:33"
+    },
+    {
+        "user_id": 603003195911831573,
+        "user_name": "cypher.nk",
+        "command": "c!cdtop10",
+        "timestamp": "2026-09-23 15:05:57"
     }
 ]

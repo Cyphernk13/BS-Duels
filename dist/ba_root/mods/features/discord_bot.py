@@ -22,7 +22,7 @@ settings = setting.get_settings_data()
 intents = discord.Intents().all()
 client = Bot(command_prefix='v!', intents=intents)
 
-stats = {}
+stats = {'roster': {}, 'chats': [], 'playlist': {'current': 'N/A', 'next': 'N/A'}}
 livestatsmsgs = []
 logsChannelID = 859519868838608970
 liveStatsChannelID = 1079019991694839818
@@ -38,6 +38,40 @@ commands_prefix = ''
 liveChat = True
 token = ''
 logs = []
+BOT_START_TIME = datetime.utcnow()
+
+# --- Live-stats UI constants -------------------------------------------------
+COLOR_ONLINE = 0x57F287   # discord "green"
+COLOR_WARN = 0xFEE75C     # discord "yellow"
+COLOR_OFFLINE = 0xED4245  # discord "red"
+COLOR_CHAT = 0x5865F2     # discord "blurple"
+COLOR_LOGS = 0x2B2D31     # dark neutral
+STATS_MARKER = "livestats:main"   # hidden footer marker used to find/re-use the stats message
+CHAT_MARKER = "livestats:chat"    # hidden footer marker used to find/re-use the chat message
+
+
+def _bar(percent, length=10):
+    """Render a small unicode progress bar, e.g. [######----] 62%"""
+    try:
+        percent = max(0, min(100, float(percent)))
+    except (TypeError, ValueError):
+        percent = 0
+    filled = round((percent / 100) * length)
+    return f"[{'█' * filled}{'░' * (length - filled)}] {percent:.0f}%"
+
+
+def _format_uptime(start_time):
+    delta = datetime.utcnow() - start_time
+    days, rem = divmod(int(delta.total_seconds()), 86400)
+    hours, rem = divmod(rem, 3600)
+    minutes, _ = divmod(rem, 60)
+    parts = []
+    if days:
+        parts.append(f"{days}d")
+    if hours or days:
+        parts.append(f"{hours}h")
+    parts.append(f"{minutes}m")
+    return " ".join(parts)
 current_directory = os.path.dirname(os.path.abspath(__file__))
 setting_json_path = os.path.join(current_directory, '..', 'setting.json')
 BANK_PATH = _ba.env().get("python_directory_user", "") + "/bank.json"
@@ -2331,110 +2365,245 @@ async def on_ready():
 
 
 async def verify_channel():
+    """Find (or create) the two persistent bot messages the live-stats system
+    edits in place: [0] = server status embed, [1] = live chat embed.
+
+    Previously this just grabbed the first bot messages found in the last 5
+    channel messages and assumed positions 0/1 matched stats/chat, which broke
+    as soon as history order didn't match, or the channel wasn't clean. It now
+    identifies each message by a hidden footer marker so it reliably finds the
+    right message (or creates a fresh one) regardless of ordering or channel
+    clutter.
+    """
     global livestatsmsgs
     channel = client.get_channel(liveStatsChannelID)
-    botmsg_count = 0
-    async for msg in channel.history(limit=5):
-        if msg.author.id == client.user.id:
-            botmsg_count += 1
-            livestatsmsgs.append(msg)
+    if channel is None:
+        print(f"[LiveStats] Could not find channel with ID {liveStatsChannelID}")
+        return
 
-    livestatsmsgs.reverse()
-    
-    if botmsg_count == 0:  # If the bot hasn't posted any messages in the channel
-        embed = discord.Embed(title="Bot is active in this channel", color=0x00ff00)
-        await channel.send(embed=embed)
+    stats_msg = None
+    chat_msg = None
 
-    while (botmsg_count < 1):
-        try:
-            new_msg = await channel.send(embed=discord.Embed(title='Fetching messages! Please wait!'))
-            livestatsmsgs.append(new_msg)
-            botmsg_count += 1
-        except Exception as e:
-            print(f"Error occurred while sending 'Fetching messages! Please wait!' message: {e}")
-            break  # Exit the loop if an error occurs
+    async for msg in channel.history(limit=25):
+        if msg.author.id != client.user.id or not msg.embeds:
+            continue
+        footer_text = (msg.embeds[0].footer.text or "") if msg.embeds[0].footer else ""
+        if STATS_MARKER in footer_text and stats_msg is None:
+            stats_msg = msg
+        elif CHAT_MARKER in footer_text and chat_msg is None:
+            chat_msg = msg
+        if stats_msg and chat_msg:
+            break
+
+    placeholder = discord.Embed(
+        title="⏳ Booting up live stats...",
+        description="Fetching the first snapshot, hang tight!",
+        color=COLOR_WARN,
+    )
+
+    if stats_msg is None:
+        placeholder.set_footer(text=STATS_MARKER)
+        stats_msg = await channel.send(embed=placeholder)
+    if chat_msg is None:
+        placeholder2 = placeholder.copy()
+        placeholder2.title = "⏳ Booting up live chat..."
+        placeholder2.set_footer(text=CHAT_MARKER)
+        chat_msg = await channel.send(embed=placeholder2)
+
+    livestatsmsgs = [stats_msg, chat_msg]
 
     asyncio.run_coroutine_threadsafe(refresh_stats(), client.loop)
     asyncio.run_coroutine_threadsafe(send_logs(), client.loop)
 
+
 async def refresh_stats():
+    """Rebuilds and edits the live server-status embed every 10 seconds.
+
+    IMPORTANT FIX: this used to raise an uncaught KeyError on `stats['playlist']`
+    the very first time it ran (since `stats` starts empty and nothing was
+    ever populating it — see the BsDataThread note near the bottom of this
+    file), which silently killed this entire loop forever. Everything below
+    is now wrapped so one bad read never takes the whole live-stats loop down;
+    worst case it shows a "waiting for data" state and tries again in 10s.
+    """
     global stats
     await client.wait_until_ready()
 
     while not client.is_closed():
-        # Your existing code for refreshing server stats goes here
-        cpu = psutil.cpu_percent()
-        ram = psutil.virtual_memory().percent
-        ip = _ba.our_ip
-        port = _ba.our_port
-        reset = _ba.season_ends_in_days
-        server = _ba.app.server._config.party_name
-        pingss = ping.get_ping()
-        size = mid.members
-        msg = ''
         try:
-            # Assuming this is part of a larger function or method
-            for id in stats['roster']:
-                client_id = stats['roster'][id]['client_id']
-                name = stats['roster'][id]['name']
-                device_id = stats['roster'][id]['device_id']
-                msg += f"{client_id} [{id}] {name} {device_id}\n"
+            cpu = psutil.cpu_percent()
+            ram = psutil.virtual_memory().percent
+            ip = getattr(_ba, 'our_ip', 'N/A')
+            port = getattr(_ba, 'our_port', 'N/A')
+            reset = getattr(_ba, 'season_ends_in_days', 'N/A')
+            try:
+                server = _ba.app.server._config.party_name
+            except Exception:
+                server = "Unknown Server"
+            try:
+                pingss = ping.get_ping()
+            except Exception:
+                pingss = "N/A"
+            try:
+                registered_count = len(mid.members)
+            except Exception:
+                registered_count = "N/A"
+
+            roster = stats.get('roster', {}) or {}
+            playlist = stats.get('playlist', {}) or {}
+            current_game = playlist.get('current') or "N/A"
+            next_game = playlist.get('next') or "N/A"
+
+            try:
+                max_size = ba.internal.get_public_party_max_size()
+            except Exception:
+                max_size = "N/A"
+            try:
+                is_public = ba.internal.get_public_party_enabled()
+            except Exception:
+                is_public = "N/A"
+
+            player_lines = []
+            for pid, pdata_ in roster.items():
+                try:
+                    player_lines.append(
+                        f"• {pdata_.get('name', 'Unknown')}  "
+                        f"(client {pdata_.get('client_id', '?')}, {pdata_.get('device_id', '?')})"
+                    )
+                except Exception:
+                    continue
+            players_block = "\n".join(player_lines) if player_lines else "I am alone.. :("
+
+            top5 = list(getattr(mystats, 'top5Name', []) or [])
+            top5 += ["—"] * (5 - len(top5))
+            medals = ["🥇", "🥈", "🥉", "🏅", "🏅"]
+            top5_block = "\n".join(f"{medals[i]} {top5[i]}" for i in range(5))
+
+            online = bool(roster)
+            embed = discord.Embed(
+                title=f"🎮  {server}",
+                description=(
+                    f"```ocaml\n"
+                    f"Current Game : {current_game}\n"
+                    f"Next Game    : {next_game}\n"
+                    f"```"
+                ),
+                color=COLOR_ONLINE if online else COLOR_WARN,
+            )
+            embed.set_author(
+                name="LIVE SERVER STATUS  •  NODE #1",
+                icon_url="https://cdn.discordapp.com/emojis/878301194865508422.gif?size=512",
+            )
+            embed.add_field(name="👥 Players", value=f"```py\n{len(roster)}/{max_size}```", inline=True)
+            embed.add_field(name="📶 Ping", value=f"```yaml\n{pingss}```", inline=True)
+            embed.add_field(name="🌐 Public", value=f"```py\n{is_public}```", inline=True)
+            embed.add_field(name="🔌 Server Info", value=f"```yaml\nIP:   {ip}\nPORT: {port}```", inline=False)
+            embed.add_field(name="🗓️ Season Reset", value=f"```py\n{reset} day(s) left```", inline=True)
+            embed.add_field(name="📋 Registered Players", value=f"```py\n{registered_count}```", inline=True)
+            embed.add_field(name="⏱️ Bot Uptime", value=f"```py\n{_format_uptime(BOT_START_TIME)}```", inline=True)
+            embed.add_field(name="🧑‍🤝‍🧑 Players In Server", value=f"```\n{players_block}```", inline=False)
+            embed.add_field(name="🧠 CPU", value=f"`{_bar(cpu)}`", inline=False)
+            embed.add_field(name="💾 RAM", value=f"`{_bar(ram)}`", inline=False)
+            embed.add_field(name="🏆 Top 5 Players", value=top5_block, inline=False)
+            embed.set_footer(
+                text=f"{STATS_MARKER} • Auto-refreshes every 10s",
+                icon_url='https://cdn.discordapp.com/emojis/842886491533213717.gif?size=96&quality=lossless',
+            )
+            embed.timestamp = datetime.utcnow()
+
+            await livestatsmsgs[0].edit(embed=embed)
+
+            chat_embed = await get_chats()
+            if chat_embed.description != 'disabled':  # Only update the live chat if it's not disabled
+                await livestatsmsgs[1].edit(embed=chat_embed)
+
         except Exception as err:
-            print(f"ERROR OCCURED IN BOT.PY:\n{err}")
-    
-        embed=discord.Embed(title="", description=f"### {server} \n\n\n```ocaml\nCurrent Game: {stats['playlist']['current']}\nNext Game: {stats['playlist']['next']}```")
-        embed.set_author(name="LIVE SERVER STATUS | NODE #1", icon_url="https://cdn.discordapp.com/emojis/878301194865508422.gif?size=512")
-        embed.add_field(name=" **Players Registred**", value=f"```py\nMEMBERS_COUNT = {len(size)} ```", inline=False)
-        embed.add_field(name=" **Server's Reset**", value=f"```py\nSEASON ENDS IN {reset} DAYS```", inline=True)
-        embed.add_field(name=" **Server's Info**", value=f"```py\nIP = {ip} \nPORT = {port} ```", inline=False)    
-        embed.add_field(name=" **Players**", value=f"```py\n{len(stats['roster'])}/{ba.internal.get_public_party_max_size()} ```", inline=True)
-        embed.add_field(name=" **Public**", value=f"```py\n{ba.internal.get_public_party_enabled()} ```", inline=True)
-        embed.add_field(name=" **Ping**", value=f"```yaml\n{pingss}```", inline=True)
-        embed.add_field(name="**PLAYERS IN SERVER:**", value=f"```\n{msg if len(msg) != 0 else 'I am alone.. :('}```", inline=False)
-        #embed.add_field(name="CPU STATUS:", value="\u200b", inline=False)
-        embed.add_field(name="RAM", value=f"```\n{ram}%```", inline=True)
-        embed.add_field(name="CPU", value=f"```\n{cpu}%```", inline=True)
-        embed.add_field(name="TOP 5 PLAYERS", value=f"1.{mystats.top5Name[0]}\n2.{mystats.top5Name[1]}\n3.{mystats.top5Name[2]}\n4.{mystats.top5Name[3]}\n5.{mystats.top5Name[4]}", inline=False)
-        embed.set_footer(text="Auto updates every 10 seconds!", icon_url='https://cdn.discordapp.com/emojis/842886491533213717.gif?size=96&quality=lossless')
-        await livestatsmsgs[0].edit(embed=embed)
-        chat_embed = await get_chats()
-        if chat_embed.description != 'enabled':  # Only update the live chat if it's not disabled
-            await livestatsmsgs[1].edit(embed=chat_embed)        
+            print(f"[LiveStats] refresh_stats() error: {err}")
+            try:
+                err_embed = discord.Embed(
+                    title="⚠️ Live stats temporarily unavailable",
+                    description=f"```{err}```\nRetrying in 10 seconds...",
+                    color=COLOR_OFFLINE,
+                )
+                err_embed.set_footer(text=STATS_MARKER)
+                await livestatsmsgs[0].edit(embed=err_embed)
+            except Exception:
+                pass
+
         await asyncio.sleep(10)
 
 
 async def send_logs():
+    """Ships buffered logs to the logs channel as clean, chunked embeds
+    instead of a raw wall of text. Still batches every 10s to stay clear of
+    rate limits."""
     global logs
-    # safely dispatch logs to dc channel , without being rate limited and getting ban from discord
-    # still we sending 2 msg and updating 2 msg within 5 seconds , umm still risky ...nvm not my problem
     channel = client.get_channel(logsChannelID)
     await client.wait_until_ready()
     while not client.is_closed():
         if logs:
-            msg = ''
-            for msg_ in logs:
-                msg += msg_+"\n"
+            batch = logs
             logs = []
-            if msg:
-                #await requests.post("https://discord.com/api/webhooks/1088893756822011976/BSZFLkbB4VXYe-bo_6yD4CzfGdWGmy40xHmlqBx4sfI5QSH7axhKpj8g69rR486lBfpm", json = msg)
-                await channel.send(msg)
+            full_text = "\n".join(batch).strip()
+            if full_text and channel is not None:
+                # Discord embed description hard-caps at 4096 chars; split into
+                # multiple code-block chunks rather than truncating or dumping
+                # raw unformatted text.
+                max_chunk = 3900
+                lines = full_text.split("\n")
+                chunk = ""
+                chunks = []
+                for line in lines:
+                    if len(chunk) + len(line) + 1 > max_chunk:
+                        chunks.append(chunk)
+                        chunk = ""
+                    chunk += line + "\n"
+                if chunk:
+                    chunks.append(chunk)
+
+                for i, part in enumerate(chunks):
+                    embed = discord.Embed(
+                        title=f"📜 Server Log{'  (' + str(i + 1) + '/' + str(len(chunks)) + ')' if len(chunks) > 1 else ''}",
+                        description=f"```{part[:3990]}```",
+                        color=COLOR_LOGS,
+                    )
+                    embed.timestamp = datetime.utcnow()
+                    try:
+                        await channel.send(embed=embed)
+                    except Exception as e:
+                        print(f"[Logs] Failed to send log chunk: {e}")
         await asyncio.sleep(10)
 
+
 async def get_chats():
-    embed = discord.Embed(title="Live Chat")  # Green color for the embed message
+    """Builds the live in-game chat embed.
+
+    Previously this exploded every single chat line into its own embed field,
+    which silently breaks once there are more than 25 messages (Discord's
+    hard field limit) and looked cluttered even before that. It's now a
+    single readable code block, capped to the most recent messages.
+    """
+    embed = discord.Embed(title="💬 Live In-Game Chat", color=COLOR_CHAT)
 
     try:
-        for msg_ in stats['chats']:
-            embed.add_field(name="\u200b", value=msg_, inline=False)
+        recent = list(stats.get('chats', []) or [])[-15:]
+        if recent:
+            body = "\n".join(str(m) for m in recent)
+            if len(body) > 4000:
+                body = body[-4000:]
+            embed.description = f"```\n{body}\n```"
+        else:
+            embed.description = "```\nNo chat messages yet...\n```"
     except Exception as e:
-        print(f"Error while fetching chat messages: {e}")
-
-    if not embed.fields:  # Check if there are no fields in the embed
-        embed.add_field(name="Empty", value="No chat messages available")
+        print(f"[LiveStats] Error while fetching chat messages: {e}")
+        embed.description = "```\nNo chat messages available\n```"
 
     if not liveChat:
-        embed = discord.Embed(description='disabled')  # Return a disabled message as an embed
+        embed = discord.Embed(description='disabled')  # sentinel embed checked by refresh_stats()
+        return embed
 
+    embed.set_footer(text=CHAT_MARKER)
+    embed.timestamp = datetime.utcnow()
     return embed
 
 
@@ -2495,3 +2664,26 @@ class BsDataThread(object):
         stats['chats'] = ba.internal.get_chat_messages()
         stats['playlist'] = minigame
         #stats['teamInfo']=self.getTeamInfo()
+
+
+# =============================================================================
+# ROOT CAUSE OF "LIVE STATS SHOWS NOTHING":
+# `BsDataThread` was defined above but NEVER instantiated anywhere in this
+# file. Its `refreshStats()` method is what fills `stats['roster']`,
+# `stats['chats']` and `stats['playlist']` — without an instance, those keys
+# never existed, so `refresh_stats()` (the Discord-side embed builder) crashed
+# with a KeyError on its very first run and, since it was launched with
+# `asyncio.run_coroutine_threadsafe(...)` and never awaited/checked, that
+# crash was swallowed silently — the loop simply died and the embed was
+# stuck on "Fetching messages! Please wait!" forever.
+#
+# This single line starts the in-game polling loop (via a `ba.Timer`) that
+# actually feeds live data into `stats`, which `refresh_stats()` now reads
+# defensively either way. If some other file in your plugin already creates
+# a `BsDataThread()` instance, remove this line (or that other one) to avoid
+# running the poll loop twice.
+# =============================================================================
+try:
+    _bs_data_thread = BsDataThread()
+except Exception as _bs_data_thread_err:
+    print(f"[LiveStats] Failed to start BsDataThread: {_bs_data_thread_err}")

@@ -1,14 +1,12 @@
 {
     "customtag": {
-        "pb-IF4MVFI6Bw==": "\u0f3a\u04a1\u01df\u028d\u0268\u0f3b"
+        "pb-IF4MVFI6Bw==": "\u0f3a\u04a1\u01df\u028d\u0268\u0f3b",
+        "pb-IF42XhcMHA==": "\ud83c\udf3f\u02da\u208a\u2027\ua4b0\u10d0\ud835\udc00\ud835\udc2b\ud835\udc32\ud835\udc1a\ud835\udc27\u0ed2\ua4b1\u2027\u208a\u02da\ud83c\udf3f",
+        "pb-IF5dUUs5Dg==": "\u2660MOGGER\u2666",
+        "pb-IF49XmgaBg==": "NIKA"
     },
     "customeffects": {},
-    "paideffects": {
-        "pb-IF4JXmhZPA==": {
-            "effect": "stars",
-            "expiry": "22-09-2026 21:03:55"
-        }
-    },
+    "paideffects": {},
     "coin_claim": {
         "pb-IF4JUVVbFA==": {
             "name": "\ue063ATD",
@@ -39,7 +37,449 @@
             "name": "\ue063Cypher13",
             "expiry": "23-09-2026 19:26:17",
             "streak": 1
+        },
+        "pb-IF5TUmg8Fw==": {
+            "name": "\ue063DRKSOUL99",
+            "expiry": "23-09-2026 21:59:10",
+            "streak": 1
+        },
+        "pb-IF4KXncCKA==": {
+            "name": "\ue063Some1Ulove",
+            "expiry": "23-09-2026 22:12:36",
+            "streak": 1
+        },
+        "pb-IF5TXncHVw==": {
+            "name": "\ue063BIGBOSS77S",
+            "expiry": "23-09-2026 22:39:04",
+            "streak": 1
+        },
+        "pb-IF5UXkMMEA==": {
+            "name": "\ue063CrunchyHu3",
+            "expiry": "24-09-2026 00:14:49",
+            "streak": 1
+        },
+        "pb-IF5XUVMOHQ==": {
+            "name": "\ue063MAFIA0",
+            "expiry": "24-09-2026 02:28:38",
+            "streak": 1
+        },
+        "pb-IF4lVW4kJA==": {
+            "name": "\ue063Arman2109",
+            "expiry": "24-09-2026 02:29:48",
+            "streak": 1
+        },
+        "pb-IF4WV1AGCA==": {
+            "name": "\ue063RebelGuaca",
+            "expiry": "24-09-2026 02:36:34",
+            "streak": 1
+        },
+        "pb-IF5RXkItIw==": {
+            "name": "\ue063TopDogCart",
+            "expiry": "24-09-2026 03:03:31",
+            "streak": 1
+        },
+        "pb-IF4jXnkTAA==": {
+            "name": "\ue063Repeti3356",
+            "expiry": "24-09-2026 03:13:22",
+            "streak": 1
+        },
+        "pb-IF4VXkJSMw==": {
+            "name": "\ue063GeneticCli",
+            "expiry": "24-09-2026 03:44:53",
+            "streak": 1
+        },
+        "pb-IF4MURkpHA==": {
+            "name": "\ue063Toxic55",
+            "expiry": "24-09-2026 04:37:04",
+            "streak": 1
+        },
+        "pb-IF4vXhUACA==": {
+            "name": "\ue063Mogembo",
+            "expiry": "24-09-2026 05:04:55",
+            "streak": 1
+        },
+        "pb-IF5dURcHEA==": {
+            "name": "\ue063FL7N",
+            "expiry": "24-09-2026 05:28:19",
+            "streak": 1
+        },
+        "pb-IF49XmgaBg==": {
+            "name": "\ue063JBoyXLuffy",
+            "expiry": "24-09-2026 06:03:08",
+            "streak": 1
+        },
+        "pb-JiNJARFTVkFDVFxIFkdWV1VEEUReQldD": {
+            "name": "\ue063ApexArsena",
+            "expiry": "24-09-2026 06:04:13",
+            "streak": 1
+        },
+        "pb-IF4IUGQTAg==": {
+            "name": "\ue063virajpati5",
+            "expiry": "24-09-2026 06:16:07",
+            "streak": 1
+        },
+        "pb-IF4dUGFYAg==": {
+            "name": "\ue063ItzMeGiza",
+            "expiry": "24-09-2026 07:10:56",
+            "streak": 1
+        },
+        "pb-IF43UWsILw==": {
+            "name": "\ue063Sukg1",
+            "expiry": "24-09-2026 07:37:47",
+            "streak": 1
+        },
+        "pb-IF4BUXIFVw==": {
+            "name": "\ue063BrieferPai",
+            "expiry": "24-09-2026 07:55:35",
+            "streak": 1
+        },
+        "pb-IF5QVWsYFw==": {
+            "name": "\ue063Devastat40",
+            "expiry": "24-09-2026 07:57:55",
+            "streak": 1
+        },
+        "pb-IF4dXmtfMQ==": {
+            "name": "\ue063AilingBan9",
+            "expiry": "24-09-2026 07:59:01",
+            "streak": 1
+        },
+        "pb-IF4PUnYKVA==": {
+            "name": "\ue063Cutiebomb",
+            "expiry": "24-09-2026 08:39:34",
+            "streak": 1
+        },
+        "pb-IF4xXnZTCg==": {
+            "name": "\ue063GastricC60",
+            "expiry": "24-09-2026 09:21:43",
+            "streak": 1
+        },
+        "pb-IF5QUHYmJg==": {
+            "name": "\ue063DJHPNG",
+            "expiry": "24-09-2026 09:23:57",
+            "streak": 1
+        },
+        "pb-IF5XXkQeEw==": {
+            "name": "\ue063NativeCri2",
+            "expiry": "24-09-2026 10:16:21",
+            "streak": 1
+        },
+        "pb-IF4MVFI6Bw==": {
+            "name": "\ue063impu",
+            "expiry": "24-09-2026 10:43:20",
+            "streak": 1
+        },
+        "pb-IF43UksBIg==": {
+            "name": "\ue063joevigamer",
+            "expiry": "24-09-2026 10:55:26",
+            "streak": 1
+        },
+        "pb-IF5RUWwKKQ==": {
+            "name": "\ue063Heartfe365",
+            "expiry": "24-09-2026 10:58:04",
+            "streak": 1
+        },
+        "pb-IF4nUVhTIQ==": {
+            "name": "\ue063Seditio891",
+            "expiry": "24-09-2026 10:59:28",
+            "streak": 1
+        },
+        "pb-IF4cXmcEFA==": {
+            "name": "\ue063LegalOnset",
+            "expiry": "24-09-2026 11:02:22",
+            "streak": 1
+        },
+        "pb-JiNJVxFbU0RHWV5GE0NZXVZAE0JXRVZG": {
+            "name": "\ue063NoName21095224",
+            "expiry": "24-09-2026 11:05:06",
+            "streak": 1
+        },
+        "pb-IF4gXkJTVQ==": {
+            "name": "\ue063Sideways44",
+            "expiry": "24-09-2026 11:21:39",
+            "streak": 1
+        },
+        "pb-IF4tXnUhLQ==": {
+            "name": "\ue063swaritproo",
+            "expiry": "24-09-2026 11:22:37",
+            "streak": 1
+        },
+        "pb-IF42UWdTPw==": {
+            "name": "\ue063Desolat554",
+            "expiry": "24-09-2026 11:23:53",
+            "streak": 1
+        },
+        "pb-IF4dXncZUA==": {
+            "name": "\ue063Gratif1954",
+            "expiry": "24-09-2026 11:26:19",
+            "streak": 1
+        },
+        "pb-IF4TXkIuUQ==": {
+            "name": "\ue063FocalTail2",
+            "expiry": "24-09-2026 11:29:42",
+            "streak": 1
+        },
+        "pb-IF4HCGgf": {
+            "name": "\ue063Amanu",
+            "expiry": "24-09-2026 11:32:24",
+            "streak": 1
+        },
+        "pb-IF4tVFg7MQ==": {
+            "name": "\ue063Credul1147",
+            "expiry": "24-09-2026 11:37:02",
+            "streak": 1
+        },
+        "pb-IF4lUHVcUA==": {
+            "name": "\ue063MRHUNTERzo",
+            "expiry": "24-09-2026 11:37:27",
+            "streak": 1
+        },
+        "pb-IF4MUhZTFA==": {
+            "name": "\ue063Peak4412",
+            "expiry": "24-09-2026 11:37:57",
+            "streak": 1
+        },
+        "pb-IF4hUkxdPA==": {
+            "name": "\ue063zkhob46",
+            "expiry": "24-09-2026 11:38:21",
+            "streak": 1
+        },
+        "pb-IF4mUkpeHw==": {
+            "name": "\ue063HETGandhi",
+            "expiry": "24-09-2026 11:41:02",
+            "streak": 1
+        },
+        "pb-IF4vXnZcCg==": {
+            "name": "\ue063steeve1244",
+            "expiry": "24-09-2026 11:45:51",
+            "streak": 1
+        },
+        "pb-JiNJARFfUERIXlxCGUZVXVdFGEFfTlRC": {
+            "name": "\ue063prakhar301",
+            "expiry": "24-09-2026 11:46:03",
+            "streak": 1
+        },
+        "pb-IF4-XnYpIg==": {
+            "name": "\ue063PoliticCri",
+            "expiry": "24-09-2026 11:54:51",
+            "streak": 1
+        },
+        "pb-IF4oXkIuKA==": {
+            "name": "\ue063LovableD11",
+            "expiry": "24-09-2026 11:56:49",
+            "streak": 1
+        },
+        "pb-IF4cUFk-LA==": {
+            "name": "\ue063Awesomegme",
+            "expiry": "24-09-2026 11:57:40",
+            "streak": 1
+        },
+        "pb-IF4CXnosJA==": {
+            "name": "\ue063OnlineThi2",
+            "expiry": "24-09-2026 11:59:09",
+            "streak": 1
+        },
+        "pb-IF4QU0dcEA==": {
+            "name": "\ue063CorrodedCo",
+            "expiry": "24-09-2026 12:05:12",
+            "streak": 1
+        },
+        "pb-IF4yXkI5Cw==": {
+            "name": "\ue063Reluct1380",
+            "expiry": "24-09-2026 12:05:56",
+            "streak": 1
+        },
+        "pb-IF49UXkvNA==": {
+            "name": "\ue063Android67939922",
+            "expiry": "24-09-2026 12:22:56",
+            "streak": 1
+        },
+        "pb-IF4qXhIuJA==": {
+            "name": "\ue063shivanshG4",
+            "expiry": "24-09-2026 12:29:10",
+            "streak": 1
+        },
+        "pb-IF4IXmIyAg==": {
+            "name": "\ue063SleekBrick",
+            "expiry": "24-09-2026 13:05:09",
+            "streak": 1
+        },
+        "pb-IF5dUUs5Dg==": {
+            "name": "\ue063MarIon",
+            "expiry": "24-09-2026 13:06:30",
+            "streak": 1
+        },
+        "pb-IF4WXmM_MA==": {
+            "name": "\ue063cipher1160",
+            "expiry": "24-09-2026 13:07:15",
+            "streak": 1
+        },
+        "pb-IF4rXkIYNQ==": {
+            "name": "\ue063Maligna967",
+            "expiry": "24-09-2026 13:08:48",
+            "streak": 1
+        },
+        "pb-IF4hUVknDA==": {
+            "name": "\ue063Unconv2182",
+            "expiry": "24-09-2026 13:10:22",
+            "streak": 1
+        },
+        "pb-IF42XhcMHA==": {
+            "name": "\ue063Arya21",
+            "expiry": "24-09-2026 13:14:10",
+            "streak": 1
+        },
+        "pb-IF4HV3UaAA==": {
+            "name": "\ue063OctaRoyal6",
+            "expiry": "24-09-2026 13:16:12",
+            "streak": 1
+        },
+        "pb-IF4LUFAgCA==": {
+            "name": "\ue063MRoutriger",
+            "expiry": "24-09-2026 13:21:27",
+            "streak": 1
+        },
+        "pb-IF4GXkIBKA==": {
+            "name": "\ue063Cheerles65",
+            "expiry": "24-09-2026 13:23:37",
+            "streak": 1
+        },
+        "pb-IF4gXhgnHw==": {
+            "name": "\ue063RulingMana",
+            "expiry": "24-09-2026 13:30:32",
+            "streak": 1
+        },
+        "pb-IF49UBUoAQ==": {
+            "name": "\ue063HumaneList",
+            "expiry": "24-09-2026 13:30:48",
+            "streak": 1
+        },
+        "pb-IF4QU0hYIg==": {
+            "name": "\ue063kyarehaule",
+            "expiry": "24-09-2026 13:32:03",
+            "streak": 1
+        },
+        "pb-IF42XhcePw==": {
+            "name": "\ue063Taksheel69",
+            "expiry": "24-09-2026 13:34:38",
+            "streak": 1
+        },
+        "pb-IF43LFYZ": {
+            "name": "\ue063Gravitat58",
+            "expiry": "24-09-2026 13:35:57",
+            "streak": 1
+        },
+        "pb-IF4gUBgAJg==": {
+            "name": "\ue063ExpandedKe",
+            "expiry": "24-09-2026 13:37:05",
+            "streak": 1
+        },
+        "pb-IF4UU0EjMQ==": {
+            "name": "\ue063PuKaRLaMa7",
+            "expiry": "24-09-2026 13:40:29",
+            "streak": 1
+        },
+        "pb-IF4mXkEbVA==": {
+            "name": "\ue063Brathaaooh",
+            "expiry": "24-09-2026 13:41:47",
+            "streak": 1
+        },
+        "pb-IF49XnogIw==": {
+            "name": "\ue063clownpeace",
+            "expiry": "24-09-2026 13:46:42",
+            "streak": 1
+        },
+        "pb-IF4WXnoiIA==": {
+            "name": "\ue063PlumpCouns",
+            "expiry": "24-09-2026 13:51:26",
+            "streak": 1
+        },
+        "pb-IF4HXnc8Fg==": {
+            "name": "\ue063TopJungle7",
+            "expiry": "24-09-2026 14:05:53",
+            "streak": 1
+        },
+        "pb-IF4gUWcTHA==": {
+            "name": "\ue063Loiter1891",
+            "expiry": "24-09-2026 14:07:05",
+            "streak": 1
+        },
+        "pb-IF4PXkEGKA==": {
+            "name": "\ue063Southw1984",
+            "expiry": "24-09-2026 14:11:38",
+            "streak": 1
+        },
+        "pb-IF4hUVQpVA==": {
+            "name": "\ue063Inconte607",
+            "expiry": "24-09-2026 14:30:45",
+            "streak": 1
+        },
+        "pb-IF4AUFQFNw==": {
+            "name": "\ue063Thallious7",
+            "expiry": "24-09-2026 14:33:41",
+            "streak": 1
+        },
+        "pb-IF4hUm9TMg==": {
+            "name": "\ue063KRATOS17OP",
+            "expiry": "24-09-2026 14:35:14",
+            "streak": 1
+        },
+        "pb-IF4TU0IgUg==": {
+            "name": "\ue063MIGHTYthe2",
+            "expiry": "24-09-2026 14:36:38",
+            "streak": 1
+        },
+        "pb-IF4zUhkc": {
+            "name": "\ue063SeriousZeb",
+            "expiry": "24-09-2026 14:38:22",
+            "streak": 1
+        },
+        "pb-IF4lURAHJg==": {
+            "name": "\ue063Associ1530",
+            "expiry": "24-09-2026 14:40:58",
+            "streak": 1
+        },
+        "pb-IF4DXkIzDg==": {
+            "name": "\ue063Curativ648",
+            "expiry": "24-09-2026 14:42:54",
+            "streak": 1
+        },
+        "pb-IF4zVEwuEQ==": {
+            "name": "\ue063SupremeSw2",
+            "expiry": "24-09-2026 14:43:36",
+            "streak": 1
+        },
+        "pb-IF4tVEFZLA==": {
+            "name": "\ue063ACBala2520",
+            "expiry": "24-09-2026 14:45:06",
+            "streak": 1
+        },
+        "pb-IF4HUVJYXQ==": {
+            "name": "\ue063Glorio1144",
+            "expiry": "24-09-2026 14:51:16",
+            "streak": 1
+        },
+        "pb-JiNJARFZV0ZFVVdJF05SVlxHFUFYRVJH": {
+            "name": "\ue063santhosh38",
+            "expiry": "24-09-2026 14:53:57",
+            "streak": 1
+        },
+        "pb-IF4IUHYRLA==": {
+            "name": "\ue063NoNameB5626252",
+            "expiry": "24-09-2026 14:54:10",
+            "streak": 1
+        },
+        "pb-IF4lD0Ih": {
+            "name": "\ue063HarshGamme",
+            "expiry": "24-09-2026 15:31:32",
+            "streak": 1
         }
     },
-    "complainter": {}
+    "complainter": {
+        "pb-IF4JXmhZPA==": {
+            "expiry": "23-09-2026 05:30:00 PM"
+        },
+        "pb-IF49XmgaBg==": {
+            "expiry": "23-09-2026 05:35:27 PM"
+        }
+    }
 }
